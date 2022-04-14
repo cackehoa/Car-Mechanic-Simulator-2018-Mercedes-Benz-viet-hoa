@@ -1,0 +1,3856 @@
+﻿// -----------------------------------------CMS 2018-- GUI_Desc_PhotoZoom 
+
+//------------------------------------------------------------------------- MM
+
+MM_GameSettings = Cài đặt trò chơi
+MM_VideoSettings = Cài đặt video
+MM_AudioSettings = Cài đặt âm thanh
+
+MM_Language = Ngôn ngữ trò chơi
+
+MM_ScreenResolution = Độ phân giải màn hình
+MM_Fullscreen = Toàn màn hình
+MM_VSync = Vsync
+MM_Quality = Chất lượng đồ họa
+
+MM_GameVolume = Âm lượng trò chơi
+MM_MusicVolume = Âm lượng nhạc
+MM_AmbientSound = Âm thanh xung quanh
+
+MM_NewProfile = Hồ sơ mới
+MM_SelectProfile = Chọn hồ sơ
+MM_DeleteProfile = Xóa hồ sơ
+
+MM_Apply = áp dụng
+MM_Back = trở lại
+
+MM_NormalMode = Chế độ bình thường
+MM_SandboxMode = Chế độ sandbox
+MM_ExpertMode = Chế độ chuyên gia
+
+MM_EmptySave = hồ sơ trống
+
+//--------------------------------------------------------------------------- Menu
+
+M_Menu1 = Trò chơi mới
+M_Menu2 = Tiếp tục
+M_Menu3 = Hồ sơ
+M_Menu4 = DLCs
+M_Menu5 = Trưng bày xe
+M_Menu6 = Cài đặt
+M_Menu7 = Thống kê
+M_Menu8 = Danh vọng
+M_Menu9 = Thoát
+
+M_Settings_Audio = Cài đặt âm thanh
+M_Settings_Video = Cài đặt video
+M_Settings_Controller = Cài đặt trò chơi
+
+M_Welcome = Chào mừng
+
+M_OstatniSave = Trò chơi được lưu lần cuối
+M_BrakSave = Không có trò chơi nào đã lưu
+M_SkasowacSave = Bạn có chắc chắn muốn xóa hồ sơ này không?
+M_Pusty = trống
+M_WpiszNazweProfilu = Nhập tên hồ sơ
+M_MozeszPisacTutaj = Nhập ở đây
+M_rozpoaczacOdNowa = Bạn có chắc chắn muốn xóa tiến trình hiện tại của mình và bắt đầu lại không?
+
+M_OpcjeGrafiki0 = Chất lượng đồ họa
+M_OpcjeGrafiki1 = Kích thước kết cấu
+M_OpcjeGrafiki2 = Độ phân giải màn hình
+M_OpcjeGrafiki3 = Toàn màn hình
+M_OpcjeGrafiki4 = Khử răng cưa
+M_OpcjeGrafiki5 = Hấp thụ môi trường xung quanh
+M_OpcjeGrafiki6 = Độ sâu của trường
+M_OpcjeGrafiki7 = Vsync
+M_OpcjeGrafiki8 = Chuyển động mờ
+
+M_Stopniowanie0 = Tùy chỉnh
+M_Stopniowanie1 = Thấp
+M_Stopniowanie2 = Trung bình
+M_Stopniowanie3 = Cao
+M_Stopniowanie4 = Ultra
+
+M_OpcjeAudio1 = Tổng thể âm thanh trò chơi
+M_OpcjeAudio2 = Âm lượng nhạc trong trò chơi
+M_OpcjeAudio3 = Tiếng ồn xung quanh
+
+M_OpcjeOther1 = Tốc độ camera của chuột
+M_OpcjeOther2 = Tốc độ thu phóng camera 
+M_OpcjeOther3 = Đảo chuột Y
+M_OpcjeOther4 = Tốc độ bàn phím camera 
+M_OpcjeOther5 = Đánh dấu các linh kiện bị cấm
+M_OpcjeOther6 = Head Bob
+M_OpcjeOther7 = Làm mịn chuột
+M_OpcjeOther8 = Bàn phím AZERTY
+
+M_OpcjeLang = Language
+
+//--------------------------------------------------Sciezka diagnostyczna
+
+DiagCommand1 = Đặt bánh trước lên máy thử phanh
+DiagCommand2 = Nhấn và giữ phanh
+DiagCommand3 = Đặt bánh sau lên máy thử phanh
+DiagCommand4 = Nhấn và giữ phanh
+DiagCommand5 = Đặt bánh trước trên máy thử hệ thống treo
+DiagCommand6 = Chờ
+DiagCommand7 = Đặt bánh sau vào máy thử hệ thống treo
+DiagCommand8 = Chờ
+DiagCommand9 = Kiểm tra xong
+
+Diag_Left = Trái
+Diag_Right = Phải
+Diag_SuspensionTest = Kiểm tra đình chỉ
+Diag_BrakesTest = Kiểm tra phanh
+
+Diag_FrontBrakes = Phanh trước
+Diag_RearBrakes = Phanh sau
+Diag_FrontSuspension = Hệ thống treo trước
+Diag_RearSuspension = Hệ thống treo sau
+
+//--------------------------------------------------------------------------- Car Info
+GUI_CarInfoTitle = Thông tin xe
+GUI_TextBodyCondition = Tình trạng thân tổng thể
+GUI_TextPartsCondition = Tình trạng linh kiện tổng thể
+GUI_TextOddo = Dặm
+GUI_TextCarFactoryColor = Cài đặt màu
+GUI_TextCarColor = Màu hiện tại
+GUI_CarInfoEngine = Động cơ
+GUI_TextPowerGraph = Power curve
+GUI_TextTorqueGraph = Torque curve
+GUI_TextTuningVal = Giá trị điều chỉnh
+GUI_TextEngineValue = Giá trị động cơ
+GUI_CarInfoPartsList = Danh sách các linh kiện xe
+GUI_DescPartName = Tên linh kiện
+GUI_DescPartCondition = Tình trạng
+GUI_DescPartPrice = Giá bán
+GUI_RestorationBonus = Thưởng phục hồi
+GUI_CarValue = Giá trị xe
+GUI_SellCar = Bán xe
+GUI_FaultyPartsName = Tìm thấy linh kiện bị lỗi
+GUI_FaultyPartsFixed = Đã sửa
+GUI_OrderSummary = Tóm tắt theo thứ tự
+GUI_TaskBonus = Thưởng nhiệm vụ
+GUI_MoneySpent = Tiền đã tiêu
+GUI_JobBonus = Thưởng công
+GUI_TotalPayout = Tổng thanh toán
+GUI_FinishOrder = Hoàn tất đơn hàng
+GUI_BuyCar = Mua xe
+GUI_NegotiatePrice = Thương lượng giá
+GUI_CarPrice = Giá xe
+GUI_NegotiateChance = Cơ hội thương lượng
+
+//---------------------------------------------------------------------------- Inventory
+GUI_Inv_Title = Túi đồ
+GUI_Inv_SearchPlaceholder = nhập ở đây...
+GUI_Inv_ShowGroups = Hiển thị nhóm Túi đồ
+GUI_Inv_Sorting = Sắp xếp
+
+//---------------------------------------------------------------------------- Showroom
+GUI_Showroom_ShowHide = Hiển thị/Ẩn thân
+GUI_Showroom_Explode = Mở rộng
+GUI_Showroom_Cars = Xe
+GUI_Showroom_ChangeColor = Thay đổi màu sắc
+GUI_Showroom_ShowRust = Hiển thị rỉ sét
+GUI_Showroom_SitInside = Ngồi bên trong
+GUI_Showroom_QuitToMenu = Quay lại menu
+GUI_Showroom_ListOfCars = Danh sách xe
+
+//---------------------------------------------------------------------------- Shops
+Gui_Shop_PageName = Trình duyệt Internet
+GUI_RimsShop = Cửa hàng vành xe
+GUI_MainShop = Cửa hàng chính
+GUI_TuningShop = Cửa hàng điều chỉnh
+GUI_BodyShop = Cửa hàng thân xe
+GUI_BodyTuningShop = Cửa hàng điều chỉnh thân xe
+GUI_TireShop = Cửa hàng lốp xe
+GUI_LicensePlateShop = Cửa hàng biển số
+GUI_InteriorShop = Cửa hàng nội thất
+GUI_ShopAmount = Tổng số
+GUI_ShopSize = Kích thước
+GUI_ShopET = ET
+GUI_ShopWidth = Rộng
+GUI_ShopProfile = Hồ sơ
+GUI_ShopLicense = Biển số
+GUI_ShopCustomLicense = Tùy chỉnh
+
+//---------------------------------------------------------------------------- Create Group Menu
+GUI_CG_Title = Ghép linh kiện
+
+//---------------------------------------------------------------------------- Examine Report
+GUI_ExamineReport_Title = Báo cáo các linh kiện đã kiểm tra
+GUI_ExamineReport_Bookmark = Danh sách các linh kiện
+
+//---------------------------------------------------------------------------- Shop Buy Window
+GUI_ShopBuy_TotalPrice = Tổng giá:
+
+//---------------------------------------------------------------------------- Car Select Window
+GUI_SelectCarQuestion = Bạn muốn đi xe nào?
+
+//---------------------------------------------------------------------------- Upgrades
+GUI_Upgrades_Unlock = Mở khóa nâng cấp
+GUI_Upgrades_Reset = Đặt lại điểm
+GUI_Upgrades_AvailableSkillPoints = Điểm kỹ năng hiện có
+GUI_Upgrades_UpgradeCost = Chi phí nâng cấp
+GUI_Upgrades_Description = Mô tả
+
+//---------------------------------------------------------------------------- Shop List
+GUI_ShopList_Title = Danh sách mua sắm
+
+
+//---------------------------------------------------------------------------- Menu Orders
+GUI_Orders_Title = Đơn hàng sửa chữa
+GUI_Orders_JobDescription = Mô tả công việc
+GUI_Orders_MinimumCond = Sửa chữa với tình trạng các linh kiện tối thiểu
+GUI_Orders_TakeOrder = Nhận đơn hàng
+GUI_Orders_Decline = Từ chối đơn hàng
+
+//---------------------------------------------------------------------------- Inventory Items / Previews
+GUI_Item_Color = Màu sắc
+GUI_Item_Condition = Tình trạng
+GUI_Item_Brand = Nhãn hiệu
+GUI_Item_Quality = Chất lượng
+
+//---------------------------------------------------------------------------- Taken parts - Junk Shed
+GUI_TakenItems_Title = Tóm tắt các phần đã thực hiện
+GUI_TakenItems_Bookmark = Tóm lược
+GUI_TakenItems_PartsPrice = Giá linh kiện
+GUI_TakenItems_Discount = Giảm giá
+GUI_TakenItems_PriceToPay = Giá phải trả
+GUI_TakenItems_Buy = Mua linh kiện
+GUI_TakenItems_Quit = Thoát mà không có linh kiện
+
+//---------------------------------------------------------------------------- Cửa hàng sơn
+GUI_Paint_Title = Cửa hàng sơn
+GUI_Paint_ColorMixer = Trộn màu
+GUI_Paint_PaintButton = Sơn xe
+GUI_Paint_BackButton = Quay lại ga ra
+GUI_Paint_FactoryColorButton = Đặt cài đặt
+GUI_Paint_CurrentColorButton = Đặt hiện hành
+GUI_Paint_Hue = Hue
+GUI_Paint_Sat = Bão hòa
+GUI_Paint_Bri = Độ sáng
+GUI_Paint_QuickColor = Màu nhanh chóng
+GUI_Paint_Type = Loại sơn
+GUI_Paint_Price = Giá sơn
+GUI_Metallic = Kim loại
+GUI_Matt = Mờ
+GUI_Chameleon = Con tắc kè
+GUI_Pearl = Ngọc trai
+GUI_Paint_Livery = Livery
+
+//---------------------------------------------------------------------------- Pause Menu
+GUI_Pause_QuitMenuSaveButton = Lưu trò chơi và trở lại menu
+GUI_Pause_QuitMenuButton = Quay lại menu mà không lưu
+GUI_Pause_QuitGarageButton = Quay lại ga ra
+GUI_Pause_RestartButton = Khởi động lại
+GUI_Pause_ContinueButton = Tiếp tục
+//---------------------------------------------------------------------------- Units
+
+GUI_Speed_Metric = KMH
+GUI_Speed_Imperial = MPH
+GUI_Torque_Metric = N.m
+GUI_Torque_Imperial = lb.ft
+GUI_Power_Metric = HP
+GUI_Power_Imperial = HP
+GUI_Dist_Metric = km
+GUI_Dist_Imperial = mi
+
+//---------------------------------------------------------------------------- Access
+
+GUI_AccessFrom0 = Có thể tiếp cận từ khoang động cơ
+GUI_AccessFrom1 = Có thể tiếp cận từ phía bánh xe (trên thang máy)
+GUI_AccessFrom2 = Có thể vào được từ gầm xe hơi (trên thang máy)
+GUI_AccessFrom3 = Có thể đi vào từ gầm xe hoặc bánh xe (trên thang máy)
+
+//---------------------------------------------------------------------------- Examine
+
+
+GUI_ExamineFrom1 = Có thể kiểm tra bằng Máy quét OBD
+GUI_ExamineFrom2 = Có thể kiểm tra bằng cách Lái thử
+GUI_ExamineFrom3 = Có thể kiểm tra bằng cách Tháo khỏi xe
+GUI_ExamineFrom4 = Có thể kiểm tra trên Đường dẫn thử nghiệm
+GUI_ExamineFrom5 = Có thể kiểm tra với Máy kiểm tra nén
+GUI_ExamineFrom6 = Có thể kiểm tra bằng Đồng hồ điện tử
+GUI_ExamineFrom7 = Có thể kiểm tra bằng Máy kiểm tra lốp xe
+GUI_ExamineFrom8 = Có thể kiểm tra bằng Máy kiểm tra áp suất nhiên liệu
+GUI_ExamineFrom24 = Có thể kiểm tra bằng cách Lái thử hoặc Đường dẫn
+GUI_ExamineFromX = Công cụ kiểm tra - Cần cấp độ {0}
+
+//---------------------------------------------------------------------------- Repair
+
+GUI_RepairTable_Title = Băng ghế sửa chữa
+GUI_RepairChance = Cơ hội sửa chữa
+GUI_RepairCost = Chi phí sửa chữa
+GUI_RepairSkillLevel = Cấp độ kỹ năng sửa chữa
+
+GUI_RepairSuccess = Bạn quản lý để sửa chữa linh kiện!|Tình trạng linh kiện sau khi sửa chữa: {0} %
+GUI_RepairFail = Bạn không thể sửa chữa nó. Tình trạng linh kiện giảm.
+GUI_RepairTooMuchDamage = Tình trạng linh kiện quá thấp để sửa chữa.
+
+GUI_RepairFrom0 = Linh kiện không thể sửa chữa
+GUI_RepairFromX = Việc sửa chữa yêu cầu trình độ công cụ {0}
+GUI_RepairFrom7 = Linh kiện có thể được sạc bằng bộ sạc pin
+
+//------------------------------------------------------------------------------Help Descriptions 
+GUI_Desc_Click = Nhấn
+GUI_Desc_Hold = Giữ
+GUI_Desc_Press = Nhấn
+
+GUI_Desc_TakeOff = Tháo linh kiện
+GUI_Desc_Use = Sử dụng
+GUI_Desc_SitDown = Ngồi xuống
+GUI_Desc_RadioChangeStation = Thay đổi radio
+GUI_Desc_RadioTurnOff = Tắt radio
+GUI_Desc_Examine = Kiểm tra linh kiện
+GUI_Desc_Search = Tìm kiếm
+GUI_Desc_Focus = Tập trung vào linh kiện
+GUI_Desc_WorkOn = Làm việc trên linh kiện
+GUI_Desc_Orbit = Camera xoay quanh
+GUI_Desc_Leave_Car = Rời khỏi xe
+GUI_Desc_Mount = Gắn linh kiện
+GUI_Desc_TakePhoto = Chụp hình
+GUI_Desc_ChangeCamera = Thay đổi camera
+GUI_Desc_SellAll = Bán tất cả linh kiện
+GUI_Desc_SellJunk = Bán các linh kiện phế liệu
+GUI_Desc_ChangeCategory = Thay đổi danh mục
+GUI_Desc_CloseWindow = Đóng menu
+GUI_Desc_ChangeSelection = Thay đổi lựa chọn
+GUI_Desc_Use2 = Sử dụng
+//--------------------------------------------------------------------------- BUTTONS 
+
+GUI_Yes = Đúng
+GUI_No = Sai
+GUI_OK = OK
+GUI_Close = Đóng
+GUI_Apply = Áp dụng
+GUI_Cancel = Huỷ bỏ
+GUI_Quit = Thoát
+GUI_Exit = Thoát ra
+GUI_None = Không có
+
+// -------------------------------------------------------------------------- ORDERS
+
+GUI_MissionOrder = Thứ tự câu chuyện
+GUI_NormalOrder = Thứ tự bình thường
+GUI_Bonus_To_Money = Thưởng tiền
+GUI_Bonus_To_Exp = Thưởng kinh nghiệm
+
+// ------------------------------------------------------------------------- MAP LOCATIONS
+GUI_Map_Title = Chọn điểm đến
+GUI_Map_Garage = Garage của bạn
+GUI_Map_Junkyard = Bãi phế liệu
+GUI_Map_Auctions = Đấu giá xe
+GUI_Map_TestTrack = Đường thử nghiệm
+GUI_Map_Parking = Đậu xe
+GUI_Map_RaceTrack = Đường đua
+GUI_Map_Barn = Nhà kho
+GUI_Map_Salon = Salon xe
+
+//--------------------------------------------------------------------------- QUESTION WINDOWS
+
+GUI_PotwierdzenieZakupu = Bạn có chắc muốn mua không|{0}|cho {1} ?
+GUI_PotwierdzenieNaprawy = Bạn có chắc muốn sửa chữa không|{0}|cho {1} ?
+GUI_PotwierdzenieSprzedazy = Bạn có chắc muốn bán không|{0}|cho {1} ?
+GUI_PotwierdzenieWywazenia = Bạn có chắc chắn muốn cân bằng không|{0} ?
+GUI_PotwierdzenieZlaczenia = Bạn có chắc muốn cài đặt không|{0} trên {1} ?
+GUI_PotwierdzenieRozlaczenia = Bạn có chắc muốn tách không|{0} ?
+GUI_PotwierdzenieRozpoczeciaPathTest = Bạn có chắc muốn tiếp tục đường thử nghiệm không?
+GUI_PotwierdzenieLadowania = Bạn có chắc chắn muốn nạp pin không |{0} ?
+
+//---------------------------------------------------------------------------POPUP
+
+PopUp_NewItem = Vật dụng thêm
+PopUp_TakenItem = Vật dụng lấy
+PopUp_MusicSong = Đang chơi
+PopUp_SaveGame = Lưu trò chơi
+
+//---------------------------------------------------------------------------PIE MENU
+pie_battery_charge =  Sạc pin
+pie_battery_charge_bonus = Pin phẳng có thể được sạc lại ở đây
+
+pie_battery_take =  Lấy pin từ bộ sạc
+pie_battery_take_bonus = Pin sạc lại sẽ được thêm vào Túi đồ của bạn
+
+pie_spring_separate =  Tách rời linh kiện
+pie_spring_separate_bonus = Nhíp xe tách rời khỏi bộ giảm xóc
+
+pie_spring_connect =  Hợp linh kiện
+pie_spring_connect_bonus = Thêm nhíp xe với bộ giảm xóc
+
+pie_spring_take =  Lấy các linh kiện từ máy nén nhíp xe
+pie_spring_take_bonus =  Các linh kiện sẽ được thêm vào Túi đồ của bạn
+pie_wheel_separate = Linh kiện riêng biệt
+pie_wheel_separate_bonus =  Tách lốp khỏi vành
+
+pie_wheel_connect =  Lắp vào
+pie_wheel_connect_bonus =  Lắp lốp vào vành
+
+pie_wheel_take = Lấy
+pie_wheel_take_bonus =  Lấy linh kiện từ máy thay lốp
+
+pie_balancer_take = Lấy
+pie_balancer_take_bonus = Lấy linh kiện từ máy cân bằng bánh xe
+
+pie_balancer_balance =  Cân bằng
+pie_balancer_balance_bonus =  Bánh xe cân bằng
+
+pie_list_add =  Thêm vào danh sách
+pie_list_add_bonus =  Thêm linh kiện vào sổ ghi chép
+
+pie_list_delete =  Xóa khỏi danh sách
+pie_list_delete_bonus =  Xóa linh kiện khỏi sổ ghi chép
+
+pie_list_open =  GHI CHÚ LINH KIỆN
+pie_list_open_bonus =  Mở ghi chú linh kiện
+
+pie_list_locked = Di chuyển con trỏ qua linh kiện để thêm linh kiện đó vào ghi chú linh kiện
+
+pie_move_car =  DI CHUYỂN XE
+pie_move_car_bonus =  Di chuyển xe đến vị trí khác trong ga ra
+
+pie_move_dyno =  Dyno
+pie_move_dyno_bonus =  Bạn có thể kiểm tra và điều chỉnh hoạt động của xe tại đây
+
+pie_move_paintshop =  Cửa hàng sơn
+pie_move_paintshop_bonus =  Bạn có thể sơn toàn bộ xe cũng như linh kiện riêng biệt tại đây
+
+pie_move_parking =  Bãi đậu xe
+pie_move_parking_bonus =  Cất xe xe trong khu vực bãi đậu xe, vậy chúng không được đưa vào ga ra khi không cần thiết
+
+pie_move_pathTest =  Đường thử nghiệm
+pie_move_pathTest_bonus =  Đường thử nghiệm sẽ giúp bạn kiểm tra hầu hết các bộ phận của hệ thống treo và phanh
+
+pie_move_entrance1 =  Lối vào ga ra A
+pie_move_entrance1_bonus =  Đặt gần cửa ga ra
+
+pie_move_entrance2 =  Lối vào ga ra B
+pie_move_entrance2_bonus =  Đặt gần cửa ga ra
+
+pie_move_carLift1 = Xe nâng A
+pie_move_carLift1_bonus = Xe nâng đầu tiên
+
+pie_move_carLift2 = Xe nâng B
+pie_move_carLift2_bonus = Xe nâng thứ hai
+
+pie_move_carLift3 = Xe nâng C
+pie_move_carLift3_bonus = Xe nâng thứ ba
+
+pie_move_blocked = Có xe ở vị trí này.
+pie_move_locked = Nâng cấp ga ra để vào khu vực này.
+
+pie_settings = MENU CÀI ĐẶT
+pie_settings_bonus =  Trong menu này, bạn có thể điều chỉnh cài đặt trò chơi
+
+pie_settings_save =  Lưu trò chơi
+pie_settings_load =  Tải trò chơi
+
+pie_settings_menu =  Thoát ra menu
+pie_settings_menu_bonus =  Thoát đến menu trò chơi mà không lưu
+
+pie_switch_body =  CHẾ ĐỘ TỔNG QUAN
+pie_switch_body_bonus =  Tổng quan linh kiện xe sử dụng chế độ này
+
+pie_tablet =  MÁY TÍNH BẢNG
+pie_tablet_bonus = Truy cập nhanh máy tính xưởng
+
+pie_inventory =  TÚI ĐỒ
+pie_inventory_bonus = Bạn có thể duyệt, tìm kiếm và bán linh kiện tại đây
+
+pie_order_check =  TÌNH TRẠNG XE
+pie_order_check_bonus = Kiểm tra tình trạng xe hiện hành
+
+pie_order_list =  ĐƠN HÀNG
+pie_order_list_bonus =  Kiểm tra các đơn hàng có sẵn
+
+pie_examine_tools =  CÔNG CỤ KIỂM TRA
+pie_examine_tools_bonus =  Công cụ đặc biệt giúp bạn kiểm tra xe nhanh hơn
+
+pie_mode_examine =  CHẾ ĐỘ KIỂM TRA
+pie_mode_examine_bonus =  Chế độ kiểm tra sẽ bật chế độ tổng quan về tình trạng linh kiện
+
+pie_mode_garage =  CHẾ ĐỘ BÌNH THƯỜNG
+pie_mode_garage_bonus =  Chuyển sang chế độ mặc định
+
+pie_mode_garage_assemble =  CHẾ ĐỘ LẮP RÁP
+pie_mode_garage_assemble_bonus =  Chuyển sang chế độ lắp ráp
+
+pie_mode_group_mount =  KẾT NHÓM
+pie_mode_group_mount_bonus =  Chuyển sang chế độ kết nhóm
+
+pie_mode_group_unmount =  RÃ NHÓM
+pie_mode_group_unmount_bonus =  Chuyển sang chế độ rã nhóm
+
+pie_mode_part_mount =  LẮP RÁP LINH KIỆN
+pie_mode_part_mount_bonus =  Chuyển sang chế độ lắp linh kiện
+pie_mode_part_unmount =  THÁO RỜI LINH KIỆN
+pie_mode_part_unmount_bonus =  Chuyển sang chế độ tháo rời linh kiện
+
+pie_mode_photo =  CHẾ ĐỘ ẢNH
+pie_mode_photo_bonus =  Tạo ảnh bất cứ thứ gì bạn muốn và chia sẻ chúng với cộng đồng
+
+pie_mode_interior_disassemble =  THÁO RỜI NỘI THẤT
+pie_mode_interior_disassemble_bonus =  Chuyển sang chế độ tháo rời nội thất
+
+pie_mode_interior_assemble = LẮP RÁP NỘI THẤT
+pie_mode_interior_assemble_bonus =  Chuyển sang Chế độ lắp nội thất
+
+pie_engine_rotate_left =  Xoay động cơ sang trái
+pie_engine_rotate_right =  Xoay động cơ sang phải
+pie_engine_add =  Thêm động cơ vào thùng
+pie_engine_new =  Tạo động cơ mới
+pie_engine_take = Tháo động cơ khỏi thùng
+pie_car_drive =  Lái xe
+pie_car_run =  Khởi động xe
+pie_paintshop_car = Sơn xe
+pie_paintshop_part = Sơn linh kiện
+
+pie_jukebox_change_station = THAY ĐỔI TRẠM
+pie_jukebox_turn_on_off = BẬT/TẮT RADIO
+pie_jukebox_next_sound = BÀI HÁT TIẾP THEO
+
+pie_car_buy = Mua xe
+pie_car_buy_bonus = Kiểm tra thông tin xe và giá thu mua
+
+pie_settings_garage = Rời khỏi ga ra
+pie_settings_garage_bonus = Tổng quan các vật phẩm đã thu thập của bạn và để lại ga ra
+
+pie_settings_parking_garage = Rời khỏi ga ra
+
+pie_equipment_use = SỬ DỤNG THIẾT BỊ
+
+pie_equipment_move = DI CHUYỂN THIẾT BỊ
+pie_equipment_move_bonus = Di chuyển thiết bị đến vị trí khác
+
+pie_equipment_move_entrance1 =  Lối vào của hàng A
+pie_equipment_move_entrance1_bonus =  Đặt gần cửa ga ra
+
+pie_equipment_move_entrance2 =  Lối vào của hàng B
+pie_equipment_move_entrance2_bonus =  Đặt gần cửa ga ra
+
+pie_equipment_move_carLift1 = Xe nâng A
+pie_equipment_move_carLift1_bonus = Xe nâng đầu tiên
+
+pie_equipment_move_carLift2 = Xe nâng B
+pie_equipment_move_carLift2_bonus = Xe nâng thứ hai
+
+pie_equipment_move_carLift3 = Xe nâng C
+pie_equipment_move_carLift3_bonus = Xe nâng thứ ba
+
+GUI_unlock_to_use = Mở khóa để sử dụng
+GUI_move_unavail = Nơi này đã được sử dụng
+
+pie_tires = Máy kiểm tra lốp xe
+pie_tires_bonus = Với công cụ này, bạn có thể khám phá tình trạng lốp xe
+
+pie_obd = Máy quét OBD
+pie_obd_bonus = Máy quét OBD sẽ kiểm tra rất nhiều linh kiện kết nối giữa máy tính và điện tử. Không hoạt động trên những xe cũ hơn!
+
+pie_cylinder = Máy kiểm tra nén
+pie_cylinder_bonus = Bài kiểm tra này sẽ cung cấp cho bạn thông tin về tình trạng chung của động cơ. Bãi đậu xe như đầu, khối hoặc piston sẽ được kiểm tra
+
+pie_electronic = Đồng hồ điện tử
+pie_electronic_bonus = Công cụ đơn giản nhưng hữu ích. Kiểm tra tất cả các kết nối điện tử và điện trở
+
+pie_fuel = Kiểm tra áp suất nhiên liệu
+pie_fuel_bonus = Tìm hiểu tất cả về các linh kiện liên quan đến nhiên liệu trong xe
+
+pie_equipment_return = Đặt lại thiết bị
+
+//---------------------------------------------------------------------------Warehouse
+
+GUI_Warehouse_Title = Nhà kho
+GUI_SEL_WAREHOUSE =  Nhà kho được chọn
+M_WAR_CHANGE_NAME =  Thay đổi tên nhà kho vào
+GUI_WAR = Nhà kho
+GUI_WAR1 = Nhà kho 1
+GUI_WAR2 = Nhà kho 2
+GUI_WAR3 = Nhà kho 3
+GUI_WAR4 = Nhà kho 4
+GUI_WAR5 = Nhà kho 5
+GUI_WAR6 = Nhà kho 6
+GUI_WAR7 = Nhà kho 7
+GUI_WAR8 = Nhà kho 8
+
+// -------------------------------------------------------------------------- garage modes
+
+mode_GarageDisassemble = Chế độ tháo rời thân xe
+mode_GarageAssemble = Chế độ lắp ráp thân xe
+mode_Interior = Nội thất
+mode_PartSelect = Tổng quan về linh kiện
+mode_PartMount = Chế độ tháo rời
+mode_PartUnMount = Chế độ lắp ráp
+mode_GroupUnMount = Chế độ tập hợp nhóm
+mode_GroupMount = Chế độ tháo rời nhóm
+mode_PartSelectMount = Lựa chọn linh kiện
+mode_ExamineCondition = Chế độ kiểm tra
+
+//--------------------------------------------------Kategorie w sklepie
+CAT_All = Tất cả
+CAT_Engine = Động cơ
+CAT_Body = Thân
+CAT_Other = Khác
+CAT_Rims = Vành
+CAT_Group = Nhóm
+CAT_Brakes = Phanh
+CAT_Exhaust = Xả
+CAT_Gearbox = Hộp số
+CAT_Suspension = Hệ thống treo
+
+// -------------------------------------------------Sorting
+
+Sorting_Name = Sắp xếp
+Sorting_ByArr = theo thời điểm
+Sorting_ByCon = theo điều kiện
+Sorting_ByNam = theo tên
+//--------------------------------------------------Auctions
+
+AU_Start = Bắt đầu đấu giá
+AU_Raise = Nâng cao
+AU_Pass = Vượt qua
+AU_Next = Xe tiếp theo
+AU_Quit = Thoát
+AU_TodaysCars = Xe ngày nay
+
+AU_Currentbid = Giá thầu hiện tại
+AU_OveralState = Trạng thái tổng thể
+AU_Time = Thời gian
+AU_Sold = ĐÃ BÁN
+AU_StartingPrice = Giá khởi điểm
+AU_HighestBidder = Người trả giá cao nhất
+AU_Bidder = Người đấu giá
+AU_Player = Bạn
+
+//--------------------------------------------------Misc
+//symbol waluty - nie ma przelicznika wiec albo € albo $
+GUI_Waluta = $
+GUI_BrakKasy = Bạn không có đủ tiền
+GUI_PriceFrom = từ
+GUI_FrontWheelsDiffSize =  Bánh trước có kích thước khác nhau
+GUI_RearWheelsDiffSize =  Bánh sau có kích thước khác nhau
+GUI_NieMaPrzedmiotowDoZalozenia = Không có vật phẩm nào để làm
+
+GUI_CarsLimitInGarage = Không còn khoảng trống. Ga ra có thể xử lý tối đa {0} xe cùng lúc.
+GUI_CarsLimitInParking = Không còn khoảng trống. Bãi đậu xe có thể chứa tối đa 12 xe cùng lúc.
+GUI_CustomerCarInParking = Bãi đậu xe chỉ có sẵn cho những xe bạn sở hữu.
+GUI_NoWheels = Xe không đủ bánh nên không di chuyển được vào đây.
+
+GUI_Buy = Mua
+GUI_TextExamineReport = Đã kiểm tra {0} linh kiện
+M_SAVESTART = Lưu trò chơi ...
+M_SAVECOMPLETE = Trò chơi đã được lưu
+M_ExitWithoutItems = Rời mà không có vật phẩm để mua?
+
+GUI_Order_PartNotFound = linh kiện không phát hiện
+
+GUI_BoughtCarPlace = Bạn muốn đặt xe đã mua ở đâu?
+GUI_BoughtCar_Parking = Bãi đậu xe
+GUI_BoughtCar_Garage = Ga ra
+
+GUI_Wczytywanie = Đang tải ...
+
+GUI_OilWarning = Bạn không xả dầu trước khi tháo chảo dầu. Việc dọn dẹp sẽ mất 100$
+GUI_EngineUnmountCrainWarning = Để gỡ động cơ, trước tiên hãy gỡ {0} từ xe
+GUI_EngineMountCrainWarning = Để lắp động cơ, trước tiên hãy gỡ {0} từ xe
+GUI_EngineEmptyCrainWarning = Không có linh kiện động cơ nào trong xe
+GUI_MissingWheels = Xe bị mất bánh
+GUI_MissingParts = Có {0} mất khỏi xe
+GUI_EngineDontStart = Không thể khởi động động cơ
+GUI_SamochodGorszyStan = Xe trong tình trạng tồi tệ hơn so với khi nó được giao cho ga ra
+GUI_SamochodOlejWSilniku = Có dầu trong động cơ. Không thể thực hiện hành động này
+GUI_Order_FinishUncompleteJob = Bạn có chắc chắn muốn đánh dấu công việc chưa hoàn thành là đã hoàn thành không?
+GUI_rozpoaczacOdNowa = Bạn có chắc chắn muốn xóa tiến trình hiện tại của mình và bắt đầu lại không?
+GUI_SellJunk = Bán phế liệu
+GUI_PotwierdzenieSprzedazySmieci = Bạn có chắc chắn muốn bán phế liệu không
+GUI_AuctionsFee = Phí đấu giá là {0}. Bạn có chắc chắn muốn tham gia không?
+GUI_Orders_Nojobs = Không có việc làm nào khác ngay bây giờ
+GUI_TestComplete = Kiểm tra xong
+GUI_CarNotConnected = Không có xe để làm việc ở đây
+GUI_Locked = Đã khóa
+GUI_RemoveCarFromArrivalPlace = Dành một khoảng trống gần cổng chính để xe có thể đậu ở đó.
+GUI_EngineStandOccupied = Đã có động cơ trên bệ động cơ
+GUI_obd_unavailable = Xe này không có cổng OBD. Không thể thực hiện hành động.
+GUI_junkyardfee= Chuyến đi Junkyard sẽ khiến bạn mất phí {0}. Bạn có chắc chắn muốn đi không?
+GUI_LicensePlate = Biển số xe
+GUI_SelectPart = Chọn linh kiện
+GUI_Accessibility = Khả năng tiếp cận
+GUI_SamochodBezBody = Có linh kiện thân bị thiếu từ xe.
+GUI_SamochodNiezlozony = Xe chưa hoàn thiện. Có {0} mất khỏi xe
+GUI_SamochodOlejBrak = Không có dầu trong động cơ. Không thể thực hiện hành động này
+GUI_Installed = Cài đặt
+GUI_MoveCarToGarage = Đến ga ra
+GUI_TestDriveCar = Lái thử xe
+!specialMap = Bản đồ vị trí nhà kho
+!specialCase = Thùng
+!specialCrowbar = Xà beng
+GUI_CaseOpen = Bạn cần xà beng để mở thùng
+GUI_CaseAsk = Bạn có chắc chắn muốn mở thùng không?
+GUI_MapAsk = Đánh dấu vị trí nhà kho trên bản đồ của bạn?
+GUI_NieMaPrzedmiotowDoZalozeniaX = Không có vật phẩm nào làm việc với|Linh kiện cần thiết : {0}
+GUI_Tutorial_WindowTitle = Hướng dẫn - Hoàn thành bài kiểm tra để hoàn thành hướng dẫn
+
+// ----------------------------------------------- Parking
+Park_Prev = Xe trước
+Park_Next = Xe tiếp theo
+Park_Move = Di chuyển xe đến ga ra
+Park_Quit = Quay lại ga ra
+
+// ----------------------------------------------- Blocked Lifter
+
+GUI_BlockedLifter = Thang máy không thể hạ xuống. Đảm bảo không có vật gì cản trở nó và đứng ở khoảng cách an toàn.
+
+//-------------------------------------------------- Radio
+M_Radio_WindowTitle = Đài phát thanh
+M_Radio_Current_Sound = Đang chơi
+Radio_Music0 = Đánh trống và bass
+Radio_Music1 = Electro Hive
+Radio_Music2 = Đài phát thanh đường phố ẩn
+Radio_Music3 = CDK
+Radio_Music4 = Cảm xúc cổ điển
+Radio_Music5 = Killa Rock
+Radio_Music6 = Phòng phối
+Radio_Music7 = State of House Music
+Radio_User = Sử dụng Radio
+
+// ------------------------------------------------- Test Track
+GUI_TestTrackChecklist = Danh sách kiểm tra
+GUI_SpeedTest = Kiểm tra Tăng tốc
+GUI_SlalomTest = Kiểm tra Tránh chướng ngại
+GUI_BrakeTest = Kiểm tra phanh
+GUI_SuspensionTest = Kiểm tra hệ thống treo
+
+// -------------------------------------------------IOs
+#hood = Nắp máy xe
+#door_front_left = Cửa trước bên trái
+#door_front_right = Cửa trước bên phải
+#door_rear_left = Cửa sau bên trái
+#door_rear_right = Cửa sau bên phải
+#trunk = Cốp
+#fender_front_left = Chắn bùn trước bên trái
+#fender_front_right = Chắn bùn trước bên phải
+#bumper_front = Cản trước
+#bumper_rear = Cản sau
+#headlight_left = Đèn pha bên trái
+#headlight_right = Đèn pha bên phải
+#taillight_left = Đèn hậu bên trái
+#taillight_right = Đèn hậu bên phải
+#taillight_left_trunk = Đèn cốp hậu bên trái
+#taillight_right_trunk = Đèn cốp hậu bên phải
+#fender_rear_left = Chắn bùn sau bên trái
+#fender_rear_right = Chắn bùn sau bên phải
+
+#window_front = Cửa kính trước
+#window_back = Cửa kính sau
+#window_back_left_1 = Cửa kính sau bên trái A
+#window_back_right_1 = Cửa kính sau bên phải A
+#window_back_left_2 = Cửa kính sau bên trái B
+#window_back_right_2 = Cửa kính sau bên phải B
+#window_door_front_left = Cửa kính trước bên trái
+#window_door_front_right = Cửa kính trước bên phải
+#window_door_rear_left = Cửa kính sau bên trái
+#window_door_rear_right = Cửa kính sau bên phải
+#window_body_left_1 = Cửa kính thân bên trái A
+#window_body_right_1 = Cửa kính thân bên phải A
+#window_body_left_2 = Cửa kính thân bên trái B
+#window_body_right_2 = Cửa kính thân bên phải B
+#window_front_left = Cửa kính trước bên trái
+#window_front_right = Cửa kính trước bên phải
+#window_trunk = Cửa kính cốp
+
+#window_body_left = Cửa kính thân bên trái
+#window_body_right = Cửa kính thân bên phải
+#window_rear_left = Cửa kính sau bên trái A
+#window_rear_right = Cửa kính sau bên phải A
+
+#mirror_left = Gương bên trái
+#mirror_right = Gương bên phải
+
+#front_end = Phía trước xe
+#bench = Băng ghế
+#body = Thân xe
+#details = Thân xe 
+
+#map = Bản đồ thành phố
+#paintshop = Cửa hàng sơn
+#parkingdoor = Bãi đậu xe
+#dyno = Dyno
+#pathTest = Đường dẫn thử nghiệm
+#batteryCharger = Sạc pin
+#computer = Máy tính
+#PGPlace = Phế liệu
+#phone = Điện thoại
+#toolbox = Hộp công cụ
+#repairtable = Bàn sửa chữa
+#wheelbalancer = Bánh xe cân bằng
+#springClamp = Máy kéo nhíp
+#jukebox = Radio
+#lifter = Xe nâng
+#customizegarage = Tùy chỉnh ga ra
+#welder = Máy hàn
+#enginecrane = Cần cẩu động cơ
+#warehouse = Nhà kho
+#seatLeft = Ghế trước bên trái
+#seatRight = Ghế trước bên phải
+#engine = Động cơ
+#steeringWheel = Vô lăng
+#suspension = Hệ thống treo
+#cooling = Làm mát
+#airintake = Hút gió
+#brakepump = Bơm phanh
+#battery = Pin xe
+#oilbin = Xả dầu
+#abs = Mô-đun ABS
+#driveshaft = Trục truyền động
+#exhaust = Xả
+#fueltank = Bình xăng
+#engine_cover = Nắp động cơ
+#tirechanger = Bộ đổi lốp
+#interiorDetailingToolkit = Bộ công cụ trang trí nội thất
+#MainGate = Cổng chính
+#door_parking = Thoát ra đỗ xe
+
+#door_left = Cửa
+#door_right = Cửa
+
+#license_plate_rear = Biển số sau
+#license_plate_front = Biển số trước
+
+// ----------------------------------------------- Order Description
+
+OD_Body_General_1 = Sửa chữa vách thân bị hỏng
+OD_Body_General_2 = Sửa linh kiện thân
+OD_Body_General_3 = Sửa hoặc thay thế linh kiện thân
+
+OD_Body_PaintOriginal_OnList = Phun sơn xe với cài đặt sơn
+OD_Body_PaintOriginal_1 = Sơn lại xe trong màu kho
+OD_Body_PaintOriginal_2 = Sơn nó với màu cài đặt sơn
+OD_Body_PaintOriginal_3 = Phun màu cài đặt sơn
+
+OD_Body_PaintCustom_OnList = Phun sơn xe theo yêu cầu
+OD_Body_PaintCustom_1 = Sơn lại xe với màu tùy chỉnh
+OD_Body_PaintCustom_2 = Sơn nó với màu tùy chỉnh
+OD_Body_PaintCustom_3 = Đặt màu tùy chỉnh đẹp mắt
+
+OD_Engine_General_1 = Điều khiển và sửa động cơ chung
+OD_Engine_General_2 = Tìm và khắc phục tất cả các sự cố động cơ
+OD_Engine_General_3 = Sửa tất cả các lỗi động cơ
+
+OD_Engine_DontStart_1 = Xe không nổ máy
+OD_Engine_DontStart_2 = Chất lỏng không khởi động xe
+OD_Engine_DontStart_3 = Không thể khởi động xe
+
+OD_Engine_Power_1 = Thiếu nguồn động cơ
+OD_Engine_Power_2 = Nguồn động cơ đã thất bại
+OD_Engine_Power_3 = Động cơ đang hoạt động, nhưng không ổn định
+OD_Engine_Power_4 = Xe chạy, nhưng không đều và bị giật
+OD_Engine_Power_5 = Tăng tốc chậm
+OD_Engine_Power_6 = Xe chạy không đều
+OD_Engine_Noise_1 = Tiếng ồn lạ từ khoang động cơ
+OD_Engine_Noise_2 = Tiếng gõ từ khoang động cơ
+OD_Engine_Noise_3 = Âm thanh nhẹ từ khoang động cơ
+OD_Engine_Noise_4 = Khoang động cơ ồn ào
+OD_Engine_Noise_5 = Tiếng ồn khoang động cơ kỳ dị
+OD_Engine_Noise_6 = Tiếng ồn khoang động cơ lạ
+
+OD_Engine_Oil_OnList = Thay dầu (xả cũ và đổ đầy mới)
+OD_Engine_Oil_1 = Thay đổi dầu động cơ và bộ lọc
+OD_Engine_Oil_2 = Thay thế dầu động cơ và bộ lọc
+OD_Engine_Oil_3 = Thay mới dầu động cơ và bộ lọc
+
+OD_Engine_Timing_1 = Thay thế linh kiện truyền động
+OD_Engine_Timing_2 = Truyền động cần thay thế
+OD_Engine_Timing_3 = Đưa vào linh kiện truyền động
+
+OD_Engine_Filters_1 = Thay thế tất cả bộ lọc
+OD_Engine_Filters_2 = Bộ lọc cần thay thế
+OD_Engine_Filters_3 = Bộ lọc xe cần thay thế
+
+OD_Susp_General_1 = Điều khiển và sửa bánh răng chung
+OD_Susp_General_2 = Tìm và khắc phục mọi sự cố bánh răng
+OD_Susp_General_3 = Sửa tất cả lỗi bánh răng
+
+OD_Susp_Control_1 = Lái xe cẩu thả
+OD_Susp_Control_2 = Khó điều khiển xe
+OD_Susp_Control_3 = Điều khiển xe hơi lỏng lẻo
+OD_Susp_Control_4 = Tay lái phản hồi trễ
+
+OD_Susp_Knocking_1 = Hệ thống treo lạch cạch
+OD_Susp_Knocking_2 = Tiếng gõ phát ra từ hệ thống treo
+OD_Susp_Knocking_3 = Sửa lỗi hệ thống treo và tiếng ồn
+OD_Susp_Knocking_4 = Tìm nguồn phát tiếng ồn hệ thống treo
+OD_Susp_Knocking_5 = Tiếng ồn hệ thống treo kỳ lạ
+OD_Susp_Knocking_6 = Sửa hệ thống treo ồn ào
+
+OD_Exhaust_General_1 = Xả ồn
+OD_Exhaust_General_2 = Ồn khi tăng tốc
+OD_Exhaust_General_3 = Xe ồn ào
+OD_Exhaust_General_4 = Xe ồn ào
+OD_Exhaust_General_5 = Động cơ ồn ào
+OD_Exhaust_General_6 = Gây tiếng ồn lớn khi lái xe
+
+OD_Brakes_General_1 = Sự cố phanh
+OD_Brakes_General_2 = Hiệu suất phanh kém
+OD_Brakes_General_3 = Hệ thống phanh cần sửa
+OD_Brakes_General_4 = Phanh cần sửa
+OD_Brakes_General_5 = Lỗi với hệ thống phanh
+OD_Brakes_General_6 = Khoảng cách dừng tăng lên
+
+OD_Gearbox_General_1 = Điều khiển và sửa hộp số chung
+OD_Gearbox_General_2 = Tìm và khắc phục tất cả sự cố hộp số
+OD_Gearbox_General_3 = Sửa chữa tất cả lỗi hộp số
+
+OD_Gearbox_Clutch_1 = Người lái vật lộn tìm bánh răng
+OD_Gearbox_Clutch_2 = Bộ truyền động ồn ào
+OD_Gearbox_Clutch_3 = Bánh răng tiếp tục trượt
+OD_Gearbox_Clutch_4 = Hộp số chuyển động không đều
+OD_Gearbox_Clutch_5 = Có mùi hôi sau khi lái xe
+OD_Gearbox_Clutch_6 = Kéo ly hợp
+
+OD_Gearbox_Unit_1 = Mài và lắc từ hộp số
+OD_Gearbox_Unit_2 = Bộ truyền động không phản hồi
+OD_Gearbox_Unit_3 = Hộp số chuyển động không đều
+OD_Gearbox_Unit_4 = Bộ truyền động ồn ào
+OD_Gearbox_Unit_5 = Khó chọn bánh răng
+OD_Gearbox_Unit_6 = Hộp số chuyển động không đều
+
+OD_Location_Front = (trước)
+OD_Location_Rear = (sau)
+OD_Location_Front_Left = (trước bên trái)
+OD_Location_Front_Right = (trước bên phải)
+OD_Location_Rear_Left = (sau bên trái)
+OD_Location_Rear_Right = (sau bên phải)
+OD_Location_Left = (trái)
+OD_Location_Right = (phải)
+
+OD_EasyMode_Repair = (được cung cấp danh sách)
+
+//--------------------------------------------------czesci z wykrzyknikiem na poczatku
+!absModul_1 = Mô-đun ABS
+!absPompa_1 = Bơm ABS
+!akumulator = Pin
+!alternator = Máy phát điện
+!amortyzator_double = Giảm xóc kép Wishbone
+!amortyzatorPrzod_1 = Giảm xóc trước A
+!amortyzatorTyl_1 = Giảm xóc sau A
+!amortyzatorTyl_2 = Giảm xóc sau B
+!bagnet_1 = Que thăm dầu
+!bak_1 = Bình xăng
+!cewka_1 = Cuộn đánh lửa
+!chlodnica_1 = Bộ tản nhiệt A
+!chlodnica_2 = Bộ tản nhiệt B
+!czapkaAmorPrzod_1 = Nắp giảm xóc trước
+!czapkaSprezynyTyl_1 = Nắp giảm xóc sau
+!docisk_sprzegla = Tấm áp suất ly hợp
+!drazekKierowniczy_1 = Thanh nối trong
+!filtr_1 = Bộ lọc khí
+!filtr_1x4_dol = Thân bộ lọc khí tròn (1 carb)
+!filtr_1x4_gora = Nắp bộ lọc khí tròn(1 carb)
+!filtr_1x4_srodek = Bộ lọc khí tròn (1 carb)
+!filtr_2x4_dol = Thân bộ lọc khí tròn (2 carb)
+!filtr_2x4_gora = Nắp bộ lọc khí tròn (2 carb)
+!filtr_2x4_srodek = Bộ lọc khí tròn (2 carb)
+!klips_1 = Kẹp A
+!klips_2 = Kẹp B
+!klockiHamulcowe_1 = Miếng đệm phanh
+!koncowkaDrazkaKier_1 = Thanh nối ngoài
+!kopulkaRozdzielacza_1 = Nắp bộ đánh lửa
+!korek_spustowy_1 = Cắm xả dầu
+!korekOleju_1 = Cắm đầy dầu
+!lacznikPolosi_1 = Trục truyền động trước
+!lacznikPolosi_2 = Trục truyền động trước (4x4)
+!lacznikStabilizatora_double = Thanh liên kết động trước B
+!lacznikStabilizatoraPrzod_1 = Thanh liên kết động trước A
+!lacznikStabTyl_1 = Thanh liên kết động sau
+!listwa_wtryskowa = Đường nhiên liệu DI
+!listwa_wtryskowa_2 = Đường nhiên liệu MPI
+!lozyskoDociskowe_1 = Ổ đỡ giải phóng ly hợp
+!lozyskoZwrotnicyPrzod_1 = Ổ bi trục bánh
+!mostTylny_1 = Lá nhíp Trục lái sau
+!mostTylnySztywny_1 = Cuộn nhíp Trục lái sau
+!obejmaPodstawka_1 = Bảng lá nhíp
+!obejmaPret_1 = Bu lông lá nhíp chữ U
+!obudowaFiltra_dol_1 = Thân bộ lọc khí
+!obudowaFiltra_gora_1 = Nắp bộ lọc khí
+!palecRozdzielacza_1 = Rô tô bộ đánh lửa
+!piastaPrzod_1 = Trục bánh trước
+!piastaTyl_1 = Trục bánh sau
+!pioraTyl_1 = Lá nhíp
+!podstawkaSprezynyTyl_1 = Nắp nhíp
+!pokrywa_lozyska = Nắp ổ trục trục khuỷu
+!pokrywaBeben_1 = Phanh trống
+!polosNapedowa_1 = Trục lái trước A
+!polosNapedowa_2 = Trục lái trước B
+!polosNapedowa_3 = Trục lái sau
+!polosNapedowa_4 = Trục lái trước C
+!polosNapedowaTylna_1 = Solid Trục lái sau 
+!pompa_1 = Bơm nhiên liệu
+!pompa_wspomagania = Bơm trợ lực lái (V8)
+!przekladnia_1 = Giá lái
+!r4_blok = Khối động cơ (I4)
+!r4_filtr_oleju = Bộ lọc dầu (I4)
+!r4_gearbox_4x4 = Hộp số (I4 4x4)
+!r4_gearbox_rwd = Hộp số (I4 RWD)
+!r4_gearbox_short = Hộp số (I4)
+!r4_glowica_2 = Đầu động cơ (I4)
+!r4_glowica_sohc_1 = Đầu động cơ (I4 SOHC)
+!r4_glowica_sohc_wkladka_1 = Nắp trục cam
+!r4_kable_sohc_1 = Dây đánh lửa (I4 SOHC)
+!r4_kolektor_dolotowy3 = Ống nạp (I4 DI)
+!r4_kolektor_dolotowy4 = Ống nạp (I4 MPI)
+!r4_kolektor_wydechowy = Ống xả
+!r4_kolektor_wydechowy_oslona = Nắp ống xả
+!r4_kolektor_wydechowy_sohc_1 = Ống xả (I4 SOHC)
+!r4_kolektor_wydechowy2 = Ống xả (I4 TURBO)
+!r4_kolo_pasowe_walu = Ròng rọc trục khuỷu (I4)
+!r4_miska_olejowa = Chảo dầu (I4)
+!r4_modul_zaplonowy_sohc_1 = Cuộn đánh lửa (I4 SOHC)
+!r4_oslona = Nắp truyền động (I4)
+!r4_oslona_sohc = Nắp truyền động (I4 SOHC)
+!r4_pasek1 = Đai uống khúc A
+!r4_pasek2 = Đai uống khúc B
+!r4_pasek2_sohc = Đai uống khúc (I4 SOHC)
+!r4_pasek3 = Đai truyền động
+!r4_pasek3_sohc = Đai truyền động (I4 SOHC)
+!r4_pokrywa_glowicy = Nắp đầu động cơ (I4)
+!r4_pokrywa_glowicy_sohc_1 = Nắp đầu động cơ
+!r4_pompa_wody = Máy bơm (I4)
+!r4_pompa_wspomagania = Bơm trợ lực lái (I4)
+!r4_przepustnica = Bướm ga (I4)
+!r4_rozrusznik_1 = Bộ khởi động
+!r4_walek_rozrzadu = Trục cam
+!r4_walek_rozrzadu_sohc_1 = Trục cam (I4 SOHC)
+!rolka_gladka = Con lăn A
+!rolka_pompy_wody = Ròng rọc Máy bơm
+!rolka_prowadzaca = Con lăn B
+!rolka_walka = Bánh răng Cam
+!rolka_walka_sohc = Bánh răng Cam (I4 SOHC)
+!rozdzielaczZaplonu_1 = Bộ đánh lửa
+!sankiPrzod_1 = Hệ thống treo chéo trước
+!sankiPrzod_2 = ^!sankiPrzod_1 B
+!sankiTyl_1 = Hệ thống treo chéo sau
+!sankiTyl_2 = Hệ thống treo chéo sau (RWD)
+!serwoHamulca_1 = Phanh Servo
+!sondaLambda_1 = Lambda Probe
+!sprezynaTyl_1 = Nhíp sau
+!sprezynnaPrzod_1 = Nhíp trước
+!stabilizatorPrzod_1 = Thanh động trước
+!stabilizatorTyl_1 = Thanh động sau A
+!stabilizatorTyl_2 = Thanh động sau B
+!swieca_1 = Bugi
+!szczeki_1 = Má phanh
+!szczekiCylinder_1 = Xi lanh bánh xe trống
+!tarcza_sprzegla = Đĩa ly hợp
+!tarczaHamulcowa_1 = Đĩa phanh
+!tarczaWentylowana_1 = Đĩa phanh thông khí
+!tlok_1 = Piston với Conrod
+!tuleja_1 = Ống lót cao su
+!tulejaMala_1 = Ống lót cao su nhỏ
+!turbo_2 = Tăng áp
+!v8_blok = Khối động cơ (V8)
+!v8_blok_stary = Khối động cơ (V8 OHV)
+!v8_dzwigniazaworu = Tay Rocker
+!v8_filtr_oleju = Bộ lọc dầu (V8)
+!v8_filtr_oleju_stary = Bộ lọc dầu (V8 OHV)
+!v8_gaznik_1 = Bộ chế hòa khí (4-barrel)
+!v8_gearbox = Hộp số (V8)
+!v8_gearbox_4x4 = Hộp số (V8 4x4)
+!v8_gearbox_stary = Hộp số (V8 OHV)
+!v8_glowica = Đầu động cơ (V8)
+!v8_glowica_stara = Đầu động cơ (V8 OHV)
+!v8_kable_stary = Dây đánh lửa (V8)
+!v8_kolektor = Ống nạp (V8)
+!v8_kolektor_wydechowy = Ống xả (V8)
+!v8_kolektor_wydechowy_stary_1 = Ống xả (V8 OHV)
+!v8_kolektordolotowy_1x4 = Ống nạp (1 carb)
+!v8_kolektordolotowy_2x4 = Ống nạp (2 carb)
+!v8_kolo_pasowe_walu = Ròng rọc trục khuỷu (V8)
+!v8_kolo_pasowe_walu_stare = Ròng rọc trục khuỷu (V8 OHV)
+!v8_kolo_zamachowe = Bánh đà
+!v8_lancuch_stary = Dây xích truyền động (V8 OHV)
+!v8_miska_olejowa = Chảo dầu (V8)
+!v8_miska_olejowa_stara = Chảo dầu (V8 OHV)
+!v8_napinacz = Kéo căn đai
+!v8_pasek_stary_1 = Đai uống khúc A (V8 OHV)
+!v8_pasek_stary_2 = Đai uống khúc B (V8 OHV)
+!v8_pasek1 = Đai uống khúc A (V8)
+!v8_pasek2b = Đai uống khúc B (V8)
+!v8_pasek3 = Đai truyền động (V8)
+!v8_pokrywa_glowicy_stara_1 = Nắp đầu động cơ A (V8 OHV)
+!v8_pokrywa_glowicy_stara_2 = Nắp đầu động cơ B (V8 OHV)
+!v8_pokrywa_glowicy1 = Nắp đầu động cơ A (V8)
+!v8_pokrywa_glowicy2 = Nắp đầu động cơ B (V8)
+!v8_pokrywa_swiec = Nắp Coils (V8)
+!v8_pompa_wody = Máy bơm (V8)
+!v8_pompaWody_stara = Máy bơm (V8 OHV)
+!v8_popychacz = Valve Push Rod
+!v8_przepustnica = Bướm ga (V8)
+!v8_rolkaWalka_stara = Bánh răng Cam (V8 OHV)
+!v8_rozrusznik_1 = Bộ khởi động (V8)
+!v8_rozrzad_oslona = Nắp truyền động (V8)
+!v8_rozrzad_oslona_stara = Nắp truyền động (V8 OHV)
+!v8_walek_rozrzadu = Trục cam (V8)
+!v8_walek_stary = Trục cam (V8 OHV)
+!v8_walKorbowy_stary = Trục khuỷu (V8 OHV)
+!w_katalizator = Chuyển đổi xúc tác
+!w_r4_poczatkowy = Đoạn ống xả trước
+!w_r4_poczatkowy_wzdluzny = Đoạn ống xả trước (I4 SOHC)
+!w_r4_turbo_poczatkowy = Đoạn ống xả trước (TURBO)
+!w_ruraLaczaca = Ống xả
+!w_tlumik_koncowy = Ống bô sau (I4)
+!w_tlumik_srodkowy_B = Ống bô giữa
+!w_tlumik_wzdluzny = Ống bô sau
+!w_v8_koncowy = Ống bô sau (V8)
+!w_v8_koncowy_stary = Ống bô sau (V8 OHV)
+!w_v8_poczatkowy = Ống xả trước (V8)
+!w_v8_poczatkowy_stary = Ống xả trước (V8 OHV)
+!wahaczDlugiTyl_1 = Cánh tay treo sau
+!wahaczDol_double = Cánh tay treo đáy
+!wahaczDolny_1 = Cánh tay treo dưới
+!wahaczGora_double = Cánh tay treo trên
+!wahaczKrotkiTyl_1 = Hệ thống treo sau Cánh tay trên
+!wahaczMost_1 = Cánh tay điều khiển trục rắn
+!wahaczTyl_1 = Cánh tay treo sau A
+!wahaczTyl_2 = Cánh tay treo sau B
+!walKorbowy_1 = Trục khuỷu (V8)
+!walKorbowy_2 = Trục khuỷu (I4)
+!walNapedowy_1 = Trục truyền động
+!wentylator_1 = Quạt bộ tản nhiệt
+!wentylator_2 = Quạt bộ tản nhiệt (V8 OHV)
+!zaciskHamulcowy_1 = Bộ kẹp phanh
+!zaslepkaZwrotnicaTyl_1 = Nắp trục bánh
+!zwrotnicaPrzod_1 = Khớp tay lái trước A
+!zwrotnicaPrzod_double = Khớp tay lái trước B
+!zwrotnicaTyl_1 = Vỏ khớp nối trục sau A
+!zwrotnicaTylBeben_1 = Vỏ khớp nối trục sau B
+!zwrotnicaTylSztywna_1 = Vỏ khớp nối trục sau C
+!filtr_paliwa_1 = Bộ lọc nhiên liệu
+!cewkaZaplonowa_1 = Cuộn đánh lửa B
+
+// -------------------------------------------------bench
+
+BenchName = Băng ghế
+
+!bench_FMW_Panther = ^BenchName Panther
+!bench_FMW_Panther_leather1 = ^BenchName Panther Leather 1
+!bench_FMW_Panther_leather2 = ^BenchName Panther Leather 2
+!bench_bandit = ^BenchName Bandit
+!bench_bianco = ^BenchName Bianco
+!bench_bianco_leather1 = ^BenchName Bianco Leather 1
+!bench_bianco_leather2 = ^BenchName Bianco Leather 2
+!bench_bowen1 = ^BenchName Bowen trước
+!bench_bowen2 = ^BenchName Bowen sau
+!bench_cape1 = ^BenchName Cape trước
+!bench_cape2 = ^BenchName Cape sau
+!bench_chapman1 = ^BenchName Chapman trước
+!bench_chapman2 = ^BenchName Chapman sau
+!bench_charger = ^BenchName Charger
+!bench_continental = ^BenchName Continental
+!bench_continental_leather1 = ^BenchName Continental Leather 1
+!bench_continental_leather2 = ^BenchName Continental Leather 2
+!bench_crown = ^BenchName Crown
+!bench_crown_leather1 = ^BenchName Crown Leather 1
+!bench_crown_leather2 = ^BenchName Crown Leather 2
+!bench_cuda = ^BenchName Cuda
+!bench_cuda_leather1 = ^BenchName Cuda Leather 1
+!bench_cuda_leather2 = ^BenchName Cuda Leather 1
+!bench_custom = ^BenchName Custom
+!bench_custom_leather1 = ^BenchName Custom Leather 1
+!bench_custom_leather2 = ^BenchName Custom Leather 2
+!bench_earthquake = ^BenchName EarthQuake
+!bench_earthquake_leather1 = ^BenchName Earthquake Leather 1
+!bench_earthquake_leather2 = ^BenchName Earthquake Leather 2
+!bench_earthquake_rex = ^BenchName Earthquake Rex
+!bench_earthquake_rex_leather1 = ^BenchName Earthquake Rex Leather 1
+!bench_earthquake_rex_leather2 = ^BenchName Earthquake Rex Leather 2
+!bench_fastback = ^BenchName Fastback
+!bench_fastback_leather1 = ^BenchName Fastback Leather 1
+!bench_fastback_leather2 = ^BenchName Fastback Leather 2
+!bench_flamo = ^BenchName Flamo
+!bench_flamo_leather1 = ^BenchName Flamo Leather 1
+!bench_flamo_leather2 = ^BenchName Flamo Leather 2
+!bench_grand_club = ^BenchName Grand Club
+!bench_grand_club_leather1 = ^BenchName Grand Club Leather 1
+!bench_grand_club_leather2 = ^BenchName Grand Club Leather 2
+!bench_hellcat = ^BenchName Hellcat
+!bench_hellcat_leather1 = ^BenchName Hellcat Leather 1
+!bench_hellcat_leather2 = ^BenchName Hellcat Leather 1
+!bench_imperator = ^BenchName Imperator
+!bench_imperator_leather1 = ^BenchName Imperator Leather 1
+!bench_imperator_leather2 = ^BenchName Imperator Leather 2
+!bench_katsumoto = ^BenchName Katsumoto
+!bench_katsumoto_leather1 = ^BenchName Katsumoto Leather 1
+!bench_katsumoto_leather2 = ^BenchName Katsumoto Leather 2
+!bench_kieran = ^BenchName Kieran
+!bench_kieran_leather1 = ^BenchName Kieran Leather 1
+!bench_kieran_leather2 = ^BenchName Kieran Leather 2
+!bench_lotz = ^BenchName Lotz
+!bench_magnum = ^BenchName Magnum Leather
+!bench_magnum_leather1 = ^BenchName Magnum Leather 1
+!bench_magnum_leather2 = ^BenchName Magnum Leather 2
+!bench_mayenm6 = ^BenchName M6
+!bench_mayenm6_leather1 = ^BenchName M6 Leather 1
+!bench_mayenm6_leather2 = ^BenchName M6 Leather 2
+!bench_mayenm8 = ^BenchName M8
+!bench_mayenm8_leather1 = ^BenchName M8 Leather 1
+!bench_mayenm8_leather2 = ^BenchName M8 Leather 2
+!bench_mojave = ^BenchName Mojave
+!bench_mojave_leather1 = ^BenchName Mojave Leather 1
+!bench_mojave_leather2 = ^BenchName Mojave Leather 2
+!bench_moon = ^BenchName Moon
+!bench_moon_leather1 = ^BenchName Moon Leather 1
+!bench_moon_leather2 = ^BenchName Moon Leather 2
+!bench_quattroporte = ^BenchName Quattroporte
+!bench_rinopiccolo = ^BenchName Piccolo
+!bench_rinopiccolo_leather1 = ^BenchName Piccolo Leather 1
+!bench_rinopiccolo_leather2 = ^BenchName Piccolo Leather 2
+!bench_roadrunner = ^BenchName Road Runner
+!bench_rollett = ^BenchName Rollet Leather 1
+!bench_rx-3 = ^BenchName RX-3 Leather 1
+!bench_rx-7 = ^BenchName RX-7 Leather 1
+!bench_sebring = ^BenchName Sebring
+!bench_sebring_leather1 = ^BenchName Sebring Leather 1
+!bench_sebring_leather2 = ^BenchName Sebring Leather 2
+!bench_sec = ^BenchName Sec
+!bench_sec_leather1 = ^BenchName Sec Leather 1
+!bench_sec_leather2 = ^BenchName Sec Leather 2
+!bench_seriesT = ^BenchName T Series
+!bench_seriesT_leather1 = ^BenchName T Series Leather 1
+!bench_seriesT_leather2 = ^BenchName T Series Leather 2
+!bench_spectre = ^BenchName Spectre
+!bench_spectre_leather1 = ^BenchName Spectre Leather 1
+!bench_spectre_leather2 = ^BenchName Spectre Leather 2
+!bench_stradale = ^BenchName Stradale
+!bench_tbx = ^BenchName TBX
+!bench_urs = ^BenchName Urs
+!bench_urs_leather1 = ^BenchName Urs Leather 1
+!bench_urs_leather2 = ^BenchName Urs Leather 2
+!bench_avalanche = ^BenchName Avalanche
+!bench_jeepwillys = ^BenchName Jeep Willys
+!bench_m3 = ^BenchName M3
+
+//------------------------------------------------- seats
+
+SeatName = Ghế
+
+!seat_1_fabric1 = ^SeatName 1 Fabric A
+!seat_1_fabric2 = ^SeatName 1 Fabric B
+!seat_1_leather1 = ^SeatName 1 Leather A
+!seat_1_leather2 = ^SeatName 1 Leather B
+!seat_1_leather3 = ^SeatName 1 Leather C
+!seat_1_leather4 = ^SeatName 1 Leather D
+
+!seat_2_fabric1 = ^SeatName 2 Fabric A
+!seat_2_fabric2 = ^SeatName 2 Fabric B
+!seat_2_leather1 = ^SeatName 2 Leather A
+!seat_2_leather2 = ^SeatName 2 Leather B
+!seat_2_leather3 = ^SeatName 2 Leather C
+!seat_2_leather4 = ^SeatName 2 Leather D
+
+!seat_3_fabric1 = ^SeatName 3 Fabric A
+!seat_3_fabric2 = ^SeatName 3 Fabric B
+!seat_3_leather1 = ^SeatName 3 Leather A
+!seat_3_leather2 = ^SeatName 3 Leather B
+!seat_3_leather3 = ^SeatName 3 Leather C
+!seat_3_leather4 = ^SeatName 3 Leather D
+
+!seat_4_fabric1 = ^SeatName 4 Fabric A
+!seat_4_fabric2 = ^SeatName 4 Fabric B
+!seat_4_leather1 = ^SeatName 4 Leather A
+!seat_4_leather2 = ^SeatName 4 Leather B
+!seat_4_leather3 = ^SeatName 4 Leather C
+!seat_4_leather4 = ^SeatName 4 Leather D
+
+!seat_5_fabric1 = ^SeatName 5 Fabric A
+!seat_5_fabric2 = ^SeatName 5 Fabric B
+!seat_5_leather1 = ^SeatName 5 Leather A
+!seat_5_leather2 = ^SeatName 5 Leather B
+!seat_5_leather3 = ^SeatName 5 Leather C
+!seat_5_leather4 = ^SeatName 5 Leather D
+
+!seat_6_fabric1 = ^SeatName 6 Fabric A
+!seat_6_fabric2 = ^SeatName 6 Fabric B
+!seat_6_leather1 = ^SeatName 6 Leather A
+!seat_6_leather2 = ^SeatName 6 Leather B
+!seat_6_leather3 = ^SeatName 6 Leather C
+!seat_6_leather4 = ^SeatName 6 Leather D
+
+!seat_7_fabric1 = ^SeatName 7 Fabric A
+!seat_7_fabric2 = ^SeatName 7 Fabric B
+!seat_7_leather1 = ^SeatName 7 Leather A
+!seat_7_leather2 = ^SeatName 7 Leather B
+!seat_7_leather3 = ^SeatName 7 Leather C
+!seat_7_leather4 = ^SeatName 7 Leather D
+
+!seat_8_fabric1 = ^SeatName 8 Fabric A
+!seat_8_fabric2 = ^SeatName 8 Fabric B
+!seat_8_leather1 = ^SeatName 8 Leather A
+!seat_8_leather2 = ^SeatName 8 Leather B
+!seat_8_leather3 = ^SeatName 8 Leather C
+!seat_8_leather4 = ^SeatName 8 Leather D
+
+!seat_9_fabric1 = ^SeatName 9 Fabric A
+!seat_9_fabric2 = ^SeatName 9 Fabric B
+!seat_9_leather1 = ^SeatName 9 Leather A
+!seat_9_leather2 = ^SeatName 9 Leather B
+!seat_9_leather3 = ^SeatName 9 Leather C
+!seat_9_leather4 = ^SeatName 9 Leather D
+
+!seat_10_fabric1 = ^SeatName 10 Fabric A
+!seat_10_fabric2 = ^SeatName 10 Fabric B
+!seat_10_leather1 = ^SeatName 10 Leather A
+!seat_10_leather2 = ^SeatName 10 Leather B
+!seat_10_leather3 = ^SeatName 10 Leather C
+!seat_10_leather4 = ^SeatName 10 Leather D
+
+!seat_11_fabric1 = ^SeatName 11 Fabric A
+!seat_11_fabric2 = ^SeatName 11 Fabric B
+!seat_11_leather1 = ^SeatName 11 Leather A
+!seat_11_leather2 = ^SeatName 11 Leather B
+!seat_11_leather3 = ^SeatName 11 Leather C
+!seat_11_leather4 = ^SeatName 11 Leather D
+
+!seat_atlanta = ^SeatName Atlanta
+!seat_continental = ^SeatName Continental GT
+!seat_cuda = ^SeatName Cuda
+!seat_delorean = ^SeatName Delorean
+!seat_gullwing = ^SeatName Gullwing
+!seat_quattroporte = ^SeatName Quattroporte
+!seat_rx3 = ^SeatName RX3
+!seat_rx7 = ^SeatName RX7
+!seat_sebring = ^SeatName Sebring
+!seat_sec = ^SeatName Sec
+!seat_seriesT = ^SeatName T Series
+!seat_stradale = ^SeatName Stradale
+!seat_willys = ^SeatName Willys
+!seat_bandit = ^SeatName Bandit
+!seat_typhoon = ^SeatName Typhoon
+!seat_reptiliar2 = ^SeatName Reptilia R2
+!seat_lotz = ^SeatName Lotz
+!seat_rollett = ^SeatName Rollett
+!seat_tbx = ^SeatName TBX
+!seat_charger = ^SeatName Charger
+!seat_avalanche = ^SeatName Avalanche
+!seat_m3 = ^SeatName M3
+
+//------------------------------------------------- Vô lăng
+
+SteeringWheelName = Vô lăng
+!steering_wheel1 = ^SteeringWheelName 1
+!steering_wheel10 = ^SteeringWheelName 10
+!steering_wheel11 = ^SteeringWheelName 11
+!steering_wheel12 = ^SteeringWheelName 12
+!steering_wheel13 = ^SteeringWheelName 13
+!steering_wheel14 = ^SteeringWheelName 14
+!steering_wheel15 = ^SteeringWheelName 15
+!steering_wheel16 = ^SteeringWheelName 16
+!steering_wheel17 = ^SteeringWheelName 17
+!steering_wheel2 = ^SteeringWheelName 2
+!steering_wheel3 = ^SteeringWheelName 3
+!steering_wheel4 = ^SteeringWheelName 4
+!steering_wheel5 = ^SteeringWheelName 5
+!steering_wheel6 = ^SteeringWheelName 6
+!steering_wheel7 = ^SteeringWheelName 7
+!steering_wheel8 = ^SteeringWheelName 8
+!steering_wheel9 = ^SteeringWheelName 9
+!steering_wheel_old1 = ^SteeringWheelName 18
+
+!steering_wheel_atlanta = ^SteeringWheelName Atlanta
+!steering_wheel_bowen = ^SteeringWheelName Bowen
+!steering_wheel_cape = ^SteeringWheelName Cape
+!steering_wheel_chapman = ^SteeringWheelName Chapman
+!steering_wheel_continental = ^SteeringWheelName Continental
+!steering_wheel_cuda = ^SteeringWheelName Cuda
+!steering_wheel_delorean = ^SteeringWheelName Delorean
+!steering_wheel_delorean2 = ^SteeringWheelName Delorean 2
+!steering_wheel_gullwing = ^SteeringWheelName Gullwing
+!steering_wheel_lotz = ^SteeringWheelName Lotz
+!steering_wheel_quattroporte = ^SteeringWheelName Quattroporte
+!steering_wheel_reptiliar2 = ^SteeringWheelName Reptilia R2
+!steering_wheel_rx3 = ^SteeringWheelName RX3
+!steering_wheel_rx7 = ^SteeringWheelName RX7
+!steering_wheel_sebring = ^SteeringWheelName Sebring
+!steering_wheel_sec = ^SteeringWheelName Sec
+!steering_wheel_seriesT = ^SteeringWheelName T Series
+!steering_wheel_stradale = ^SteeringWheelName Stradale
+!steering_wheel_tbx = ^SteeringWheelName TBX
+!steering_wheel_typhoon = ^SteeringWheelName Typhoon
+!steering_wheel_rollett = ^SteeringWheelName Rollett
+!steering_wheel_bandit = ^SteeringWheelName Bandit
+!steering_wheel_charger = ^SteeringWheelName Charger
+!steering_wheel_m3 = ^SteeringWheelName M3
+
+//------------------------------------------------- rims
+
+RimName = Vành
+
+!rim_2 = ^RimName cổ điển 01
+!rim_3 = ^RimName cổ điển 02
+!rim_4 = ^RimName thập niên 01
+!rim_5 = ^RimName thập niên 02
+!rim_6 = ^RimName cổ điển 03
+!rim_7 = ^RimName cổ điển 04
+!rim_8 = ^RimName cổ điển 05
+!rim_10 = ^RimName hiện đại 01
+!rim_11 = ^RimName thập niên 03
+!rim_12 = ^RimName thập niên 04
+!rim_13 = ^RimName thập niên 05
+!rim_14 = ^RimName cổ điển 06
+!rim_15 = ^RimName thập niên 06
+!rim_16 = ^RimName cổ điển 07
+!rim_17 = ^RimName cơ bản 01
+!rim_18 = ^RimName cơ bản 02
+!rim_19 = ^RimName cổ điển 08
+!rim_20 = ^RimName thập niên 07
+!rim_21 = ^RimName thập niên 08
+!rim_22 = ^RimName cổ điển 09
+!rim_23 = ^RimName cổ điển 10
+!rim_24 = ^RimName thập niên 09
+!rim_25 = ^RimName thập niên 10
+!rim_26 = ^RimName thập niên 11
+!rim_31 = ^RimName thập niên 12
+!rim_32 = ^RimName thập niên 13
+!rim_33 = ^RimName hiện đại 02
+!rim_34 = ^RimName hiện đại 03
+!rim_35 = ^RimName cổ điển 11
+!rim_36 = ^RimName cổ điển 12
+!rim_37 = ^RimName cổ điển 13
+!rim_38 = ^RimName hiện đại 04
+!rim_39 = ^RimName cổ điển 14
+!rim_40 = ^RimName hiện đại 05
+!rim_41 = ^RimName cổ điển 15
+!rim_42 = ^RimName cổ điển 16
+!rim_43 = ^RimName cổ điển 17
+!rim_44 = ^RimName cổ điển 18
+!rim_45 = ^RimName cổ điển 19
+!rim_46 = ^RimName hiện đại 06
+!rim_100 = ^RimName cổ điển 20
+!rim_101 = ^RimName hiện đại 07
+!rim_102 = ^RimName hiện đại 08
+!rim_103 = ^RimName hiện đại 09
+!rim_104 = ^RimName hiện đại 10
+
+!rim_roadrunner = ^RimName RoadRunner
+!rim_willys = ^RimName Jeep Willys
+!rim_grand_cherokee = ^RimName Jeep Grand Cherokee
+!rim_bentley_continentalB=^!rim_bentley_continental B
+!rim_rx7_1 = ^RimName Mazda RX7 A
+!rim_rx7_2 = ^RimName Mazda RX7 B
+!rim_atlanta = ^RimName Atlanta
+!rim_bowen = ^RimName Bowen
+!rim_cape = ^RimName Cape
+!rim_typhoon = ^RimName Typhoon
+!rim_chapman = ^RimName Chapman
+!rim_reptiliar2 = ^RimName Reptilia R2
+!rim_lotz = ^RimName Lotz
+!rim_tbx = ^RimName TBX
+!rim_rollett = ^RimName Rollett
+!rim_avalanche = ^RimName Avalanche
+!rim_gullwing = ^RimName 300 SL
+!rim_sec = ^RimName 560 SEC
+
+!rim_25B = ^!rim_25 B
+!rim_5B = ^!rim_5 B
+!rim_11B = ^!rim_11 B
+!rim_20B = ^!rim_20 B
+!rim_43B = ^!rim_43 B
+!rim_33B = ^!rim_33 B
+!rim_25P = ^!rim_25 B
+!rim_4B = ^!rim_4 B
+!rim_37B = ^!rim_37 B
+!rim_34B = ^!rim_34 B
+!rim_34C = ^!rim_34 C
+!rim_35B = ^!rim_35 B
+!rim_36B = ^!rim_36 B
+!rim_38B = ^!rim_38 B
+!rim_44B = ^!rim_44 B
+!rim_45B = ^!rim_45 B
+!rim_46B = ^!rim_46 B
+!rim_46C = ^!rim_46 C
+!rim_11C = ^!rim_11 C
+!rim_22C = ^!rim_22 C
+
+//---------------------------------------------- dodane dlc maluch
+!kaszlak_zwrotnicaPrzod_1 = Khớp tay lái trước (Maluch)
+!kaszlak_drazekKierowniczy_1 = Thanh nối trong (Maluch)
+!kaszlak_drazekBoczny_1 = Thanh nối ngoài (Maluch)
+!kaszlak_ramionaWahaczaPrzod_1 = Cánh tay hệ thống treo trước (Maluch)
+!kaszlak_szczeki_1 = Má phanh (Maluch)
+!kaszlak_gumowyPrzod_1 = Đệm cao su trước (Maluch)
+!kaszlak_pierscienGumowy_1 = Đệm vòng cao su (Maluch)
+!kaszlak_piastaPrzod_1 = Trục bánh trước (Maluch)
+!kaszlak_polos_2 = Trục lái sau (Maluch)
+!kaszlak_amortyzatorTyl_1 = Giảm xóc sau (Maluch)
+!kaszlak_cylinderek_1 = Xi lanh bánh xe trống (Maluch)
+!kaszlak_gumowyTyl_1 = Đệm cao su sau (Maluch)
+!kaszlak_sworzenWahaczaPrzod_1 = Knuckle Pin trước (Maluch)
+!kaszlak_wahaczTyl_1 = Cánh tay treo sau (Maluch)
+!kaszlak_resory_1 = Lá nhíp (Maluch)
+!kaszlak_przekladnia_1 = Giá lái (Maluch)
+!kaszlak_tarczaTyl_1 = Knuckle Disc sau (Maluch)
+!kaszlak_obejmaElastyczna_1 = Flexible Clamp (Maluch)
+!kaszlak_gniazdoPierscienia_1 = Ring Buffer Socket (Maluch)
+!kaszlak_bebenPrzod_1 = Phanh trống trước (Maluch)
+!kaszlak_dekielek_1 = Nắp (Maluch)
+!kaszlak_babenTyl_1 = Phanh trống sau (Maluch)
+!kaszlak_wspornikWahacza_1 = Support Bracket (Maluch)
+!kaszlak_sprezyna_1 = Nhíp (Maluch)
+!kaszlak_tulejkaMala_1 = Ống lót cao su nhỏ (Maluch)
+!kaszlak_przegubPolosi_1 = Drive Axle Joint (Maluch)
+!kaszlak_amortyzatorPrzod_1 = Giảm xóc trước (Maluch)
+!kaszlak_tuleja_1 = Ống lót cao su (Maluch)
+!kaszlak_piastaTyl_1 = Trục bánh sau (Maluch)
+!kaszlak_lozysko_1 = Ổ bi trục bánh (Maluch)
+!kaszlak_klips_1 = Kẹp (Maluch)
+!kaszlak_cylinder_1 = Xy lanh (Maluch)
+!kaszlak_lancuch_1 = Dây xích truyền động (Maluch)
+!kaszlak_oslonaKolaZamachowego_1 = Nắp Bánh đà (Maluch)
+!kaszlak_tlok_1 = Piston với Conrod (Maluch)
+!kaszlak_walKorbowy_1 = Trục khuỷu (Maluch)
+!kaszlak_tarczaSprzegla_1 = Đĩa ly hợp (Maluch)
+!kaszlak_cewkaZaplonowa_1 = Cuộn đánh lửa (Maluch)
+!kaszlak_wydech_1 = Ống bô (Maluch)
+!kaszlak_palecRozdzielacza_1 = Rô tô bộ đánh lửa (Maluch)
+!kaszlak_walRozrzadu_1 = Trục cam (Maluch)
+!kaszlak_ruraCieplegoPowietrza_1 = Ống dẫn khí nóng (Maluch)
+!kaszlak_swieca_1 = Bugi (Maluch)
+!kaszlak_ruraDmuchawy_1 = Ống dẫn khí lạnh (Maluch)
+!kaszlak_pokrywaRozrzadu_1 = Nắp truyền động (Maluch)
+!kaszlak_rozrusznik_1 = Bộ khởi động (Maluch)
+!kaszlak_rozdzielaczZaplonu_1 = Bộ đánh lửa (Maluch)
+!kaszlak_pompaPaliwa_1 = Bơm nhiên liệu (Maluch)
+!kaszlak_przewodOlejGlowica_1 = Ống dầu (Maluch)
+!kaszlak_popychacz_1 = Valve Push Rod (Maluch)
+!kaszlak_pokyrwaKolaPasowego_1 = Centrifugal Bộ lọc dầu (Maluch)
+!kaszlak_pokrywaGlowicy_1 = Nắp đầu động cơ (Maluch)
+!kaszlak_pokrywaFiltra_1 = Nắp bộ lọc khí (Maluch)
+!kaszlak_pasek_1 = Đai uống khúc (Maluch)
+!kaszlak_panewkaGlownaTylna_1 = Trục khuỷu Bearing sau (Maluch)
+!kaszlak_panewkaGlownaPrzednia_1 = Trục khuỷu Bearing trước (Maluch)
+!kaszlak_oslonaPrzewodu_1 = Nắp ống dầu (Maluch)
+!kaszlak_oslonaPopychacza_1 = Nắp Valve Push Rod (Maluch)
+!kaszlak_obudowaWentylatoraTyl_1 = Nắp quạt sau (Maluch)
+!kaszlak_obudowaWentylatoraPokrywa_1 = Nắp quạt trên (Maluch)
+!kaszlak_obudowaTermostatu_1 = Nắp bộ điều nhiệt (Maluch)
+!kaszlak_korekOleju_1 = Cắm đầy dầu (Maluch)
+!kaszlak_obudowaWentylatoraPrzod_1 = Nắp quạt trước (Maluch)
+!kaszlak_lozyskoDociskowe_1 = Ổ đỡ giải phóng ly hợp (Maluch)
+!kaszlak_miskaOlejowa_1 = Chảo dầu (Maluch)
+!kaszlak_kopulkaRozdzielacza_1 = Nắp bộ đánh lửa (Maluch)
+!kaszlak_koloRozrzaduMale_1 = Small Bánh răng Cam (Maluch)
+!kaszlak_koloZamachowe_1 = Bánh đà (Maluch)
+!kaszlak_koloRozrzaduDuze_1 = Bánh răng Cam (Maluch)
+!kaszlak_koloPasowe_1 = Ròng rọc trục khuỷu (Maluch)
+!kaszlak_kolektorWydechowy_1 = Ống xả (Maluch)
+!kaszlak_kolankoLaczace_1 = Bộ chế hòa khí Elbow (Maluch)
+!kaszlak_kable_1 = Dây đánh lửa (Maluch)
+!kaszlak_glowica_1 = Đầu động cơ (Maluch)
+!kaszlak_gaznik_1 = Bộ chế hòa khí (Maluch)
+!kaszlak_gearbox_1 = Hộp số (Maluch)
+!kaszlak_filtrPowietrza_1 = Bộ lọc khí (Maluch)
+!kaszlak_dzwignieZaworu_1 = Tay Rockers (Maluch)
+!kaszlak_dociskSprzegla_1 = Tấm áp suất ly hợp (Maluch)
+!kaszlak_blok_1 = Khối động cơ (Maluch)
+!kaszlak_bak_1 = Bình xăng (Maluch)
+!kaszlak_bagnet_1 = Que thăm dầu (Maluch)
+!kaszlak_alternator_1 = Máy phát điện (Maluch)
+!kaszlak_pompaHamulcowa_1 = Bơm phanh (Maluch)
+!kaszlak_filtr_paliwa_1 = Bộ lọc nhiên liệu (Maluch)
+!kaszlak_rim_1 = Vành Maluch
+
+!mostPrzedni_1 = Trục lái trước D
+!walNapedowy_2 = Trục truyền động trước B
+!skrzyniaRozdzielcza_1 = Thùng chuyển đổi (4x4)
+!w_v8_poczatkowy_2 = Ống xả trước B (V8)
+!v8_pokrywa_glowicy1B = Nắp đầu động cơ C (V8)
+!v8_pokrywa_glowicy2B = Nắp đầu động cơ D (V8)
+!r6_wal_korbowy = Trục khuỷu (I6)
+!r6_blok = Khối động cơ (I6)
+!r6_kopulkaRozdzielacza = Nắp bộ đánh lửa (I6)
+!r6_miska_olejowa = Chảo dầu (I6)
+!r6_kable = Dây đánh lửa (I6)
+!r6_glowica_dohc = Đầu động cơ (I6)
+!r6_glowica_dohc_wkladka = Nắp trục cam (I6)
+!r6_walek_rozrzadu = Trục cam (I6)
+!r6_rolkaWalka = Bánh răng Cam (I6)
+!r6_gaznik_plaski = Bộ chế hòa khí (2-barrel side draft)
+!r6_filtr = Bộ lọc khí tròn (side draft)
+!r6_kolektor_wydechowy = Ống xả (I6)
+!r6_rolkaLancucha = Dây xích truyền động Sprocket (I6)
+!r6_lancuch = Dây xích truyền động (I6)
+!r6_pompaWody = Máy bơm (I6)
+!r6_oslona_rozrzadu = Nắp truyền động (I6)
+!r6_kolo_pasowe_walu = Ròng rọc trục khuỷu (I6)
+!r6_pasek_1 = Đai uống khúc A (I6)
+!r6_pasek_2 = Đai uống khúc B (I6)
+!r6_filtr_oleju = Bộ lọc dầu (I6)
+!r6_pokrywa_glowicy = Nắp đầu động cơ (I6)
+!r6_wydech_poczatkowy = Đoạn ống xả trước (I6)
+!sankiPrzod_4 = ^!sankiPrzod_1 C
+!stabilizatorPrzod_2 = Thanh động trước B
+!zwrotnicaPrzod_double3 = Khớp tay lái trước C
+!r6_2_kolektor_dolotowy = Ống nạp (I6 M186)
+!r6_2_wtrysku_walek = Phun nhiên liệu cơ học Driver
+!r6_2_glowica = Đầu xy lanh (I6 M186)
+!r6_2_kolektor_wydechowy_oslona = Nắp ống xả (I6 M186)
+!r6_2_glowica_wkladka = Ổ đỡ trục cam
+!r6_2_wtrysk = Phun nhiên liệu cơ học (I6 M186)
+!r6_2_pokrywa_glowicy = Nắp đầu xy lanh (I6 M186)
+!r6_2_lancuch = Dây xích truyền động (I6 M186)
+!r6_2_dzwignia_zaworu = Tay Rocker (I6 M186)
+!r6_2_walek_rozrzadu = Trục cam (I6 M186)
+!r6_2_blok = Khối động cơ (I6 M186)
+!r6_2_przepustnica = Bướm ga (I6 M186)
+!r6_2_kable = Dây đánh lửa (I6 M186)
+!r6_2_oslonaRozrzadu = Nắp truyền động (I6 M186)
+!r6_2_kolektor_wydechowy = Ống xả (I6 M186)
+!r6_2_miska_olejowa = Chảo dầu (I6 M186)
+!w_r6_2_koncowy = Ống bô sau (I6 M186)
+!w_r6_2_poczatkowy = Đoạn ống xả trước (I6 M186)
+!w_r6_2_ruraLaczaca = Ống bô giữa (I6 M186)
+!wentylator_3 = Quạt bộ tản nhiệt B
+!v8_2_lancuch = Dây xích truyền động (V8 M117)
+!v8_2_walKorbowy = Trục khuỷu (V8 M117)
+!v8_2_filtr_sec_gora = Nắp bộ lọc khí tròn (V8 M117)
+!v8_2_kable = Dây đánh lửa (V8 M117)
+!v8_2_rolkaLancucha = Dây xích truyền động Sprocket (V8 M117)
+!v8_2_pokrywa_dystrybutora = Nắp bộ đánh lửa (V8 M117)
+!v8_2_filtr_sec_srodek = Bộ lọc khí tròn (V8 M117)
+!v8_2_walekdystrybutora = Bộ đánh lửa Camshaft (V8 M117)
+!v8_2_rozrzad_oslona = Nắp truyền động (V8 M117)
+!v8_2_rolkaWalka = Bánh răng Cam (V8 M117)
+!v8_2_pokrywa_glowicy_2 = Nắp đầu xy lanh B (V8 M117)
+!v8_2_przeplywomierz = Cảm biến luồn không khí (V8 M117)
+!v8_2_kolektordolotowy = Ống nạp (V8 M117)
+!v8_2_filtr_sec_dol = Bộ lọc khí tròn cơ bản (V8 M117)
+!v8_2_glowica = Đầu xy lanh (V8 M117)
+!v8_2_blok = Khối động cơ (V8 M117)
+!v8_2_wtrysk = Phun nhiên liệu cơ học (V8 M117)
+!v8_2_walek_rozrzadu = Trục cam (V8 M117)
+!v8_2_pokrywa_glowicy_1 = Nắp đầu xy lanh A (V8 M117)
+!w_v8_2_koncowy = Ống bô sau (V8 M117)
+!w_v8_2_tlumik_srodkowy = Ống bô giữa (V8 M117)
+!w_v8_2_rezonator = Xả Resonator (V8 M117)
+!v8_supercharger_stary = Supercharger (V8 OHV)
+!v8_supercharger_kolektor_dolotowy_stary = Supercharger Ống nạp (V8 OHV)
+!v8_supercharger_pasek_stary = Supercharger Đai uống khúc (V8 OHV)
+!v8_supercharger_pasek2b = Supercharger Đai uống khúc (V8)
+!v8_supercharger_kolektor_dolotowy = Supercharger Ống nạp (V8)
+!v8_supercharger = Supercharger (V8)
+!rolka_pompy_wody_supercharger = Supercharger Ròng rọc Máy bơm (V8 OHV)
+!v8_filtr_1 = Scoop Bộ lọc khí (V8 OHV)
+!v8_scoop_1 = Air Scoop (V8 OHV)
+!stradale_kolektor = Ống nạp (Stradale)
+!stradale_obudowaFiltra_dol = Thân bộ lọc khí (Stradale)
+!stradale_obudowaFiltra_gora = Nắp bộ lọc khí (Stradale)
+!stradale_pokrywa_glowicy1 = Nắp đầu động cơ A (Stradale)
+!stradale_pokrywa_glowicy2 = Nắp đầu động cơ B (Stradale)
+!stradale_przepustnica = Bướm ga (Stradale)
+!sebring_kopulkaRozdzielacza = Nắp bộ đánh lửa (Sebring)
+!sebring_wydech_poczatkowy = Đoạn ống xả trước (Sebring)
+!sebring_pokrywa_glowicy2 = Nắp đầu động cơ B (Sebring)
+!sebring_pokrywa_glowicy1 = Nắp đầu động cơ A (Sebring)
+!sebring_oslona_rozrzadu = Nắp truyền động (Sebring)
+!sebring_lancuch = Dây xích truyền động (Sebring)
+!sebring_kable = Dây đánh lửa (Sebring)
+!sebring_glowica = Đầu động cơ (Sebring)
+!sebring_blok = Khối động cơ (Sebring)
+!rim_maserati = Vành Stradale
+!rim_maserati_old = Vành Sebring
+!zwrotnicaPrzod_3 = Khớp tay lái trước D
+!w_koncowy_sebring = Ống bô sau (Sebring)
+!w_ruraLaczaca_stradale = Ống xả (Stradale)
+!stradale_tlumik_koncowy = Ống bô sau (Stradale)
+!delorean_rolka_pompy_wody = Ròng rọc Máy bơm (V6)
+!delorean_walek_rozrzadu = Trục cam (V6)
+!delorean_glowica_2 = Đầu động cơ B (V6)
+!delorean_glowica_1 = Đầu động cơ A (V6)
+!delorean_popychacze = Tay Rockers (V6)
+!delorean_rolka_walka = Bánh răng Cam (V6)
+!delorean_slizg_2 = Timing Guide B (V6)
+!delorean_slizg_1 = Timing Guide A (V6)
+!delorean_lancuch_1 = Dây xích truyền động A (V6)
+!delorean_lancuch_2 = Dây xích truyền động B (V6)
+!delorean_miska_olejowa = Chảo dầu (V6)
+!delorean_pokrywa_glowicy_2 = Nắp đầu B (V6)
+!delorean_pokrywa_glowicy_1 = Nắp đầu A (V6)
+!delorean_pasek_2 = Đai uống khúc B (V6)
+!delorean_walKorbowy = Trục khuỷu (V6)
+!delorean_filtr_srodek = Bộ lọc khí (V6)
+!delorean_pasek_1 = Đai uống khúc C (V6)
+!delorean_gearbox = Hộp số (V6)
+!delorean_kopulkaRozdzielacza = Nắp bộ đánh lửa (V6)
+!delorean_filtr_dol = Thân bộ lọc khí (V6) 
+!delorean_kolo_pasowe_walu = Ròng rọc trục khuỷu (V6)
+!delorean_pokrywa_rozrzadu = Nắp truyền động (V6)
+!delorean_kolektor_dolotowy = Ống nạp (V6)
+!delorean_blok = Khối động cơ (V6)
+!delorean_filtr_gora = Nắp bộ lọc khí (V6) 
+!delorean_wtrysk = Phun nhiên liệu cơ học
+!delorean_kolektor_wylotowy = Ống xả (V6)
+!delorean_przeplywomierz = Đơn vị hỗn hợp với Bướm ga (V6)
+!delorean_filtr_oleju = Bộ lọc dầu (V6) 
+!delorean_pompa_wody = Máy bơm (V6)
+!delorean_kable = Dây đánh lửa (V6)
+!w_tlumik_koncowy_delorean = Ống bô sau (V6)
+!wahaczDol_double_2 = Cánh tay treo đáy B
+!zwrotnicaTyl_double_2 = Vỏ khớp nối trục sau D
+!polosNapedowaTylna_2 = Trục lái sau B
+!rim_delorean = Vành DeLorean
+!piastaTyl_2 = Trục bánh sau B
+!delorean_gearbox_v8 = Hộp số B (V8)
+!delorean_kolektor_wydechowy_v8 = Ống xả B (V8)
+!tire_raceplus = Lốp đua Plus
+!w_koncowy_quattroporte = Ống bô sau (Quattroporte)
+!w_ruraLaczaca_quattroporte = Ống xả (Quattroporte)
+!v8_quattroporte_przepustnica = Bướm ga (Quattroporte)
+!v8_quattroporte_kolektorturbo = Turbo Exhaust Manifold (Quattroporte)
+!v8_quattroporte_kolektor = Ống nạp (Quattroporte)
+!v8_quattroporte_blok = Khối động cơ (Quattroporte)
+!rim_quattroporte = Vành Quattroporte
+!quattroporte_pokrywa_glowicy1 = Nắp đầu động cơ A (Quattroporte)
+!quattroporte_pokrywa_glowicy2 = Nắp đầu động cơ B (Quattroporte)
+!w_v8_poczatkowy_stary2 = Đoạn ống xả trước (T-Series)
+!v8_walek_stary2 = Trục cam (T-Series)
+!v8_rozrzad_oslona_stary2 = Nắp truyền động (T-Series)
+!v8_mocowanieRolki_stary2 = Con lăn Bracket (T-Series)
+!v8_lapa_stary2 = Máy phát điện Bracket (T-Series)
+!v8_alternator_stary2 = Máy phát điện (T-Series)
+!v8_pasek_1_stary2 = Đai uống khúc A (T-Series)
+!v8_pasek_2_stary2 = Đai uống khúc B (T-Series)
+!v8_miska_olejowa_stary2 = Chảo dầu (T-Series)
+!v8_kolektor_wydechowy_stary2 = Ống xả (T-Series)
+!v8_pompa_wspomagania_stary2 = Bơm trợ lực lái (T-Series)
+!v8_popychacz_stary2 = Valve Push Rod (T-Series)
+!v8_dzwigniezaworu_stary2 = Tay Rockers (T-Series)
+!v8_walKorbowy_stary2 = Trục khuỷu (T-Series)
+!v8_gearbox_stary2 = Hộp số (T-Series)
+!v8_korekOleju_stary2 = Cắm đầy dầu (T-Series)
+!v8_wtryski_stary2 = Đường nhiên liệu (T-Series)
+!v8_pokrywa_glowicy_1_stary2 = Nắp đầu động cơ A (T-Series)
+!v8_pokrywa_glowicy_2_stary2 = Nắp đầu động cơ B (T-Series)
+!v8_blok_stary2 = Khối động cơ (T-Series)
+!v8_kable_stary2 = Dây đánh lửa (T-Series)
+!v8_pompaWody_stary2 = Máy bơm (T-Series)
+!v8_glowica_2_stary2 = Đầu động cơ A (T-Series)
+!v8_glowica_1_stary2 = Đầu động cơ B (T-Series)
+!v8_kolektordolotowy_stary2 = Ống nạp (T-Series)
+!v8_gaznik_stary2 = Dual Carburetor (T-Series)
+!v8_przepustnica_stary2 = Bướm ga (T-Series)
+!v8_filtrDol_stary2 = Nắp bộ lọc khí tròn (T-Series)
+!v8_ruraFiltra_stary2 = Ống bộ lọc khí (T-Series)
+!v8_filtr_stary_2 = Bộ lọc khí tròn (T-Series)
+!w_w12_poczatkowy = Đoạn ống xả trước (W12)
+!w_w12_koncowy = Ống bô sau (W12)
+!w12_rolka_lancucha_rozrzadu = Dây xích truyền động Sprocket (W12)
+!w12_filtr = Bộ lọc khí (W12)
+!w12_obudowaFiltra_gora_1 = Nắp bộ lọc khí A (W12)
+!w12_przepustnica = Bướm ga (W12 V10)
+!w12_walKorbowy = Trục khuỷu (W12)
+!w12_blok = Khối động cơ (W12)
+!w12_lancuch_1 = Dây xích truyền động A (W12)
+!w12_walek_rozrzadu = Trục cam (W12)
+!w12_pokrywaLogo = Nắp Ống nạp (W12)
+!w12_obudowaFiltra_gora_2 = Nắp bộ lọc khí B (W12)
+!w12_napinacz = Kéo căn đai (W12)
+!w12_rolka_pompy_wody = Ròng rọc Máy bơm (W12)
+!w12_miskaOlejowa = Chảo dầu (W12)
+!w12_pasek = Đai uống khúc (W12)
+!w12_tlok = Piston với Conrod (W12)
+!w12_glowica_wkladka = Nắp trục cam (W12)
+!w12_listwaWtryskowa = Đường nhiên liệu (W12)
+!w12_termostat = Bộ điều nhiệt (W12)
+!w12_glowica = Đầu động cơ (W12)
+!w12_gearbox = Hộp số (W12)
+!w12_pokrywaRozrzadu = Nắp truyền động (W12)
+!w12_lancuch_2 = Dây xích truyền động B (W12)
+!w12_korekOleju = Cắm đầy dầu (W12)
+!w12_rolkaWalka = Bánh răng Cam (W12)
+!w12_filtr_oleju = Bộ lọc dầu (W12)
+!w12_obudowaFiltra_dol = Thân bộ lọc khí (W12)
+!w12_pokrywa_2 = Nắp đầu động cơ B (W12)
+!w12_kolektor_wydechowy = Ống xả (W12)
+!w12_pompa_wody = Máy bơm (W12)
+!w12_kolektor_dolotowy_gorny = Ống nạp A (W12)
+!w12_pokrywa_1 = Nắp đầu động cơ A (W12)
+!w12_kolektor_dolotowy_dolny = Ống nạp B (W12)
+!w12_turbo = Tăng áp (W12)
+!w12_kolo_zamachowe = Bánh đà (W12)
+!rim_bentley_77 = Vành T-Series
+!rim_bentley_continental = Vành Continental GT phải
+!polosNapedowa_7 = Trục lái trước F
+!walNapedowy_4 = Trục truyền động trước C
+!w12_dyferPrzod = Chuẩn đoán trước (W12)
+!skrzyniaRozdzielcza_2 = Thùng chuyển đổi (W12)
+
+//---CMS18
+
+!wentylatorChlodnicy_1 = Quạt bộ tản nhiệt Housing
+!wentylatorChlodnicy_1_fan_1 = ^!wentylatorChlodnicy_1 Fan
+!wentylatorChlodnicy_2 = ^!wentylatorChlodnicy_1 B
+!wentylatorChlodnicy_2_fan_1 = ^!wentylatorChlodnicy_2 Fan 1
+!wentylatorChlodnicy_2_fan_2 = ^!wentylatorChlodnicy_2 Fan 2
+!tlok_1_pokrywa_stopy = Nắp piston
+!tlok_1_pierscienie_1 = Vòng piston
+!zwrotnicaPrzod_oslona_1 = Nắp Axle Knuckle trước
+!zwrotnicaTyl_oslona_1 = Nắp Axle Knuckle sau
+!w12_tlok_pierscienie_1 = Vòng piston (W12)
+!chlodnica_2 = Bộ tản nhiệt C
+!chlodnica_2_nakretka = Bộ tản nhiệt C Cap
+
+!zaciskHamulcowy_tloczek_1 = Xi lanh bộ kẹp phanh
+!zwrotnicaPrzodBeben_1_double = Trục bánh 1
+!zwrotnicaPrzodBeben_oslona_1 = Trục bánh 2
+!zwrotnicaTyl_oslona_2 = Trục bánh 3
+!zwrotnicaTylBeben_oslona_1 = Trục bánh 4
+
+!amortyzator_double_rear = ^!amortyzator_double sau 
+!w_v8_poczatkowy_h1 = ^!w_v8_poczatkowy A
+!w_v8_poczatkowy_h2 = ^!w_v8_poczatkowy B
+!w_v8_poczatkowy_h3 = ^!w_v8_poczatkowy C
+!w_v8_poczatkowy_stary_h1 = ^!w_v8_poczatkowy_stary A
+!w_v8_poczatkowy_stary_h2 = ^!w_v8_poczatkowy_stary B
+!w_v8_poczatkowy_stary_h3 = ^!w_v8_poczatkowy_stary C
+!sankiPrzod_5 = ^!sankiPrzod_1 D
+!sankiPrzod_6 = ^!sankiPrzod_1 E
+
+//--------------------------------------------------Engines
+!engine_r4 = I4 DOHC AQC
+!engine_r4_sohc = I4 SOHC ABT
+!engine_r4_sohc_4x4 = I4 SOHC 4x4
+!engine_r4_sohc_wzdluzny = I4 SOHC BMJ
+!engine_r6_dohc_wzdluzny = I6 DOHC
+!engine_r4_turbo = I4 DOHC Turbocharged
+!engine_v8 = V8 DOHC AXK
+!engine_v8_stary = V8 1carb OHV
+!engine_v8_stary_2carb = V8 2carb OHV
+!engine_v8_4x4 = V8 DOHC 4x4
+!engine_r6_sohc = I6 M186
+!engine_v8_sec=V8 OHC M117
+!engine_v8_stary_scharged = V8 2carb OHV Supercharged
+!engine_v8_scharged = V8 DOHC Supercharged
+!engine_v8_stradale = V8 DOHC BCN
+!engine_r6_sebring = I6 SOHC
+!engine_v6_delorean = V6 SOHC
+!engine_v8_delorean = V8 DOHC CRG
+!engine_w12 = W12 Twin-Turbo
+!engine_v8_bentley = V8 OHV
+!engine_i3 = I3 DOHC
+!engine_i4 = I4 DOHC BFM
+!engine_i4_4x4 = I4 DOHC 4x4
+!engine_i6_old = I6 OHV
+!engine_rot_new = ROTARY 1
+!engine_rot_old = ROTARY 2
+!engine_v6_30 = V6 DOHC AKZ
+!engine_v8zz = V8 OHV ZZ
+!engine_v12 = V12 DOHC
+!engine_v8_quattroporte = V8 Twin-Turbo DOHC
+!engine_i3_turbo = I3 DOHC Turbocharged
+!engine_v8_hemi = V8 OHV HEMI
+!engine_v8_sixpack = V8 OHV 6P
+!engine_v8_magnum = V8 OHV MAG
+!engine_v8_409 = V8 OHV SS
+
+//--------------------------------------------------PhotoMode
+GUI_PM_TakePhoto = Chụp hình
+GUI_PM_Focus = Tiêu điểm
+GUI_PM_Up = Đi lên
+GUI_PM_Down = Đi xuống
+GUI_PM_Fov = Fov [Giữ]
+GUI_PM_Roll = Cuộn [Giữ]
+GUI_PM_Aperture = Khẩu độ [Giữ]
+
+//--------------------------------------------------TIRES
+!tire_standard = Lốp tiêu chuẩn
+!tire_standard_2 = ^!tire_standard B
+!tire_sport = Lốp thể thao
+!tire_race = Lốp đua
+!tire_race_2 = ^!tire_race B
+!tire_slick = Lốp trơn
+!tire_slick_2 = ^!tire_slick B
+!tire_4x4 = Lốp địa hình
+!tire_4x4_2 = ^!tire_4x4 B
+!tire_vintage = Lốp Vintage
+!tire_vintage_2 = ^!tire_vintage B
+!tire_vintage_wall1 = ^!tire_vintage Wall A
+!tire_vintage_wall2 = ^!tire_vintage Wall B
+!tire_vintage_wall3 = ^!tire_vintage Wall C
+
+//--- START do not translate!
+//--------------------------------------------------TUNING
+!t_filtr_paliwa_1 = ^!filtr_paliwa_1
+!t_w_v8_2_tlumik_srodkowy = ^!w_v8_2_tlumik_srodkowy
+!t_w_v8_poczatkowy = ^!w_v8_poczatkowy
+!t_w_r6_2_poczatkowy = ^!w_r6_2_poczatkowy
+!t_w_r6_2_ruraLaczaca = ^!w_r6_2_ruraLaczaca
+!t_w_v8_poczatkowy_2 = ^!w_v8_poczatkowy_2
+!t_w_r4_poczatkowy = ^!w_r4_poczatkowy
+!t_w_tlumik_srodkowy_B = ^!w_tlumik_srodkowy_B
+!t_w_ruraLaczaca = ^!w_ruraLaczaca
+!t_w_v8_2_rezonator = ^!w_v8_2_rezonator
+!t_w_r4_turbo_poczatkowy = ^!w_r4_turbo_poczatkowy
+!t_w_v8_poczatkowy_stary = ^!w_v8_poczatkowy_stary
+!t_w_r4_poczatkowy_wzdluzny = ^!w_r4_poczatkowy_wzdluzny
+!t_cewkaZaplonowa_1 = ^!cewkaZaplonowa_1
+!t_tarcza_sprzegla = ^!tarcza_sprzegla
+!t_listwa_wtryskowa_2 = ^!listwa_wtryskowa_2
+!t_r4_walek_rozrzadu = ^!r4_walek_rozrzadu
+!t_r4_walek_rozrzadu_sohc_1 = ^!r4_walek_rozrzadu_sohc_1
+!t_v8_walek_rozrzadu = ^!v8_walek_rozrzadu
+!t_cewka_1 = ^!cewka_1
+!t_listwa_wtryskowa = ^!listwa_wtryskowa
+!t_v8_2_filtr_sec_srodek = ^!v8_2_filtr_sec_srodek
+!t_r4_modul_zaplonowy_sohc_1 = ^!r4_modul_zaplonowy_sohc_1
+!t_v8_2_walek_rozrzadu = ^!v8_2_walek_rozrzadu
+!t_r6_2_walek_rozrzadu = ^!r6_2_walek_rozrzadu
+!t_filtr_1x4_srodek = ^!filtr_1x4_srodek
+!t_swieca_1 = ^!swieca_1
+!t_pompa_wspomagania = ^!pompa_wspomagania
+!t_filtr_1 = ^!filtr_1
+!t_r6_filtr = ^!r6_filtr
+!t_pompa_1 = ^!pompa_1
+!t_filtr_2x4_srodek = ^!filtr_2x4_srodek
+!t_tlok_1 = ^!tlok_1
+!t_r6_kolektor_wydechowy = ^!r6_kolektor_wydechowy
+!t_r4_kolektor_dolotowy3 = ^!r4_kolektor_dolotowy3
+!t_w_katalizator = ^!w_katalizator
+!t_v8_przepustnica = ^!v8_przepustnica
+!t_v8_kable_stary = ^!v8_kable_stary
+!t_kaszlak_gaznik_1 = ^!kaszlak_gaznik_1
+!t_v8_kolo_zamachowe = ^!v8_kolo_zamachowe
+!t_v8_glowica = ^!v8_glowica
+!t_r4_kable_sohc_1 = ^!r4_kable_sohc_1
+!t_r6_kable = ^!r6_kable
+!t_v8_kolektor_wydechowy_stary_1 = ^!v8_kolektor_wydechowy_stary_1
+!t_v8_2_kable = ^!v8_2_kable
+!t_v8_kolektordolotowy_2x4 = ^!v8_kolektordolotowy_2x4
+!t_w_tlumik_wzdluzny = ^!w_tlumik_wzdluzny
+!t_rozdzielaczZaplonu_1 = ^!rozdzielaczZaplonu_1
+!t_r6_gaznik_plaski = ^!r6_gaznik_plaski
+!t_v8_2_glowica = ^!v8_2_glowica
+!t_kaszlak_wydech_1 = ^!kaszlak_wydech_1
+!t_docisk_sprzegla = ^!docisk_sprzegla
+!t_kaszlak_glowica_1 = ^!kaszlak_glowica_1
+!t_v8_glowica_stara = ^!v8_glowica_stara
+!t_kopulkaRozdzielacza_1 = ^!kopulkaRozdzielacza_1
+!t_v8_gaznik_1 = ^!v8_gaznik_1
+!t_r6_2_glowica = ^!r6_2_glowica
+!t_r4_kolektor_wydechowy2 = ^!r4_kolektor_wydechowy2
+!t_r6_glowica_dohc = ^!r6_glowica_dohc
+!t_r6_2_kable = ^!r6_2_kable
+!t_r4_przepustnica = ^!r4_przepustnica
+!t_turbo_2 = ^!turbo_2
+!t_v8_kolektor_wydechowy = ^!v8_kolektor_wydechowy
+!t_r4_kolektor_dolotowy4 = ^!r4_kolektor_dolotowy4
+!t_palecRozdzielacza_1 = ^!palecRozdzielacza_1
+!t_r4_glowica_2 = ^!r4_glowica_2
+!t_w_r6_2_koncowy = ^!w_r6_2_koncowy
+!t_alternator = ^!alternator
+!t_r4_glowica_sohc_1 = ^!r4_glowica_sohc_1
+!t_r4_kolektor_wydechowy_sohc_1 = ^!r4_kolektor_wydechowy_sohc_1
+!t_kaszlak_kable_1 = ^!kaszlak_kable_1
+!t_r4_kolektor_wydechowy = ^!r4_kolektor_wydechowy
+!t_w_tlumik_koncowy = ^!w_tlumik_koncowy
+!t_w_v8_2_koncowy = ^!w_v8_2_koncowy
+!t_w_v8_koncowy = ^!w_v8_koncowy
+!t_w_v8_koncowy_stary = ^!w_v8_koncowy_stary
+!t_r4_pompa_wspomagania = ^!r4_pompa_wspomagania
+!t_r6_walek_rozrzadu = ^!r6_walek_rozrzadu
+!t_r6_kopulkaRozdzielacza = ^!r6_kopulkaRozdzielacza
+!t_r6_wydech_poczatkowy = ^!r6_wydech_poczatkowy
+!t_v8_walek_stary = ^!v8_walek_stary
+!t_sebring_glowica = ^!sebring_glowica
+!t_sebring_kable = ^!sebring_kable
+!t_sebring_kopulkaRozdzielacza = ^!sebring_kopulkaRozdzielacza
+!t_sebring_wydech_poczatkowy = ^!sebring_wydech_poczatkowy
+!t_stradale_kolektor = ^!stradale_kolektor
+!t_stradale_przepustnica = ^!stradale_przepustnica
+!t_stradale_tlumik_koncowy = ^!stradale_tlumik_koncowy
+!t_w_koncowy_sebring = ^!w_koncowy_sebring
+!t_w_ruraLaczaca_stradale = ^!w_ruraLaczaca_stradale
+!t_delorean_filtr_srodek = ^!delorean_filtr_srodek
+!t_delorean_glowica_1 = ^!delorean_glowica_1
+!t_delorean_glowica_2 = ^!delorean_glowica_2
+!t_delorean_kable = ^!delorean_kable
+!t_delorean_kolektor_dolotowy = ^!delorean_kolektor_dolotowy
+!t_delorean_kolektor_wydechowy_v8 = ^!delorean_kolektor_wydechowy_v8
+!t_delorean_kolektor_wylotowy = ^!delorean_kolektor_wylotowy
+!t_delorean_kopulkaRozdzielacza = ^!delorean_kopulkaRozdzielacza
+!t_delorean_walek_rozrzadu = ^!delorean_walek_rozrzadu
+!t_v8_quattroporte_kolektor = ^!v8_quattroporte_kolektor
+!t_v8_quattroporte_kolektorturbo = ^!v8_quattroporte_kolektorturbo
+!t_v8_quattroporte_przepustnica = ^!v8_quattroporte_przepustnica
+!t_w_koncowy_quattroporte = ^!w_koncowy_quattroporte
+!t_w_ruraLaczaca_quattroporte = ^!w_ruraLaczaca_quattroporte
+!t_w_tlumik_koncowy_delorean = ^!w_tlumik_koncowy_delorean
+!t_v8_alternator_stary2 = ^!v8_alternator_stary2
+!t_v8_filtr_stary_2 = ^!v8_filtr_stary_2
+!t_v8_gaznik_stary2 = ^!v8_gaznik_stary2
+!t_v8_glowica_1_stary2 = ^!v8_glowica_1_stary2
+!t_v8_glowica_2_stary2 = ^!v8_glowica_2_stary2
+!t_v8_kable_stary2 = ^!v8_kable_stary2
+!t_v8_kolektor_wydechowy_stary2 = ^!v8_kolektor_wydechowy_stary2
+!t_v8_kolektordolotowy_stary2 = ^!v8_kolektordolotowy_stary2
+!t_v8_pompa_wspomagania_stary2 = ^!v8_pompa_wspomagania_stary2
+!t_v8_przepustnica_stary2 = ^!v8_przepustnica_stary2
+!t_v8_walek_stary2 = ^!v8_walek_stary2
+!t_w12_filtr = ^!w12_filtr
+!t_w12_glowica = ^!w12_glowica
+!t_w12_kolektor_dolotowy_gorny = ^!w12_kolektor_dolotowy_gorny
+!t_w12_turbo = ^!w12_turbo
+!t_w12_kolektor_dolotowy_dolny = ^!w12_kolektor_dolotowy_dolny
+!t_w12_kolektor_wydechowy = ^!w12_kolektor_wydechowy
+!t_w12_walek_rozrzadu = ^!w12_walek_rozrzadu
+!t_w12_przepustnica = ^!w12_przepustnica
+!t_w12_listwaWtryskowa = ^!w12_listwaWtryskowa
+!t_w12_tlok = ^!w12_tlok
+!t_w_w12_poczatkowy = ^!w_w12_poczatkowy
+!t_w_w12_koncowy = ^!w_w12_koncowy
+!t_w_v8_poczatkowy_stary2 = ^!w_v8_poczatkowy_stary2
+//--- END do not translate!
+
+//------------------------------------------------------------------------ Story Missions=
+
+MissionDesc1=Cách đây một năm rưỡi tôi đã mua chiếc xe này cho con trai tôi. Hắn nói rằng hắn không quan tâm đến bất cứ điều gì ngoại trừ việc lái nó và thỉnh thoảng đổ xăng ở trạm xăng. Vui lòng kiểm tra dầu và lốp xe.
+MissionDesc2=Tôi đọc trên tờ báo rằng các linh kiện truyền động nên được thay thế thường xuyên hơn so với khuyến cáo của nhà sản xuất. Đối với dầu cũng vậy! Vui lòng kiểm tra cả hai và thay thế bất cứ thứ gì bạn cho là cần thiết.
+MissionDesc3=Hey! Tôi là RoadMaster1234! Đó là những gì họ gọi tôi trên Internet! Tôi là bậc thầy đằng sau Vô lăng... trong trò chơi! Giờ tôi có một chiếc thực và tôi sẽ cho người không tin rằng tôi có thể làm gì trên đường thực! Vậy, hãy làm gì đó với vành này vì nó làm tôi chậm lại! Ồ, và tôi nghĩ rằng có gì đó không ổn với động cơ, nó phát ra tiếng nổ lạ. Bảo trọng!
+MissionDesc4=Khi lái xe qua một thành phố, tôi không nhận thấy gờ giảm tốc. Vui lòng kiểm tra hệ thống treo trước, bởi vì tôi có ấn tượng rằng có điều gì đó không ổn...
+MissionDesc5=Tôi mua máy này từ một người bạn cần tiền gấp. Anh ta đảm bảo với tôi rằng xe vẫn ổn, nhưng tôi cảm thấy nó đang kéo sang phải... và mùi lạ này... như nấm? Theo những gì tôi nhớ, anh ấy làm việc trong văn phòng, không phải bán hàng... Dù sao, hãy kiểm tra xem nó có vấn đề gì không và làm cho nó có thể sử dụng được.
+MissionDesc6=Xe của tôi không nổ máy nữa. Khi nó chạy nó phát ra những tiếng động lạ. Mỗi buổi sáng, tôi sẽ đánh thức toàn bộ khu phố mình. Hãy làm cho nó khởi động và xem liệu bạn có thể làm gì đó để nó không quá ồn ào.
+MissionDesc7=Tôi mua xe này từ đại lý. Nó không rẻ nhất nhưng là thỏa thuận tốt! Vấn đề là rất khó chuyển qua các bánh răng... và đôi khi có thứ gì đó đập vào bên trái... và bên phải. Kiểm tra tình trạng chung của xe và sửa bất cứ thứ gì bạn thấy bị hỏng. Đại lý đảm bảo với tôi rằng mọi thứ gần như mới tinh!
+MissionDesc8=Xin chào! Tôi đã mua Olsen Grand Club hoàn toàn mới! Đó là xe tuyệt vời. Trong quảng cáo, người ta nói rằng xe này rất tuyệt để đi địa hình nhưng tôi ấn tượng rằng lái chiếc SUV trên cồn cát không phải là ý kiến hay. Có thứ gì đó kêu kèn kẹt và tôi nhận thấy có rò rỉ... Vui lòng làm gì đó với nó. Tôi cần xe cho chuyến đi địa hình với bạn bè của tôi vào cuối tuần này.
+MissionDesc9=Tôi đang trên đường trở về từ bữa tiệc và... tôi tin rằng mình có thể đánh vào cái hố khá lớn hoặc thứ gì đó. Vui lòng đánh giá thiệt hại và sửa nếu cần thiết... chiếc này thuộc về bố vợ tôi...
+MissionDesc10=Chào buổi trưa. Tôi gặp tai nạn nhỏ trên đường cao tốc. Xe 18 bánh đẩy tôi ra khỏi đường. Tôi biết rằng xe trông không còn tuyệt nữa nhưng tôi không thể mua được bất cứ thứ gì khác ngay bây giờ. Tôi chỉ cần nó chạy.
+MissionDesc11=Xin chào, lại là tôi... Có vẻ như chuyến đi vừa rồi của tôi hơi quá sức đối với tôi và chiếc xe của tôi bị sụt cân một chút. Tôi được những người ở đại lý cho biết rằng tất cả những điều này là do tôi lắp sai lốp xe. Vui lòng lắp đúng lốp xe địa hình và làm bất cứ điều gì cần thiết để xe có thể lái trở lại. Tôi dự định lái chiếc xe này qua Siberia hai tuần kể từ bây giờ.
+MissionDesc12=Tôi trở thành nạn nhân của sự thất bại... Nhà sản xuất tuyên bố rằng tất cả là lỗi của tôi khiến Bơm ABS bị lỗi và phanh bị khóa. Tất cả đã đi xuống từ đó... Tôi bắt đầu trượt và bị vài vết xước trên xe. Điều quan trọng là tôi ổn. Xem lại xe và sửa bất cứ thứ gì bị hỏng. Tôi nhận ra rằng ngoài phanh tôi có thể sử dụng Vô lăng mới. Một túi khí mới cũng là ý tưởng hay.
+MissionDesc13=Xin chào. Gần đây tôi đi công tác xa hai tuần và tôi để chồng sử dụng xe của tôi trong thời gian đó. Bây giờ tôi trở lại, một cái gì đó phải đi! Và ý tôi là người chồng, không phải xe. Xem những gì anh ấy làm với nó vì tôi thực sự không có thời gian để mô tả tất cả. Tôi đang trên đường đến gặp luật sư để lo giấy tờ ly hôn. Chỉ cho tôi biết khi xe sẵn sàng.
+MissionDesc14=Chào bạn! Đó là tôi và tôi cần bạn giúp lần nữa. Sự nghiệp tay đua đường phố của tôi đang tiến triển tốt và bây giờ tôi kiếm được một số tiền từ một số video trên Internet, tôi sẵn sàng để điều chỉnh con thú của mình một chút. Bạn biết đấy, khi đèn xanh và tôi thực sự bước lên nó, tôi cảm thấy mình phải làm việc chăm chỉ hơn trước. Nhân tiện, xe không cảm thấy thoải mái như nó phải. Làm điều gì đó về nội thất và xem liệu động cơ có cần điều chỉnh hoặc gì đó không. Hẹn gặp lại sau!
+MissionDesc15=Xin chào, lúc trước, tôi có xe vừa mới ngừng hoạt động... Tôi không biết chuyện gì xảy ra vì tôi không biết nhiều về xe. Vợ cũ của tôi nói rằng tôi là kẻ thất bại nhưng lái xe thì không như họ nói, phẫu thuật tên lửa hay... đó là khoa học não? Umm... Dù sao, hãy xem những phần nào bị thiếu và những gì cần được sửa.
+MissionDesc16=Xin chào, lại là tôi. Lần mua cuối của tôi không tuyệt vời như tôi mong đợi nhưng lần này tôi tìm thấy một viên ngọc quý thực sự cho vợ mình. Cuộc đấu giá trên internet đó là kho tàng tuyệt vời về xe đã qua sử dụng và tôi làm mọi thứ theo "phong cách khoai tây đi văng" - từ chiếc ghế dài của mình! Tôi chưa nhìn thấy xe nhưng đánh giá từ hình ảnh tôi không tin rằng nó cần phải làm việc nhiều. Xe đang đến thẳng ga ra của bạn. Vui lòng kiểm tra dầu và thực hiện bất kỳ sửa chữa cần thiết nào. Cảm ơn!
+MissionDesc17=Chào anh bạn! Tôi cần phải thoát khỏi xe và tôi cần bạn làm cho nó đẹp. Bạn biết đấy, mọi người thích những thứ sáng bóng vì vậy, hãy làm cho nó tỏa sáng! Nó gần như hoàn toàn mới nên không có nhiều việc phải làm. Bạn có thể làm được!
+MissionDesc18=Tôi có cái độc đáo cho bạn! Cùng với bạn của mình, tôi cứu được xe đua nhỏ từ bãi phế liệu. Tôi muốn cho nó cơ hội khác trong đời và tôi muốn đua xe này trên đường đua thực tế. Để làm được điều đó, trước tiên em bé này cần phải chạy và đây là lúc bạn vào. Hãy cố gắng hết sức và chạy thật nhanh! Tôi không quan tâm nó trông như thế nào, tôi chỉ muốn nó diễn ra như thế nào... bạn biết không.
+MissionDesc19=Xin chào bạn của tôi. Lại là tôi, kẻ cuồng địa hình. Tôi có cảm giác rằng Câu lạc bộ Grand của tôi dường như không thực sự phù hợp cho những cuộc phiêu lưu địa hình thực sự hoặc đó có thể chỉ là vận rủi của tôi. Hơn hết, lũ gấu hoang dã điên cuồng gặm xe tội nghiệp của tôi. Một số linh kiện thân bị ăn mòn vì vậy vui lòng thay thế chúng và thực hiện bất kỳ sửa chữa cần thiết nào. Cảm ơn bạn.
+MissionDesc20=Phương tiện này được truyền từ thế hệ này sang thế hệ khác. Khi cha tôi bằng tuổi tôi, ông ấy nhận nó từ cha mình. Thật không may, bố tôi chưa bao giờ có bằng lái xe và chiếc xe chỉ nằm trong nhà kho suốt những năm đó. Bây giờ nó được truyền lại cho tôi, tôi muốn khôi phục lại vinh quang trước đây. Hãy làm bất cứ điều gì bạn có thể để cho vẻ đẹp cổ điển này trông giống như xe mới lần nữa.
+MissionDesc21=Xin chào. Đã đến lúc phải gia hạn đăng ký trên xe này và có nghĩa là phải vượt qua kiểm tra. Nó không cần phải hoàn hảo, tôi chỉ cần nó qua. Hãy nhìn nó và xem những gì bạn có thể làm. Cảm ơn bạn.
+MissionDesc22=Xe của tôi có vấn đề nghiêm trọng về tay lái. Tôi không cảm thấy an toàn khi lái nó nữa. Xin vui lòng sửa bất cứ điều gì sai với nó. Cảm ơn bạn.
+MissionDesc23=Bolthorn Grand Mojave của tôi là con ngựa tại vườn nho. Thành thật mà nói, tôi không dễ dãi với nó. Nó vẫn ổn nhưng gần đây nó trở nên khó chịu. Nội thất cũng cần được chú ý nhiều. Xem bạn có thể làm gì với nó. Cảm ơn bạn. 
+MissionDesc24=Xin chào. Tôi có thể nói gì... theo người bán xe cũ đó là loại đặc biệt. Lời tán dương tôi mới nhận được từ tên hề đó đang trở nên tồi tệ nhất theo từng ngày. Kiểm tra tổng thể và thay thế bất kỳ linh kiện nào bị mòn. Cảm ơn!
+MissionDesc25=Đây là phiên bản giới hạn của Kieran. Với cái giá mà tôi trả, đó thực tế là vụ ăn cắp. Vấn đề là nó nằm trong nhà kho một khoản. Kiểm tra nó xem liệu nó có phải là phát hiện tuyệt vời hay chỉ là mảnh vụn. Dù bằng cách nào, xin vui lòng sửa nó cho tôi. Tiền không phải là vấn đề ở đây. Chỉ cần làm cho nó đẹp.
+MissionDesc26=Học sinh của tôi phàn nàn rằng ly hợp rất nặng. Một vấn đề khác là chúng tôi có sự cố nhỏ gần đây kết thúc trong cuộc đụng độ với lề đường ở tốc độ khá cao. Sau khi vụ việc xảy ra, tôi nhận thấy có thứ gì đó nhỏ giọt từ gầm xe. Tôi muốn bạn vượt qua chiếc xe và sửa bất cứ điều gì bạn tìm thấy để tài xế trẻ của tôi không sợ ngồi sau tay lái của xe này.
+MissionDesc27=Xin chào, lại là tôi và lần này với bộ bánh xe mới. Bianco không may để thua trong trận chiến với những kẻ ghét Internet và... chà, đó là lịch sử. Bây giờ tôi có xe mới, có nghĩa là nó mới đối với tôi. Có chút vấn đề về rỉ sét nhưng tôi chắc rằng nó sẽ không có vấn đề gì với bạn. Nhân tiện, hãy xem xét kỹ lưỡng và đảm bảo rằng mọi thứ đều theo thứ tự. Hẹn gặp lại sau!
+MissionDesc28=Tôi vừa trở về sau chuyến đi dài. Không có vấn đề gì trên đường đi nhưng tôi muốn bạn kiểm tra tình trạng tổng thể của xe tôi. Cảm ơn bạn.
+MissionDesc29=Xin chào! Tôi cần sự giúp đỡ của bạn vì tôi đang vội. Tôi nghe nói rằng bạn là người cần để đến. Tôi đang trên đường đi làm và tôi nghe thấy gì đó giống như có gì đó vỡ. Một lúc sau, chiếc xe chết máy và tôi nhận thấy nó để lại vũng nước trên đường. Vui lòng xem con tôi có gì sai và sửa bất cứ điều gì bạn tìm thấy. Tôi đi làm muộn rồi!
+MissionDesc30=Tôi vừa mua đống rác này. Người bán nói rằng "có thể thiếu một vài thứ"... có vẻ như anh ta có khiếu hài hước thú vị. Giá cả phù hợp nên tôi vẫn lấy nó. Xem linh kiện nào còn thiếu và làm bất cứ điều gì cần phải làm. Cảm ơn.
+MissionDesc31=Xin chào. Người bạn của tôi đã giới thiệu bạn là chuyên gia để đến. Dù sao, tôi mua xe này trong cuộc đấu giá. Tôi đoán nó được sử dụng như nhà tài trợ linh kiện nhưng tôi quyết sửa cho cô ấy. Xem linh kiện nào còn thiếu và đặt cô ấy lại với nhau. Cảm ơn bạn.
+MissionDesc32=Xin chào. SUV của tôi rất tuyệt trên đường nhưng tôi cảm thấy rằng không nên lạm dụng khi đi địa hình. Vì vậy, tôi tiết kiệm được một chút và tôi nhận được cái gì đó đặc biệt từ người bạn tôi. Điều đó sẽ rất phù hợp cho địa hình điên cuồng. Tôi hy vọng tôi thực sự có thể đẩy nó giống như chủ sở hữu trước đó đã làm. Xem những gì cần được sửa và thay đổi nội thất tồi tệ đó. Nó không phù hợp với phong cách của tôi.
+MissionDesc33=Hey. Tôi cũng là thợ sửa xe giống như bạn! Ít nhất thì tôi đang cố trở thành. Vợ tôi nghĩ rằng tôi không biết mình đang làm gì và tôi không muốn cô ấy thỏa mãn nên cô ấy không biết tôi đang ở đây. Hãy xem tôi sửa xe của mình như thế nào và nếu bạn thấy có gì sai, hãy sửa lại cho đúng. Và nếu vợ tôi hỏi... tôi chưa bao giờ ở đây! Cảm ơn anh bạn!
+MissionDesc34=Hi. Tôi có xe đua cũ này để tôi có thể điên cuồng trên đường đua. Vì lý do an toàn, xe phải ở trong tình trạng hoàn hảo. Tôi tin rằng bạn biết chính xác những gì cần phải làm.
+MissionDesc35=Xin chào, lại là tôi. Vợ tôi bị mất lái khi đang lái xe trên đường ướt. May mắn thay cô ấy không đụng bất cứ thứ gì. Tôi tự hỏi không biết có gì không ổn với tay lái hay không vì tôi có thể cảm thấy chiếc xe đang lùi sang một bên và đôi khi tôi có thể nghe thấy tiếng động lạ phát ra từ bánh trước. Xem nếu bạn có thể sửa nó vì tôi không muốn giao dịch với người bán xe cũ nữa. Tôi chưa đủ tiền mua xe mới.
+MissionDesc36=Xin chào! Tôi mang cho bạn mảnh vụn khác... ờ, ý tôi là, viên đá quý khác mà tôi đang rao bán. Có vẻ như chủ trước không dễ dãi với nó. Hãy nhớ rằng, nó phải tỏa sáng! Ồ, sẽ rất tuyệt nếu nó cũng chạy. Hãy cho tôi biết khi bạn hoàn thành.
+MissionDesc37=Xin chào. Tôi đến đây vì tôi nghe nói rằng khi nói đến xe, bạn thực sự hiểu nghề của mình. Đây là xe con gái tôi mà nó nhận được như món quà từ ông bà nó. Con bé chăm sóc nó rất tốt... ít nhất là nó trông như thế. Mặt khác, công cụ kỹ thuật không thực sự là mặt mạnh của con bé. Mới gần đây con bé cần thêm ít dầu động cơ và con bé đổ nhầm loại dầu. Bạn biết điều đó có nghĩa là gì. Kiểm tra kỹ lưỡng chiếc xe và sửa bất cứ điều gì bạn thấy sai với nó.
+MissionDesc38=Heeey! Tôi nhận được số tiền mặt cứng từ nhà tài trợ và điều đó có nghĩa là cuối cùng tôi có thể thực hiện thay đổi và sửa chữa cần thiết. Sơn lại xe của tôi! Tôi luôn nghe nói rằng xe màu đỏ luôn chạy nhanh hơn. Tiếp theo, kiểm tra bánh xe và lốp xe và xem có bất kỳ điều gì khác có thể cần chú ý hay không. Tôi nhận thấy hiện tượng cót két khi chuyển giữa các bánh răng và khi tôi tăng tốc. Chỉ cần sửa bất cứ điều gì bạn thấy sai với nó. Hẹn gặp lại sau!
+MissionDesc39=Xin chào. Tôi thấy xe này đang dần chìm xuống đất ở sân sau của ông tôi. Tôi biết rằng nó từng thuộc về dì tôi nhưng cô ấy không muốn nó nữa và tôi có thể có nó. Tôi nghĩ "tuyệt vời", nhưng trong điều kiện này tôi không thể làm được gì nhiều. Tôi nghe điều tuyệt vời về bạn và nghĩ rằng bạn có thể hồi sinh nó. Hãy xem liệu bạn có thể đưa xe cổ điển này trở lại ánh hào quang trước đây hay không.
+MissionDesc40=Buổi sáng tốt lành! Tôi biết rằng bạn là thợ máy trung thực và là người đáng tin cậy. Vì vậy, tôi giới thiệu cho bạn đứa con tôi - DC Typhoon. Nó từng đạt tốc độ của cơn lốc xoáy F5 trên đường đua... nhưng đó là cách đây rất lâu. Tôi muốn bạn làm cho xe này trông và lái như mới một lần nữa. Tôi trông cậy vào bạn!
+MissionDesc41=Chào. Giao dịch mua mới của tôi được đền đáp. Castor này phù hợp với địa hình hơn nhiều so với SUV. Thật không may, vận rủi vẫn còn với tôi... và tôi có chút sơ suất trong rừng. Đó là câu chuyện dài, bạn biết tôi và bạn biết những ý tưởng tuyệt vời của tôi mà đôi khi tôi có được. Tôi hy vọng bạn sẽ không từ bỏ tôi khi bạn nhìn thấy xe. Làm bất cứ điều gì bạn có thể và sửa nó.
+MissionDesc42=Xin chào. Đã lâu kể từ chuyến thăm cuối cùng của tôi nhưng điều đó nói lên chất lượng công việc của bạn. Xe tôi cũng như xe vợ tôi cuối cùng cũng chạy như bình thường kể từ ngày đầu tiên. Chúng là hoàn hảo. Vì vậy, hôm nay tôi mang đến cho bạn xe con gái tôi mà nó vừa mua. Ngay cả đối với con mắt chưa được đào tạo của tôi, điều này chỉ là vô vọng... Tôi luôn nghĩ rằng co bé ít nhất cũng hợp lý như bố nó nhưng... Tôi sẽ để bạn làm giám khảo.
+MissionDesc43=Thế nào rồi? Tôi mua xe này trong cuộc đấu giá. Tình trạng chung của xe là tuyệt vời và vấn đề duy nhất là động cơ. Tôi nghĩ rằng tôi sẽ có thể tự mình chăm sóc nó, nhưng không thành công lắm... Tôi tháo nó ra và... tôi dường như đánh mất vài thứ và một vài trong số chúng vừa bị hỏng. Vui lòng xem kỹ phần dưới mui xe, xem còn thiếu gì và làm bất cứ điều gì có thể để xe chạy trở lại.
+MissionDesc44=Chào. Tôi mua món vứt bỏ này với giá gần như không có gì từ ông già cần tiền. Tôi không biết liệu nó có giá trị gì không. Thực hiện cuộc đại tu tổng thể và tôi sẽ quyết định phải làm gì với nó sau.
+MissionDesc45=Có chuyện gì vậy? Tôi đã có 5 triệu người đăng ký và rất nhiều nhà tài trợ! Đã đến lúc tự thưởng cho mình bộ bánh xe mới! Tôi biết chính xác nơi tôi nên đến đầu tiên với giao dịch mua mới của mình! Đây là chiếc Elenti Calliope gần như mới! Con thú nhỏ này là hoàn hảo cho tôi! Mặc dù nó không có vẻ ngoài hoặc âm thanh tốt nhất... và nó không chạy như bình thường, tôi chắc rằng bạn có thể xử lý nó! Cảm ơn trước! Hẹn gặp lại!
+MissionDesc46=Hey. Tôi phải vội vàng nâng cấp lên xe lớn hơn vì gia đình tôi ngày càng đông hơn và coupe nhỏ của chúng tôi không phù hợp với tất cả chúng tôi, kể cả trẻ sơ sinh. Tôi quyết định về mô hình cụ thể một thời gian trước và bây giờ tôi đã hiểu, tôi phải nói rằng nó không thực sự là ví dụ tốt nhất về "hợp lý". Tuy nhiên, tôi vẫn thích nó, vì vậy hãy sửa nó để tạo sự thoải mái cho tôi và gia đình. Cảm ơn!
+MissionDesc47=Xin chào. Tôi làm việc tại bảo tàng xe và tôi muốn nhờ bạn khôi phục lại xe lịch sử tuyệt đẹp này. Nếu bạn làm tốt, tôi nghĩ chúng tôi sẽ có thể thiết lập mối quan hệ kinh doanh lâu dài với bạn. Chúng tôi có nhiều tác phẩm kinh điển rất cần được chú ý. Tiền không có vấn đề gì. Chúc may mắn.
+MissionDesc48=Xin chào. Tôi nghe nói rằng bạn sắp đi nghỉ. Vâng, trước khi bạn đi, hãy nghe điều này - Tôi may mắn và tôi trúng số! Tôi bán Castor cũ và quyết định mua Rex lần này. Thật không may, tôi không nghĩ thẳng trong sự phấn khích của mình và thay vì mua cái mới tinh, tôi mua cái này vì tôi yêu màu này. Thông minh, phải không? Dù sao, bạn có thể vui lòng làm mới nó một chút được không? Chỉ cần thực hiện loại "đại tu" và xem nó có gì sai. Tôi khá chắc rằng không phải mọi thứ đều hoạt động như bình thường. Hẹn gặp lại!
+MissionDesc49=Xin chào. Tôi vừa mua xe mơ ước của mình trong cuộc đấu giá. Tôi nhận ra rằng nó không ở trong tình trạng tốt nhất nhưng tôi tin rằng thợ cơ khí nổi tiếng như vậy sẽ có thể xác định và sửa tất cả các vấn đề.
+MissionDesc50=Xin chào! Đó là đại lý yêu thích của bạn - Mike! Đây là đống rác cuối cùng mà tôi mang đến cho bạn trong mùa giải này, tôi hứa. Tôi hiểu rằng đây không phải là điều tốt nhất xảy ra với bạn ngay trước kỳ nghỉ nhưng hãy cố gắng hết sức. Tôi sẽ giữ xe này cho riêng mình, bạn biết đấy... mọi thứ phải sáng bóng và mới! Tôi tin bạn! Ồ, một điều nữa - đừng sợ hãi khi bạn nhìn vào dưới mui xe!
+
+//------------------------------------------------------------------------ End Story Missions
+//------------------------------------------------------------------------ Tutorial
+TutorialDesc1=Chào mừng bạn đến với Trình mô phỏng cơ khí xe! Xem ga ra mới, mở khóa hoàn toàn và kiểm tra hoạt động của linh kiện khác nhau của xưởng. Bạn có thể kết thúc phần hướng dẫn bằng cách lái thử xe bất cứ lúc nào. Chúc may mắn!
+TutorialDesc2=Bạn có thể truy cập menu ĐẶT HÀNG từ menu bánh hoặc bằng cách sử dụng điện thoại. Sau đó chọn đơn hàng mà bạn quan tâm và chấp nhận nó. Sau khi bạn chấp nhận đơn hàng, xe sẽ tự động xuất hiện trên đường xe chạy của bạn. Khi bạn đến gần chiếc xe, bạn có thể sử dụng menu hình bánh để xem THẺ XE.
+TutorialDesc3=Máy tính cho phép bạn mua linh kiện mới.
+TutorialDesc4=Mở khóa bằng cách sử dụng điểm kỹ năng mà bạn có được cùng với việc đạt được các cấp độ kinh nghiệm cao hơn.
+TutorialDesc5=Dùng để kiểm tra khả năng vận hành của xe. Kiểm tra hệ thống lái, hệ thống treo và phanh của xe.
+TutorialDesc6=Dùng để nâng xe. Cung cấp cho bạn quyền truy cập vào khung và phần dưới cùng của động cơ không thể tiếp cận được trên xe đang đứng trên mặt đất.
+TutorialDesc7=Cho bạn cơ hội sửa linh kiện bị mòn.
+TutorialDesc8=Cho phép lưu trữ linh kiện mà bạn hiện không cần. Bạn có thể mở rộng diện tích nhà kho khi lượng hàng tồn kho của bạn tăng lên.
+TutorialDesc9=Cho phép bạn thực hiện các việc sơn khác nhau.
+TutorialDesc10=Cho phép bạn sửa và chỉnh các linh kiện khác nhau của nội thất xe.
+TutorialDesc11=Dùng để nén lò xo cuộn treo
+TutorialDesc12=Cho phép bạn thực hiện sửa linh kiện thân xe không thể tháo rời khỏi xe.
+TutorialDesc13=Tại đây, bạn có thể thực hiện cải tiến mà bạn có cùng với đạt cấp độ cao hơn.
+TutorialDesc14=Dùng để tháo toàn bộ động cơ khỏi xe.
+TutorialDesc15=Dùng để lắp lốp vào vành xe và cân bằng bánh xe đã lắp.
+TutorialDesc16=Sử dụng bản đồ để chọn nơi đi. Chọn đường thử để lái thử xe.
+TutorialDesc17=Cho phép bạn kiểm tra hệ thống phanh và hệ thống treo của xe.
+TutorialDesc18=Cho phép loại bỏ dầu động cơ qua sử dụng một cách an toàn. Nếu không sử dụng nó có thể dẫn đến các khoản phí bổ sung để làm sạch dầu.
+TutorialDesc19=Cho phép bạn gắn động cơ và giúp bạn dễ dàng truy cập vào nó.
+
+TutorialTitle1=Lời chào
+TutorialTitle2=Đặt hàng
+TutorialTitle3=Máy vi tính
+TutorialTitle4=Công cụ kiểm tra
+TutorialTitle5=Đường đua thử nghiệm
+TutorialTitle6=Xe nâng
+TutorialTitle7=Bàn sửa chữa
+TutorialTitle8=Kho linh kiện
+TutorialTitle9=Cửa hàng sơn
+TutorialTitle10=Bộ công cụ trang trí nội thất
+TutorialTitle11=Nén nhíp
+TutorialTitle12=Máy hàn
+TutorialTitle13=Hộp công cụ
+TutorialTitle14=Cần trục động cơ
+TutorialTitle15=Bộ đổi lốp/Bánh xe cân bằng
+TutorialTitle16=Cổng chính/Bản đồ
+TutorialTitle17=Đường thử nghiệm
+TutorialTitle18=Xả dầu
+TutorialTitle19=Giá đỡ động cơ
+=
+//--------------- Upgrades=
+=
+UPGname_fast_examine=Mắt đại bàng
+UPGdesc_fast_examine.1=50% kiểm tra linh kiện nhanh hơn
+UPGdesc_fast_examine.2=100% kiểm tra linh kiện nhanh hơn
+UPGdesc_fast_examine.3=150% kiểm tra linh kiện nhanh hơn
+=
+UPGname_fast_partremove=Cánh tay mạnh mẽ
+UPGdesc_fast_partremove.1=50% lắp đặt và gỡ linh kiện nhanh hơn
+UPGdesc_fast_partremove.2=100% lắp đặt và gỡ linh kiện nhanh hơn
+UPGdesc_fast_partremove.3=150% lắp đặt và gỡ linh kiện nhanh hơn
+=
+UPGname_fast_mount=Bàn tay linh hoạt
+UPGdesc_fast_mount.1=50% vặn và tháo vít nhanh hơn
+UPGdesc_fast_mount.2=100% vặn và tháo vít nhanh hơn
+UPGdesc_fast_mount.3=150% vặn và tháo vít nhanh hơn
+=
+UPGname_fast_movement=Như một cơn gió
+UPGdesc_fast_movement.1=10% đi bộ nhanh hơn
+UPGdesc_fast_movement.2=25% đi bộ nhanh hơn
+UPGdesc_fast_movement.3=50% đi bộ nhanh hơn
+=
+UPGname_shop_discount=Người thân yêu
+UPGdesc_shop_discount.1=5% giảm giá tại cửa hàng
+UPGdesc_shop_discount.2=10% giảm giá tại cửa hàng
+UPGdesc_shop_discount.3=15% giảm giá tại cửa hàng
+=
+UPGname_fix=Tái chế
+UPGdesc_fix.1=Tỷ lệ sửa chữa thành công lên 55%. 
+UPGdesc_fix.2=Tỷ lệ sửa chữa thành công lên 65%.
+UPGdesc_fix.3=Tỷ lệ sửa chữa thành công lên 75%.
+UPGdesc_fix.4=Tỷ lệ sửa chữa thành công lên 85%.
+UPGdesc_fix.5=Tỷ lệ sửa chữa thành công lên 95%.
+UPGdesc_fix.6=Bạn có thể sửa chữa thân linh kiện
+=
+UPGname_instant_examine=Được đào tạo
+UPGdesc_instant_examine.1=Kiểm tra ngay 3 linh kiện khi thấy xe lần đầu (đặt hàng, kho, bãi phế liệu, đấu giá)
+UPGdesc_instant_examine.2=Kiểm tra ngay 9 linh kiện khi thấy xe lần đầu (đặt hàng, kho, bãi phế liệu, đấu giá)
+UPGdesc_instant_examine.3=Kiểm tra ngay 20 linh kiện khi thấy xe lần đầu (đặt hàng, kho, bãi phế liệu, đấu giá)
+=
+UPGname_unlock_tablet=Máy tính bảng
+UPGdesc_unlock_tablet.1=Mở khóa máy tính bảng. Cho phép bạn mua sắm các bộ phận ở bất kỳ đâu trong nhà để xe của bạn. Bạn có thể sử dụng nó từ menu bánh hoặc bằng cách nhấn T.
+=
+UPGname_unlock_tires=Máy kiểm tra lốp xe
+UPGdesc_unlock_tires.1=Mở khóa máy kiểm tra độ mòn lốp. Với công cụ này, bạn có thể kiểm tra tình trạng của lốp xe. Bạn có thể sử dụng nó từ menu bánh khi ở Phần Tổng quan.
+=
+UPGname_unlock_obd=Máy quét OBD
+UPGdesc_unlock_obd.1=Mở khóa máy quét OBD. Nó sẽ kiểm tra rất nhiều linh kiện khác nhau được kết nối với máy tính xe. Không hoạt động với xe cũ hơn! Bạn có thể sử dụng nó từ menu bánh khi ở Phần Tổng quan.
+=
+UPGname_unlock_cylinder=Máy kiểm tra nén
+UPGdesc_unlock_cylinder.1=Mở khóa Máy kiểm tra nén. Bài kiểm tra này sẽ cung cấp cho bạn thông tin về tình trạng chung của động cơ. Các linh kiện như đầu xi-lanh, khối động cơ và các piston sẽ được kiểm tra. Bạn có thể sử dụng nó từ menu bánh khi ở Phần Tổng quan.
+=
+UPGname_unlock_electronic=Đồng hồ điện tử vạn năng
+UPGdesc_unlock_electronic.1=Mở khóa đồng hồ điện tử vạn năng. Một công cụ đơn giản nhưng hữu ích cho phép bạn kiểm tra tất cả các kết nối điện tử và điện trở. Bạn có thể sử dụng nó từ menu bánh khi ở Phần Tổng quan.
+=
+UPGname_unlock_fuel=Kiểm tra áp suất nhiên liệu
+UPGdesc_unlock_fuel.1=Mở khóa Kiểm tra áp suất nhiên liệu. Tìm hiểu tất cả về các linh kiện liên quan đến nhiên liệu của xe. Bạn có thể sử dụng nó từ menu bánh khi ở Phần Tổng quan.
+=
+UPGname_bigger_income=Biết giá trị của bạn
+UPGdesc_bigger_income.1=5% thêm thu nhập cho các đơn đặt hàng đã hoàn thành
+=
+UPGname_rhetoric=Lắm lời
+UPGdesc_rhetoric.1=Cho phép bạn mặc cả trong các kho (xe)
+=
+UPGname_expected_price=Người bán đấu giá có kinh nghiệm
+UPGdesc_expected_price.1=Cho bạn biết giá trị trung bình của xe (bán đấu giá)
+=
+UPGname_cheaper_parking=Sân sau Rộng rãi
+UPGdesc_cheaper_parking.1=50% giảm mức đậu xe
+=
+UPGname_cheaper_tow=Bạn tôi...
+UPGdesc_cheaper_tow.1=50% các chuyến đi đến bãi phế liệu và nhà kho
+=
+UPGname_luck=Người may mắn
+UPGdesc_luck.1=Chúc may mắn.
+=
+UPGname_garage_upgrade=Tôi cần thêm chỗ
+UPGdesc_garage_upgrade.1=Mở rộng gara. Thêm đường thử nghiệm và Bàn sửa chữa đến gara.
+UPGdesc_garage_upgrade.2=Mở rộng gara. Thêm cái khác Xe nâng, kho và bãi đậu xe khác đến gara.
+UPGdesc_garage_upgrade.3=Mở rộng gara. Thêm Cửa hàng sơn, dyno và thang máy khác đến gara.
+
+//------------------ Parts
+
+!i3_blok = Khối động cơ (I3)
+!i3_filtr_dol = Thân bộ lọc khí (I3)
+!i3_filtr_srodek = Bộ lọc khí (I3)
+!i3_gearbox = Hộp số (I3)
+!i3_glowica = Đầu động cơ (I3)
+!i3_glowica_2 = Đầu động cơ B (I3)
+!i3_glowica_wkladka = Nắp trục cam (I3)
+!i3_kolektor_dolotowy = Ống nạp (I3)
+!i3_kolektor_wydechowy = Ống xả (I3)
+!i3_listwa_wtryskowa = Đường nhiên liệu (I3)
+!i3_miska_olejowa = Chảo dầu (I3)
+!i3_oslona_rozrzadu = Nắp truyền động (I3)
+!i3_pasek1 = Đai uống khúc A (I3)
+!i3_pasek2 = Đai uống khúc B (I3)
+!i3_pokrywa_glowicy = Nắp đầu động cơ (I3)
+!i3_przepustnica = Bướm ga (I3)
+!i3_rolkaWalka = Bánh răng Cam (I3)
+!i3_termostat = Bộ điều nhiệt (I3)
+!i3_turbo = Turbo (I3)
+!i3_walek_rozrzadu = Trục cam (I3)
+!i3_walKorbowy = Trục khuỷu (I3)
+
+!i4_blok = Khối động cơ (I4 B)
+!i4_filtr_dol = Thân bộ lọc khí (I4 B)
+!i4_filtr_gora = Nắp bộ lọc khí (I4 B)
+!i4_filtr_srodek = Bộ lọc khí (I4 B)
+!i4_glowica = Đầu động cơ (I4 B)
+!i4_glowica_wkladka = Nắp trục cam (I4 B)
+!i4_kolektor_dolotowy = Ống nạp (I4 B)
+!i4_kolektor_wydechowy = Ống xả (I4 B)
+!i4_lancuch = Dây xích truyền động (I4 B)
+!i4_miska_olejowa = Chảo dầu (I4 B)
+!i4_oslona_rozrzadu = Nắp truyền động A (I4 B)
+!i4_oslona_rozrzadu_tyl = Nắp truyền động B (I4 B)
+!i4_pasek_1 = Đai uống khúc A (I4 B)
+!i4_pasek_2 = Đai uống khúc B (I4 B) 
+!i4_pokrywa_glowicy = Nắp đầu động cơ (I4 B)
+!i4_pompa_wody =  Máy bơm (I4 B)
+!i4_pompa_wspomagania = Bơm trợ lực lái (I4 B)
+!i4_rolkaWalka_1 = Bánh răng Cam A (I4 B)
+!i4_rolkaWalka_2 = Bánh răng Cam B (I4 B)
+!i4_turbo = Turbo (I4 B)
+!i4_walek_rozrzadu = Trục cam (I4 B)
+!i4_walKorbowy = Trục khuỷu (I4 B)
+!i4_wtrysk = Đường nhiên liệu (I4 B)
+
+!i6_old_alternator = Máy phát điện (I6 B)
+!i6_old_blok = Khối động cơ (I6 B)
+!i6_old_filtr_dol = Thân bộ lọc khí (I6 B)
+!i6_old_filtr_gora = Nắp bộ lọc khí (I6 B)
+!i6_old_filtr_srodek = Bộ lọc khí (I6 B)
+!i6_old_gearbox = Hộp số (I6 B)
+!i6_old_glowica = Đầu động cơ (I6 B)
+!i6_old_kable = Dây đánh lửa (I6 B)
+!i6_old_kolektor_dolotowy = Ống nạp (I6 B)
+!i6_old_kolektor_wydechowy = Ống xả (I6 B)
+!i6_old_lancuch = Dây xích truyền động (I6 B)
+!i6_old_miska_olejowa = Chảo dầu (I6 B)
+!i6_old_oslona_rozrzadu = Nắp truyền động (I6 B)
+!i6_old_pasek1 = Đai uống khúc A (I6 B)
+!i6_old_pasek_2 = Đai uống khúc B (I6 B)
+!i6_old_pokrywa_glowicy = Nắp đầu động cơ (I6 B)
+!i6_old_pompaWody = Máy bơm (I6 B)
+!i6_old_pompaWspomagania = Bơm trợ lực lái (I6 B)
+!i6_old_popychacz = Valve Push Rod (I6 B)
+!i6_old_przepustnica = Bộ chế hòa khí (I6 B)
+!i6_old_raczka1 = Tay A (I6 B)
+!i6_old_raczka2 = Tay B (I6 B)
+!i6_old_rolkaWalka = Bánh răng Cam (I6 B)
+!i6_old_termostat = Bơm nhiên liệu (I6 B)
+!i6_old_walek = Trục cam (I6 B)
+!i6_old_walKorbowy = Trục khuỷu (I6 B)
+
+!rot_new_blok_przod = Nhà trước (ROT A)
+!rot_new_blok_srodek_1 = Rotor Housing (ROT A)
+!rot_new_blok_srodek_2 = Intermediate Housing (ROT A)
+!rot_new_blok_tyl = Side Housing Block sau (ROT A)
+!rot_new_cewki = Cuộn đánh lửa (ROT A)
+!rot_new_element_nakladka = Sprocket (ROT A)
+!rot_new_filtr_dol = Thân bộ lọc khí (ROT A)
+!rot_new_filtr_gora = Nắp bộ lọc khí (ROT A)
+!rot_new_filtr_srodek = Bộ lọc khí (ROT A)
+!rot_new_gearbox = Hộp số (ROT A)
+!rot_new_kable = Dây đánh lửa (ROT A)
+!rot_new_kolektor_dolotowy_dolny = Ống nạp B (ROT A)
+!rot_new_kolektor_dolotowy_gorny = Ống nạp A (ROT A)
+!rot_new_kolektor_wydechowy = Ống xả (ROT A)
+!rot_new_lancuch = Dây xích truyền động (ROT A)
+!rot_new_listwa_wtryskowa = Đường nhiên liệu (ROT A)
+!rot_new_miska_olejowa = Chảo dầu (ROT A)
+!rot_new_oslona_rozrzadu = Nắp truyền động (ROT A)
+!rot_new_pasek_1 = Đai uống khúc A (ROT A)
+!rot_new_pasek_2 = Đai uống khúc B (ROT A)
+!rot_new_pompa_wody = Máy bơm (ROT A)
+!rot_new_przepustnica = Bướm ga (ROT A)
+!rot_new_raczka_1 = Tay A (ROT A)
+!rot_new_raczka_2 = Tay B (ROT A)
+!rot_new_tlok = Rotor (ROT A)
+!rot_new_wahadlo = Trục khuỷu Counterweight (ROT A)
+!rot_new_walKorbowy = Trục khuỷu (ROT A)
+
+!rot_old_filtr_dol = Thân bộ lọc khí (ROT B)
+!rot_old_filtr_gora = Nắp bộ lọc khí (ROT B)
+!rot_old_filtr_srodek = Bộ lọc khí (ROT B)
+!rot_old_kable = Dây đánh lửa (ROT B)
+!rot_old_kolektor_dolotowy = Ống nạp (ROT B)
+!rot_old_kopulkaRozdzielacza = Nắp bộ đánh lửa (ROT B)
+!rot_old_oslona_rozrzadu = Nắp truyền động (ROT B)
+!rot_old_pasek_1 = Đai uống khúc (ROT B)
+!rot_old_raczka = Tay (ROT B)
+!rot_old_wentylator = Quạt bộ tản nhiệt (ROT B)
+
+!v6_30_blok = Khối động cơ (V6 B)
+!v6_30_filtr_dol = Thân bộ lọc khí (V6 B)
+!v6_30_filtr_gora = Nắp bộ lọc khí (V6 B)
+!v6_30_filtr_srodek = Bộ lọc khí (V6 B)
+!v6_30_gearbox = Hộp số (V6 B)
+!v6_30_glowica_1 = Đầu động cơ A (V6 B)
+!v6_30_glowica_2 = Đầu động cơ B (V6 B)
+!v6_30_glowica_raczka = Ổ đỡ trục cam (V6 B)
+!v6_30_kolektor_dolotowy = Ống nạp A (V6 B)
+!v6_30_kolektor_dolotowy_dolny = Ống nạp B (V6 B)
+!v6_30_kolektor_wydechowy = Ống xả (V6 B)
+!v6_30_listwa_wtryskowa = Đường nhiên liệu (V6 B)
+!v6_30_miska_olejowa = Chảo dầu (V6 B)
+!v6_30_oslona_rozrzadu_1 = Nắp truyền động A (V6 B)
+!v6_30_oslona_rozrzadu_2 = Nắp truyền động B (V6 B)
+!v6_30_oslona_rozrzadu_3 = Nắp truyền động C (V6 B)
+!v6_30_pasek_1 = Đai uống khúc A (V6 B)
+!v6_30_pasek_2 = Đai uống khúc B (V6 B)
+!v6_30_pokrywa_glowicy_1 = Nắp đầu động cơ A (V6 B)
+!v6_30_pokrywa_glowicy_2 = Nắp đầu động cơ B (V6 B)
+!v6_30_pokrywa_glowicy_3 = Nắp đầu động cơ C (V6 B)
+!v6_30_pompaWspomagania = Bơm trợ lực lái (V6 B)
+!v6_30_pompa_wody = Máy bơm (V6 B)
+!v6_30_przepustnica = Bướm ga (V6 B)
+!v6_30_raczka_1 = Tay (V6 B)
+!v6_30_rolkaWalka = Bánh răng Cam (V6 B)
+!v6_30_termostat = Bộ điều nhiệt (V6 B)
+!v6_30_walek_rozrzadu = Trục cam (V6 B)
+!v6_30_walKorbowy = Trục khuỷu (V6 B)
+
+!v8_409_blok = Khối động cơ (V8 OHV B)
+!v8_409_filtr_gora = Nắp bộ lọc khí (V8 OHV B)
+!v8_409_glowica_1 = Đầu động cơ (V8 OHV B)
+!v8_409_glowica_2 = Đầu động cơ (V8 OHV B)
+!v8_409_kable = Dây đánh lửa (V8 OHV B)
+!v8_409_kolektor_dolotowy = Ống nạp (V8 OHV B)
+!v8_409_kolektor_wydechowy = Ống xả (V8 OHV B)
+!v8_409_miska_olejowa = Chảo dầu (V8 OHV B)
+!v8_409_oslona_rozrzadu = Nắp truyền động (V8 OHV B)
+!v8_409_pasek_1 = Đai uống khúc A (V8 OHV B)
+!v8_409_pasek_2 = Đai uống khúc B (V8 OHV B)
+!v8_409_pokrywa_glowicy = Nắp đầu động cơ (V8 OHV B)
+!v8_409_pompa_wody = Máy bơm (V8 OHV B)
+!v8_409_raczka_1 = Tay (V8 OHV B)
+!v8_409_tlok = Piston với Conrod (V8 OHV B)
+!v8_409_walek_popychaczy = Trục cam (V8 OHV B)
+!v8_409_walKorbowy = Trục khuỷu (V8 OHV B)
+!v8_409_tlok_pierscienie_1 = Vòng piston (V8 OHV B)
+
+!v8_hemi_blok = Khối động cơ (V8 OHV C)
+!v8_hemi_dzwignia_zaworu = Tay Rockers (V8 OHV C)
+!v8_hemi_filtr_dol = Thân bộ lọc khí (V8 OHV C)
+!v8_hemi_filtr_gora = Nắp bộ lọc khí (V8 OHV C)
+!v8_hemi_filtr_srodek = Bộ lọc khí (V8 OHV C)
+!v8_hemi_gaznik_1 = Bộ chế hòa khí A (V8 OHV C)
+!v8_hemi_gaznik_2 = Bộ chế hòa khí B (V8 OHV C)
+!v8_hemi_glowica_1 = Đầu động cơ (V8 OHV C)
+!v8_hemi_glowica_2 = Đầu động cơ (V8 OHV C)
+!v8_hemi_kable = Dây đánh lửa (V8 OHV C)
+!v8_hemi_kolektor_dolotowy = Ống nạp (V8 OHV C)
+!v8_hemi_kolektor_wydechowy = Ống xả (V8 OHV C)
+!v8_hemi_miska_olejowa = Chảo dầu (V8 OHV C)
+!v8_hemi_oslona_rozrzadu = Nắp truyền động (V8 OHV C)
+!v8_hemi_pasek_1 = Đai uống khúc A (V8 OHV C)
+!v8_hemi_pasek_2 = Đai uống khúc B (V8 OHV C)
+!v8_hemi_pokrywa_glowicy_1 = Nắp đầu động cơ A (V8 OHV C)
+!v8_hemi_pokrywa_glowicy_2 = Nắp đầu động cơ B (V8 OHV C)
+!v8_hemi_pompa_wody = Máy bơm (V8 OHV C)
+!v8_hemi_raczka_1 = Tay A (V8 OHV C)
+!v8_hemi_raczka_2 = Tay B (V8 OHV C)
+!v8_hemi_tlok = Piston với Conrod (V8 OHV C)
+!v8_hemi_walek_popychaczy = Trục cam (V8 OHV C)
+!v8_hemi_walKorbowy = Trục khuỷu (V8 OHV C)
+!v8_hemi_tlok_pierscienie_1 = Vòng piston (V8 OHV C)
+
+!v8_magnum_dzwignia_zaworu = Tay Rockers (V8 OHV D)
+!v8_magnum_filtr_gora = Nắp bộ lọc khí (V8 OHV D)
+!v8_magnum_glowica_1 = Đầu động cơ A (V8 OHV D)
+!v8_magnum_glowica_2 = Đầu động cơ B (V8 OHV D)
+!v8_magnum_kable = Dây đánh lửa (V8 OHV D)
+!v8_magnum_kolektor_dolotowy = Ống nạp (V8 OHV D)
+!v8_magnum_kolektor_wydechowy = Ống xả (V8 OHV D)
+!v8_magnum_pokrywa_glowicy_1 = Nắp đầu động cơ A (V8 OHV D)
+!v8_magnum_pokrywa_glowicy_2 = Nắp đầu động cơ B (V8 OHV D)
+
+!v8_sixpack_filtr_dol = Thân bộ lọc khí (V8 OHV E)
+!v8_sixpack_filtr_gora = Nắp bộ lọc khí (V8 OHV E)
+!v8_sixpack_filtr_srodek = Bộ lọc khí (V8 OHV E)
+!v8_sixpack_gaznik = Bộ chế hòa khí A (V8 OHV E)
+!v8_sixpack_gaznik_1 = Bộ chế hòa khí B (V8 OHV E)
+!v8_sixpack_gaznik_2 = Bộ chế hòa khí C (V8 OHV E)
+!v8_sixpack_kolektor_dolotowy = Ống nạp (V8 OHV E)
+
+!v8_zz_blok = Khối động cơ (V8 OHV F)
+!v8_zz_filtr_dol = Thân bộ lọc khí (V8 OHV F)
+!v8_zz_filtr_gora = Nắp bộ lọc khí (V8 OHV F)
+!v8_zz_filtr_srodek = Bộ lọc khí (V8 OHV F)
+!v8_zz_gaznik = Bộ chế hòa khí (V8 OHV F)
+!v8_zz_gearbox = Hộp số (V8 OHV F)
+!v8_zz_glowica = Đầu động cơ (V8 OHV F)
+!v8_zz_kable = Dây đánh lửa (V8 OHV F)
+!v8_zz_kolektor_dolotowy = Ống nạp (V8 OHV F)
+!v8_zz_kolektor_wydechowy = Ống xả (V8 OHV F)
+!v8_zz_lancuch = Dây xích truyền động (V8 OHV F)
+!v8_zz_miska_olejowa = Chảo dầu (V8 OHV F)
+!v8_zz_oslona_rozrzadu = Nắp truyền động (V8 OHV F)
+!v8_zz_pasek_1 = Đai uống khúc (V8 OHV F)
+!v8_zz_pokrywa_glowicy_1 = Nắp đầu động cơ A (V8 OHV F)
+!v8_zz_pokrywa_glowicy_2 = Nắp đầu động cơ B (V8 OHV F)
+!v8_zz_pompa_wody = Máy bơm (V8 OHV F)
+!v8_zz_pompa_wspomagania = Bơm trợ lực lái (V8 OHV F)
+!v8_zz_popychacz = Valve Push Rod (V8 OHV F)
+!v8_zz_przepustnica = Bướm ga (V8 OHV F)
+!v8_zz_raczka_1 = Tay A (V8 OHV F)
+!v8_zz_raczka_2 = Tay B (V8 OHV F)
+!v8_zz_walek_popychaczy = Trục cam (V8 OHV F)
+!v8_zz_walKorbowy = Trục khuỷu (V8 OHV F)
+
+!w_i3_poczatkowy_2 = Đoạn ống xả trước A (I3)
+!w_i3_poczatkowy = Đoạn ống xả trước B (I3)
+!w_i4_4x4_poczatkowy = Đoạn ống xả trước A (I4 B)
+!w_i4_poczatkowy = Đoạn ống xả trước B (I4 B)
+!w_i6_old_poczatkowy = Đoạn ống xả trước (I6 B)
+!w_v6_30_koncowy = Ống bô sau (V6 B)
+!w_v6_30_poczatkowy_1 = Đoạn ống xả trước A (V6 B)
+!w_v6_30_poczatkowy_2 = Đoạn ống xả trước B (V6 B)
+!w_v8_409_poczatkowy = Đoạn ống xả trước (V8 OHV B)
+!w_v8_magnum_poczatkowy = Đoạn ống xả trước (V8 OHV D)
+!w_v8_zz_poczatkowy = Đoạn ống xả trước (V8 OHV F)
+!w_tlumik_koncowy_2 = Ống bô sau B
+!w_tlumik_koncowy_3 = Ống bô sau C
+!w_tlumik_koncowy_4 = Ống bô sau D
+!w_koncowy_challenger = Ống bô sau E
+!w_v6_30_koncowy = Ống bô sau F
+!w_v6_30_poczatkowy_1 = Đoạn ống xả trước A (V6 B)
+!w_v6_30_poczatkowy_2 = Đoạn ống xả trước B (V6 B)
+
+//--------------- Rebind
+GUI_Rebind_PressToAssign = Nhấn phím để gán ...
+GUI_Rebind_CannotAssign = Không thể chỉ định khóa này
+GUI_Rebind_None = Không
+GUI_Rebind_W = Tiến về trước / Bướm ga xe / Camera xoay quanh
+GUI_Rebind_S = Lùi lại / Phanh xe / Camera xoay quanh
+GUI_Rebind_A = Strafe Left / Xe rẽ trái / Camera xoay quanh
+GUI_Rebind_D = Strafe Right / Xe rẽ phải / Camera xoay quanh
+GUI_Rebind_LMC = Hoạt động
+GUI_Rebind_RMC = Menu nhanh
+GUI_Rebind_ESC = Trở về / Thoát
+GUI_Rebind_C = Cúi xuống / Camera chuyển xe
+GUI_Rebind_Q = Camera xoay quanh Phóng to
+GUI_Rebind_E = Camera xoay quanh Thu nhỏ
+GUI_Rebind_T = Máy tính bảng nhanh
+GUI_Rebind_I = Kho nhanh
+GUI_Rebind_U = Thông tin xe nhanh
+GUI_Rebind_O = Xem đơn hàng nhanh
+GUI_Rebind_ENTER = Chấp nhận
+GUI_Rebind_SHIFT = Tùy chọn đặc biệt
+GUI_Rebind_SPACE = Phanh tay xe
+
+//----------- Added=
+GUI_TutorialFinishAsk=Kết thúc hướng dẫn và bắt đầu trò chơi?
+TutorialTitle20=Sạc pin
+TutorialDesc20=Dùng để sạc pin
+!i3_filtr_oleju=Bộ lọc dầu (I3)
+!seat_challenger=^SeatName Challenger
+pie_equipment_mount=LẮP RÁP
+pie_equipment_mount_bonus=Lắp động cơ vào xe
+pie_equipment_unmount=KÉO RA
+pie_equipment_unmount_bonus=Kéo động cơ ra khỏi xe
+!rot_filtr_oleju=Bộ lọc dầu (ROT)																								
+#IntercoolerS=Bộ làm mát nhỏ
+#IntercoolerM=Bộ làm mát trung
+#IntercoolerL=Bộ làm mát lớn
+!intercooler_small_1=Bộ làm mát nhỏ
+!intercooler_medium_1=Bộ làm mát trung
+!intercooler_big_1=Bộ làm mát lớn
+#AirIntake_RotNew=^#airintake
+!polosNapedowa_5=Trục lái trước H
+!w_rot_old_poczatkowy = Đoạn ống xả trước (ROT B)
+!w_rot_new_poczatkowy = Đoạn ống xả trước (ROT A)
+mode_InteriorDisassemble = Chế độ tháo nội thất
+mode_InteriorAssemble = Chế độ lắp nội thất
+PopUp_TakenGroup = Nhóm đã thực hiện
+GUI_EngineOilCrain = Xả dầu khỏi động cơ trước khi sử dụng động cơ cần trục.
+GUI_CollectedItems = Vật phẩm đã thu thập
+GUI_FoundItems = Vật phẩm đã tìm thấy
+!v6_30_gearbox_2 = Hộp số B(V6 B)
+GUI_NoDLC = Bạn không có DLC bắt buộc cho|{0}
+GUI_CarFileCorrupted = Tệp dữ liệu cho xe này bị hỏng. Xe này phải bị xóa để bạn có thể tiếp tục tiến trình trò chơi còn lại của mình.
+GUI_SellAll = Bán tất cả
+!bench_challenger=^BenchName Challenger
+!steering_wheel_charger=^SteeringWheelName Charger
+GUI_AccelerateToStart = Tăng tốc để bắt đầu
+MM_MouseAcceleration = Bộ điều khiển tăng tốc
+MM_MouseInvert = Đảo trục Y
+MM_MouseSensitivity = Kiểm soát độ nhạy
+GUI_LapNo = Lap
+GUI_Checkpoint = Checkpoint
+GUI_LastLap = Last Lap
+GUI_NoOilPan=Không chảo dầu. Không thể làm điều này
+GUI_AskSellJunk=Bạn có chắc chắn muốn bán linh kiện vứt bỏ không?
+GUI_AskSellAll=Bạn có chắc chắn muốn bán bán tất cả linh kiện?
+
+GUI_Parking_Window = Bãi đậu xe
+GUI_Parking_GoTo = Đi đến bãi đậu xe
+GUI_Parking_Buy = Mua bãi đậu xe
+GUI_Parking_Name = Bãi đậu xe : Cấp {0}
+GUI_Parking_StoredCars = Xe được lưu trữ
+
+M_OpcjeOther9 = Phóng to khi ngắt kết nối/kết nối
+GUI_Map_FunTrack = Sân bay bỏ hoang
+GUI_PotwierdzenieAkcjiKoszt = Bạn phải trả {0}. Bạn có chắc không?
+#enginestand=Giá đỡ động cơ
+GUI_TextFrameCondition = Tình trạng khung
+GUI_TextInteriorCondition = Tình trạng nội thất
+GUI_CaseOpenConfirm=Bạn có muốn mở hộp không?
+GUI_MapReadConfirm=Bạn có muốn thêm điểm đến kho vào bản đồ của mình không?
+GUI_BarnFull=Bản đồ của bạn có đầy kho. Trước hết hãy ghé thăm một số trong chúng.
+
+M_OpcjeGrafiki9=Hoa
+M_OpcjeGrafiki10=Phản chiếu không gian màn hình
+M_OpcjeGrafiki12=Shadow Distance
+
+MM_Rebind = Phục hồi điều khiển
+
+MM_stat_bolts=Bu lông đã tháo
+MM_stat_balancedwheels=Bánh xe đã cân bằng
+MM_stat_carfix=Xe đã sửa
+MM_stat_ordercanceled=Đơn đặt hàng bị hủy
+MM_stat_bodyfix=Linh kiện thân đã sửa
+MM_stat_partfix=Linh kiện xe đã sửa
+MM_stat_paintcar=Xe đã sơn
+MM_stat_testride=Ổ đĩa đã thử nghiệm
+MM_stat_examine=Linh kiện đã thẩm tra
+MM_stat_salon=Xe mua trong salon
+MM_stat_dealer=Xe đã bán
+MM_stat_songs=Bài hát đã nghe
+MM_stat_classic=Xe cũ đã sửa
+
+!engine_v6_30_rwd = V6 DOHC CHG
+!engine_i4_l134 = I4
+!engine_v8_392hemi = V8 HEMI
+!engine_v6_pentastar = V6 DOHC AQE
+
+!w_v6_30_poczatkowy_h1 = Đoạn ống xả trước C (V6 B)
+
+!i4_l134_blok=Khối động cơ (I4 C) 
+!i4_l134_filtr_gora=Nắp bộ lọc khí (I4 C)
+!i4_l134_filtr_srodek=Bộ lọc khí (I4 C)
+!i4_l134_glowica=Đầu động cơ (I4 C)
+!i4_l134_kable=Dây đánh lửa (I4 C)
+!i4_l134_kolektor_dolotowy=Ống nạp (I4 C)
+!i4_l134_kolektor_wydechowy=Ống xả đa dụng (I4 C)
+!i4_l134_kopulkaRozdzielacza_1=Nắp bộ đánh lửa (I4 C)
+!i4_l134_miska_olejowa=Chảo dầu (I4 C)
+!i4_l134_obudowa_filtra_dol=Thân bộ lọc khí (I4 C)
+!i4_l134_obudowa_filtra_gora=Nắp bộ lọc khí B (I4 C)
+!i4_l134_pompaWody=Máy bơm (I4 C)
+!i4_l134_walek=Trục cam (I4 C)
+!i4_l134_walKorbowy_1=Trục khuỷu (I4 C)
+
+!v6_pentastar_blok=Khối động cơ (V6 C)
+!v6_pentastar_cewka=Cuộn đánh lửa (V6 C)
+!v6_pentastar_glowica_1=Đầu động cơ A (V6 C)
+!v6_pentastar_glowica_2=Đầu động cơ B (V6 C)
+!v6_pentastar_glowica_wkladka=Nắp trục cam (V6 C)
+!v6_pentastar_kolektor_dolotowy=Ống nạp A (V6 C)
+!v6_pentastar_kolektor_dolotowy_dolny=Ống nạp B (V6 C)
+!v6_pentastar_kolektor_wydechowy=Ống xả đa dụng (V6 C)
+!v6_pentastar_lancuch_1=Dây xích truyền động A (V6 C)
+!v6_pentastar_lancuch_2=Dây xích truyền động B (V6 C)
+!v6_pentastar_lancuch_3=Dây xích truyền động C (V6 C)
+!v6_pentastar_oslona_rozrzadu=Nắp truyền động (V6 C)
+!v6_pentastar_pasek=Đai uống khúc (V6 C)
+!v6_pentastar_pokrywa_glowicy_1=Nắp đầu động cơ A (V6 C)
+!v6_pentastar_pokrywa_glowicy_2=Nắp đầu động cơ B (V6 C)
+!v6_pentastar_pompa_wody=Máy bơm (V6 C)
+!v6_pentastar_slizg_1=Móng căn dây xích (V6 C)
+!v6_pentastar_walek_rozrzadu=Trục cam (V6 C)
+!v6_pentastar_walKorbowy=Trục khuỷu (V6 C)
+
+!v8_392_blok=Khối động cơ (V8 OHV G)
+!v8_392_cewka_1=Cuộn đánh lửa (V8 OHV G)
+!v8_392_dzwignia_zaworu=Tay Rockers (V8 OHV G)
+!v8_392_glowica_1=Đầu động cơ A (V8 OHV G)
+!v8_392_glowica_2=Đầu động cơ B (V8 OHV G)
+!v8_392_kolektor_dolotowy=Ống nạp (V8 OHV G)
+!v8_392_kolektor_wydechowy=Ống xả đa dụng (V8 OHV G)
+!v8_392_oslona_1=Nắp truyền động A (V8 OHV G)
+!v8_392_oslona_2=Nắp truyền động B (V8 OHV G)
+!v8_392_oslona_rozrzadu=Nắp truyền động (V8 OHV G)
+!v8_392_pasek=Đai uống khúc (V8 OHV G)
+!v8_392_pokrywa_glowicy_1=Nắp đầu động cơ A (V8 OHV G)
+!v8_392_pompa_wody=Máy bơm (V8 OHV G)
+
+!i4_l134_obudowa_filtraOleju=Bộ lọc dầu cơ bản (I4 C) 
+!i4_l134_pokrywa_obudowy_filtraOleju=Nắp Bộ lọc dầu (I4 C) 
+!i4_l134_filtrOleju=Bộ lọc dầu (I4 C) 
+!i4_l134_gearbox=Hộp số (I4 C)
+!i4_l134_oslona_rozrzadu=Nắp truyền động (I4 C)
+!v8_392_miska_olejowa=Chảo dầu (V8 OHV G)
+!walNapedowy_3=Trục truyền động trước D
+!w_v6_30_poczatkowy_h4=Đoạn ống xả trước D (V6 B)
+!v8_hemi_tlok_pierscienie_1=Vòng piston (V8 OHV C)
+!skrzyniaRozdzielcza_3=Thùng chuyển đổi (I4 C)
+!v8_392_pokrywa_glowicy_2=Nắp đầu động cơ B (V8 OHV G)
+!walNapedowy_5=Trục truyền động trước G
+!steering_wheel_jeep=^SteeringWheelName Jeep
+!walNapedowy_6=Trục truyền động trước F
+!mostPrzedni_2=Trục lái trước I
+!zwrotnicaPrzodBeben_2=Khớp tay lái trước E
+!zwrotnicaPrzodBeben_2_pierscien=Khớp tay lái trước E Ring
+!polosNapedowa_8=Trục lái trước G
+!w_v8_392hemi_poczatkowy=Đoạn ống xả trước (V8 OHV G)
+!w_i4_l134_poczatkowy=Đoạn ống xả trước (I4 C)
+!rim_wrangler=^RimName Wrangler
+!seat_wrangler=^SeatName Wrangler
+!bench_wrangler=^BenchName Wrangler
+!seat_cherokeesrt=^SeatName Cherokee
+!bench_cherokeesrt=^BenchName Cherokee
+GUI_Map_OffroadTrack = Đường đua địa hình
+!w_ruraLaczaca2=Ống xả B
+GUI_CaseContent = Thùng sự kiện
+GUI_CaseInfo = Xin chúc mừng! Bạn có thể nhận được nhiều trường hợp hơn bằng cách hoàn thành đơn đặt hàng.
+GUI_CaseButton = Thu thập vật phẩm
+
+GUI_EngineInfo_A = Chiptuning / Carburettor tuning
+GUI_EngineInfo_B = Công suất động cơ đo được
+GUI_EngineInfo_C = Công suất động cơ nhà máy
+GUI_EngineInfo_D = Đạt được / Đánh mất
+GUI_RunDyno = Chạy Dyno
+
+!amortyzatorPrzod_2 = Giảm xóc trước B
+!t_v8_hemi_tlok=^!v8_hemi_tlok
+GUI_PotwierdzenieRozpoczeciaDyno=Bạn có chắc chắn muốn tiến hành thử nghiệm dyno không?
+
+!t_i3_glowica=^!i3_glowica
+!t_i3_glowica_2=^!i3_glowica_2
+!t_i3_listwa_wtryskowa=^!i3_listwa_wtryskowa
+!t_i3_przepustnica=^!i3_przepustnica
+!t_i3_turbo=^!i3_turbo
+!t_i3_walek_rozrzadu=^!i3_walek_rozrzadu
+!t_i4_filtr_srodek=^!i4_filtr_srodek
+!t_i4_glowica=^!i4_glowica
+!t_v6_30_glowica_1=^!v6_30_glowica_1
+!t_v6_30_glowica_2=^!v6_30_glowica_2
+!t_v6_30_listwa_wtryskowa=^!v6_30_listwa_wtryskowa
+!t_v6_30_przepustnica=^!v6_30_przepustnica
+!t_v8_zz_gaznik=^!v8_zz_gaznik
+!t_i6_old_kable=^!i6_old_kable
+!t_rot_new_kable=^!rot_new_kable
+!t_rot_old_kable=^!rot_old_kable
+!t_i6_old_filtr_srodek=^!i6_old_filtr_srodek
+!t_rot_old_filtr_srodek=^!rot_old_filtr_srodek
+!t_rot_new_cewki=^!rot_new_cewki
+!t_i6_old_glowica=^!i6_old_glowica
+!t_rot_new_filtr_srodek=^!rot_new_filtr_srodek
+
+M_Backup_Recover = Khôi phục từ bản sao lưu
+M_Backup_RecoverAsk = Bạn có muốn khôi phục lưu từ bản sao lưu không?| Ngày sao lưu : {0}
+M_OpcjeOther10=Kích thước bánh xe không thực tế
+M_OpcjeOther11=Bật tính phí đi lại
+
+AssetError1 = Có vấn đề với các nội dung sau
+AssetError2 = Chọn giữa 2 tùy chọn :|1) Thoát khỏi menu và giữ nguyên trò chơi lưu (thử cài đặt lại dlc hoặc mod, kiểm tra xem Steam có ở chế độ trực tuyến hay không và <color=#ff0000ff>thử tải lại trò chơi</color>)||2) Tiếp tục chơi không thiếu mod/dlc (xe/linh kiện thiếu sẽ được <color=#ff0000ff>vĩnh viễn</color> đã xóa khỏi lưu trò chơi)
+AssetErrorButton1 = Thoát đến menu (1)
+AssetErrorButton2 = Tiếp tục chơi (2)
+
+GUI_Map_SpeedTrack=Theo dõi tốc độ
+!v8_hemi_gaznik_1=Bộ chế hòa khí A (V8 OHV H)
+!v8_hemi_gaznik_2=Bộ chế hòa khí B (V8 OHV H)
+!v8_hemi_glowica_1=Đầu động cơ A (V8 OHV H)
+!v8_hemi_glowica_2=Đầu động cơ B (V8 OHV H)
+!v8_hemi_kable=Dây đánh lửa (V8 OHV H)
+!v8_hemi_kolektor_dolotowy=Ống nạp (V8 OHV H)
+!v8_hemi_kolektor_wydechowy=Ống xả đa dụng (V8 OHV H)
+!v8_cuda_filtr_2carb_dol=Thân bộ lọc khí (Hemi Cuda)
+!v8_cuda_filtr_2carb_gora=Nắp bộ lọc khí (Hemi Cuda)
+!v8_cuda_filtr_2carb_srodek=Bộ lọc khí (Hemi Cuda)
+!v8_cuda_shaker=Shaker (Hemi Cuda)
+!v8_hemi_dzwignia_zaworu=Tay Rockers (V8 OHV H)
+!v8_hemi_pokrywa_glowicy_1=Nắp đầu động cơ A
+!v8_hemi_pokrywa_glowicy_2=Nắp đầu động cơ B
+!v8_hemi_filtr_dol=Thân bộ lọc khí (V8 OHV H)
+!v8_hemi_filtr_gora=Nắp bộ lọc khí (V8 OHV H)
+!v8_hemi_filtr_srodek=Bộ lọc khí (V8 OHV H)
+!w_v8_hemicuda_koncowy=Ống bô sau (Hemi Cuda)
+!engine_v8_hemiShaker=V8 OHV HEMI SHAKER
+#benchFront = Băng ghế trước
+#intercooler = Bộ làm mát
+!tire_vintage_race = Lốp đua cổ điển 
+!tire_vintage_race_2 = ^!tire_vintage_race B
+GUI_WorkshopBodyShop=Cửa hàng xe hơi cộng đồng
+GUI_CompleteEngineNeeded= Động cơ cần phải hoàn thành để thực hiện hành động này.
+
+!amortyzator_pneumatyczny_przod_1 = Air Suspension Shock trước
+!amortyzator_pneumatyczny_tyl_1 = Air Suspension Shock sau
+!rim_bentley_continental_2 = Vành Continental GT trái
+!zaciskHamulcowy_2 = Bộ kẹp phanh B
+!zwrotnicaPrzod_double4 = Khớp tay lái trước F
+
+MM_Reset = Đặt lại
+
+#clamshell_front = Vỏ sò trước
+#clamshell_rear = Vỏ sò sau
+
+GUI_Desc_PhotoZoom = phóng to
+GUI_Desc_PhotoRotate = để xoay
+GUI_Desc_PhotoHeight = để thay đổi chiều cao
+
+GL_Option = Tùy chọn
+GL_Section0 = Floor A
+GL_Section1 = Floor B
+GL_Section2 = Drain Grates
+GL_Section3 = Tường A
+GL_Section4 = Tường B
+GL_Section5 = Tường C
+GL_Section6 = Tường D
+GL_Section7 = Cổng A
+GL_Section8 = Cổng B
+GL_Section9 = Cổng C
+GL_Section10 = Cổng D
+GL_Section11 = Tủ
+GL_Section12 = Văn phòng
+GL_Section13 = Cột A 
+GL_Section14 = Cột B
+GL_Section15 = Cột C
+GL_Section16 = Xe nâng A
+GL_Section17 = Xe nâng B
+GL_Section18 = Xe nâng C
+GL_Section19 = Vết ố A
+GL_Section20 = Vết ố B
+GL_Section21 = Vết ố C
+GL_Section22 = Vết ố D
+GL_Section23 = Ga ra
+
+MM_Benchmark = Chạy Benchmark
+#garageLook = Tùy chỉnh diện mạo ga ra
+MM_Reset=Đặt lại
+
+!r4_2_blok = Khối động cơ (I4 D)
+!r4_2_kable = Dây đánh lửa (I4 D)
+!r4_2_glowica = Đầu động cơ (I4 D)
+!r4_2_lozyskowanie_walka = Trục cam With Bearing (I4 D)
+!r4_2_miska_olejowa = Chảo dầu (I4 D)
+!r4_2_kolektor_dolotowy = Ống nạp (I4 D)
+!r4_2_kolektor_wydechowy = Ống xả (I4 D)
+!r4_2_oslona_rozrzadu_przod_1 = Nắp truyền động trước A (I4 D)
+!r4_2_oslona_rozrzadu_przod_2 = Nắp truyền động trước B (I4 D)
+!r4_2_oslona_rozrzadu_tyl_1 = Nắp truyền động Back A (I4 D)
+!r4_2_oslona_rozrzadu_tyl_2 = Nắp truyền động Back B (I4 D)
+!r4_2_pasek_1 = Đai uống khúc A (I4 D)
+!r4_2_pasek_2 = Đai uống khúc B (I4 D)
+!r4_2_pokrywa_kabli = Nắp dây đánh lửa (I4 D)
+!r4_2_walek_rozrzadu = Trục cam (I4 D)
+!r4_2_walKorbowy = Trục khuỷu (I4 D)
+!r4_2_gearbox = Hộp số (I4 D)
+!r4_2_pokrywa_glowicy = Nắp đầu động cơ (I4 D)
+!w_r4_2_koncowy_elise = Bộ phận xả sau (Elise)
+!w_r4_2_poczatkowy_elise = Đoạn ống xả trước (Elise)
+
+!r4_old_blok = Khối động cơ (I4 E)
+!r4_old_gearbox = Hộp số (I4 E)
+!r4_old_kable = Dây đánh lửa (I4 E)
+!r4_old_glowica = Đầu động cơ A (I4 E)
+!r4_old_glowica_2_1 = Đầu động cơ B (I4 E)
+!r4_old_glowica_2_2 = Đầu động cơ C (I4 E)
+!r4_old_kopulkaRozdzielacza = Nắp bộ đánh lửa (I4 E)
+!r4_old_kolektor_dolotowy = Ống nạp (I4 E)
+!r4_old_kolektor_wydechowy = Ống xả (I4 E)
+!r4_old_pasek_1 = Đai uống khúc A (I4 E)
+!r4_old_pasek_2 = Đai uống khúc B (I4 E)
+!r4_old_walKorbowy = Trục khuỷu (I4 E)
+!r4_old_pokrywa_glowicy_1 = Nắp đầu động cơ A (I4 E)
+!r4_old_pokrywa_glowicy_2 = Nắp đầu động cơ B (I4 E)
+!r4_old_pompaWody = Máy bơm (I4 E)
+!r4_old_miska_olejowa = Chảo dầu (I4 E)
+!r4_old_puszkaFiltra_tyl = Thân bộ lọc khí (I4 E)
+!r4_old_puszkaFiltra_przod = Nắp bộ lọc khí (I4 E)
+!w_r4_old_koncowy_esprit = Bộ phận xả sau (Esprit)
+!w_r4_old_poczatkowy_esprit = Đoạn ống xả trước (Esprit)
+
+!rim_elise = Vành Elise
+!rim_esprit = Vành Esprit
+!seat_elise = Ghế Elise
+!seat_esprit = Ghế Esprit
+!steering_wheel_elise = Vô lăng Elise
+!steering_wheel_esprit = Vô lăng Esprit
+
+!engine_r4_2 = I4 DOHC APZ
+!engine_r4_old = I4 DOHC ABU
+
+GUI_SellParts = Bán linh kiện
+GUI_SellPerCondition = Bán linh kiện có điều kiện DƯỚI ĐÂY HOẶC BẰNG
+GUI_Desc_Photo = để vận hành các chức năng của máy ảnh
+GUI_Desc_PhotoFocus = để lấy nét máy ảnh khi sử dụng DOF
+GUI_SelectEngine = Chọn động cơ
+
+M_OpcjeOther12 = Đơn vị hiển thị
+GUI_Metric = Metric
+GUI_Imperial = Nóc xe
+
+!v12_blok = Khối động cơ (V12)
+!v12_gearbox = Hộp số (V12)
+!v12_glowica_1 = Đầu động cơ A (V12)
+!v12_glowica_2 = Đầu động cơ B (V12)
+!v12_glowica_wkladka = Nắp trục cam (V12 V10)
+!v12_kolektor_dolotowy = Ống nạp (V12)
+!v12_kolektor_wydechowy_1 = Ống xả A (V12)
+!v12_kolektor_wydechowy_2 = Ống xả B (V12)
+!v12_listwa_wtryskowa = Đường nhiên liệu (V12)
+!v12_miska_olejowa = Chảo dầu (V12)
+!v12_oslona_lancucha = Nắp Dây xích truyền động (V12)
+!v12_oslona_rozrzadu_1 = Nắp truyền động A (V12)
+!v12_oslona_rozrzadu_2 = Nắp truyền động B (V12)
+!v12_oslona_rozrzadu_3 = Nắp truyền động C (V12)
+!v12_pasek_1 = Đai uống khúc A (V12)
+!v12_pasek_2 = Đai uống khúc B (V12)
+!v12_pokrywa_glowicy_1 = Nắp đầu A (V12)
+!v12_pokrywa_glowicy_2 = Nắp đầu B (V12)
+!v12_pompa_wspomagania = Bơm trợ lực lái (V12)
+!v12_pompaWody = Máy bơm (V12)
+!v12_przepustnica = Bướm ga (V12)
+!v12_slizg_1 = Móng căn dây xích A (V12)
+!v12_slizg_2 = Móng căn dây xích B (V12)
+!v12_termostat = Bộ điều nhiệt (V12)
+!v12_walek_rozrzadu = Trục cam (V12)
+!v12_walKorbowy = Trục khuỷu (V12)
+!v12_filtr_oleju = Bộ lọc dầu (V12)
+
+!v12_zonda_gearbox = Hộp số (V12 A)
+!v12_zonda_kolektor_dolotowy = Ống nạp (V12 A)
+!v12_zonda_kolektor_wydechowy_1 = Ống xả A (V12 A)
+!v12_zonda_kolektor_wydechowy_2 = Ống xả B (V12 A)
+!v12_zonda_listwa_wtryskowa = Đường nhiên liệu (V12 A)
+!v12_zonda_pokrywa_glowicy_1 = Nắp đầu A (V12 A)
+!v12_zonda_pokrywa_glowicy_1_2 = Nắp đầu B (V12 A)
+!v12_zonda_pokrywa_glowicy_2 = Nắp đầu C (V12 A)
+!v12_zonda_pokrywa_glowicy_2_2 = Nắp đầu D (V12 A)
+!v12_zonda_oslona_kolektora = Nắp Ống nạp (V12 A)
+!w_v12zonda_koncowy = Bộ phận xả sau (Zonda)
+
+!v12_huayra_glowica_1 = Đầu động cơ A (V12 B)
+!v12_huayra_glowica_2 = Đầu động cơ B (V12 B)
+!v12_huayra_glowica_wkladka = Nắp trục cam (V12 B)
+!v12_huayra_intercooler = Đặt bộ làm mát (V12 B)
+!v12_huayra_kolektor_dolotowy = Ống nạp (V12 B)
+!v12_huayra_lancuch = Dây xích truyền động (V12 B)
+!v12_huayra_cewki = Gói cuộn dây (V12 B)
+!v12_huayra_oslona_rozrzadu_2 = Nắp truyền động B (V12 B)
+!v12_huayra_pokrywa_glowicy_1 = Nắp đầu A (V12 B)
+!v12_huayra_pokrywa_glowicy_2 = Nắp đầu B (V12 B)
+!v12_huayra_turbo = Turbo (V12 B)
+!v12_huayra_walek_rozrzadu = Trục cam (V12 B)
+!v12_huayra_zebatka = Bánh răng truyền động (V12 B)
+!v12_huayra_przepustnica = Bướm ga (V12 B)
+
+!seat_zonda = Ghế Zonda
+!steering_wheel_huayra = Vô lăng Huayra 
+!seat_huayra = Ghế Huayra
+!steering_wheel_zonda = Vô lăng Zonda
+!rim_zonda_A = Vành Zonda trước
+!rim_zonda_B = Vành Zonda sau
+!rim_huayra_A = Vành Huayra trước
+!rim_huayra_B = Vành Huayra sau
+
+!engine_v12_zonda = V12 DOHC
+!engine_v12_huayra = V12 SOHC Twin Turbo
+
+GUI_Difficulty = Chọn chế độ chơi của bạn
+GUI_Difficulty_Normal = Chế độ bình thường
+GUI_Difficulty_NormalWOTutorial = Chế độ chơi bình thường không có hướng dẫn
+GUI_Difficulty_Sandbox = Chế độ sandbox
+GUI_Difficulty_Expert = Chế độ chuyên gia
+
+!v12_huayra_oslona_intercoolera_1 = Nắp bộ làm mát A (V12 B)
+!v12_huayra_oslona_intercoolera_2 = Nắp bộ làm mát B (V12 B)
+!w_v12_huayra_koncowy = Bộ phận xả sau (Huayra)
+!v12_huayra_gearbox = Hộp số (V12 B)
+!v12_huayra_oslona_kolektora = Nắp Ống nạp (V12 B)
+!v12_zonda_filtr = Bộ lọc khí (V12 A)
+
+!bak_2 = Bình xăng B
+!bak_2_1 = Bình xăng C
+
+!t_v12_zonda_kolektor_wydechowy_2 = ^!v12_zonda_kolektor_wydechowy_2
+!t_v12_zonda_filtr = ^!v12_zonda_filtr
+!t_v12_zonda_kolektor_wydechowy_1 = ^!v12_zonda_kolektor_wydechowy_1
+!t_v12_zonda_listwa_wtryskowa = ^!v12_zonda_listwa_wtryskowa
+!t_v12_zonda_kolektor_dolotowy = ^!v12_zonda_kolektor_dolotowy
+!t_w_v12zonda_koncowy = ^!w_v12zonda_koncowy
+!t_v12_glowica_1 = ^!v12_glowica_1
+!t_v12_walek_rozrzadu = ^!v12_walek_rozrzadu
+!t_v12_huayra_cewki = ^!v12_huayra_cewki
+!t_w_v12_huayra_koncowy = ^!w_v12_huayra_koncowy
+!t_v12_huayra_glowica_1 = ^!v12_huayra_glowica_1
+!t_v12_huayra_glowica_2 = ^!v12_huayra_glowica_2
+!t_v12_huayra_intercooler = ^!v12_huayra_intercooler
+!t_v12_huayra_walek_rozrzadu = ^!v12_huayra_walek_rozrzadu
+!t_v12_huayra_kolektor_dolotowy = ^!v12_huayra_kolektor_dolotowy
+!t_v12_huayra_przepustnica = ^!v12_huayra_przepustnica
+!t_v12_huayra_turbo = ^!v12_huayra_turbo
+!t_v12_glowica_2 = ^!v12_glowica_2
+
+!t_v8_gearbox_stary = ^!v8_gearbox_stary
+!t_v8_gearbox = ^!v8_gearbox
+!t_r4_gearbox_short = ^!r4_gearbox_short
+
+!w_v12_huayratempesta_koncowy = Bộ phận xả sau (Huayra Tempesta)
+!rim_huayratempesta = Vành Huayra Tempesta
+
+GUI_GearboxShop = Cửa hàng hộp số tùy chỉnh
+
+pie_tune_menu =  Điều chỉnh linh kiện
+pie_tune_menu_bonus = Cho phép bạn thay đổi cài đặt linh kiện đặc biệt
+GUI_TuneWindow = Điều chỉnh
+GUI_ResetTune = Đặt lại điều chỉnh
+GUI_SaveTune = Lưu điều chỉnh
+GUI_ForwardGears = Bánh răng chuyển tiếp
+GUI_Ratio = Tỉ lệ
+GUI_MaxSpeed = Tốc độ tối đa
+GUI_NumberOfGears = Số lượng bánh răng
+
+GUI_NoTuneGearbox = Không có hộp số tùy chỉnh được cài đặt.
+GUI_NoTuneCarFromOrder =  Điều chỉnh chỉ có sẵn cho xe bạn sở hữu.
+GUI_GearsFR = Tỷ lệ cuối cùng
+GUI_Gears1 = 1st
+GUI_Gears2 = 2nd
+GUI_Gears3 = 3rd
+GUI_Gears4 = 4th
+GUI_Gears5 = 5th
+GUI_Gears6 = 6th
+GUI_Gears7 = 7th
+GUI_Gears8 = 8th
+GUI_Gears9 = 9th
+GUI_Gears10 = 10th
+
+!t_v8_gearbox_stary = ^!v8_gearbox_stary
+!t_v8_gearbox = ^!v8_gearbox
+!t_r4_gearbox_short	= ^!r4_gearbox_short
+!t_i6_old_gearbox = ^!i6_old_gearbox
+!t_v6_30_gearbox = ^!v6_30_gearbox
+!t_r4_2_gearbox = ^!r4_2_gearbox
+!t_w12_gearbox = ^!w12_gearbox
+!t_v8_gearbox_stary2 = ^!v8_gearbox_stary2
+!t_r4_old_gearbox = ^!r4_old_gearbox
+!t_i4_l134_gearbox = ^!i4_l134_gearbox
+!t_rot_new_gearbox = ^!rot_new_gearbox
+!t_r4_gearbox_rwd = ^!r4_gearbox_rwd
+!t_v6_30_gearbox_2 = ^!v6_30_gearbox_2
+!t_i3_gearbox = ^!i3_gearbox
+!t_v8_gearbox_4x4 = ^!v8_gearbox_4x4
+!t_r4_gearbox_4x4 = ^!r4_gearbox_4x4
+!t_v8_zz_gearbox = ^!v8_zz_gearbox
+!t_v12_zonda_gearbox = ^!v12_zonda_gearbox
+!t_v12_huayra_gearbox = ^!v12_huayra_gearbox
+!t_w_i3_poczatkowy = ^!w_i3_poczatkowy
+!t_i3_kolektor_dolotowy = ^!i3_kolektor_dolotowy
+!t_i3_kolektor_wydechowy = ^!i3_kolektor_wydechowy
+!t_w_i3_poczatkowy_2 = ^!w_i3_poczatkowy_2
+
+GUI_TopSpeed = Tốc độ tối đa
+GUI_Timer = Timer
+GUI_TuneGearing = Bánh răng
+
+GUI_PauseQuitMenu = Menu
+
+GUI_Map_CustomTrack = Bản đồ Workshop
+GUI_SelectMapQuestion = Bạn muốn chọn bản đồ nào?
+
+!v8_f350_blok = Khối động cơ (V8 I)
+!v8_f350_dzwigniazaworu = Tay Rocker (V8 I)
+!v8_f350_glowica_1 = Đầu động cơ A (V8 I)
+!v8_f350_glowica_2 = Đầu động cơ B (V8 I)
+!v8_f350_glowica_wkladka = Nắp trục cam (V8 I)
+!v8_f350_kolektor_dolotowy = Ống nạp (V8 I)
+!v8_f350_kolektor_wydechowy = Ống xả (V8 I)
+!v8_f350_oslona_rozrzadu = Nắp truyền động (V8 I)
+!v8_f350_pasek_1 = Đai uống khúc (V8 I)
+!v8_f350_pokrywa_glowicy_1 = Nắp đầu A (V8 I)
+!v8_f350_pokrywa_glowicy_2 = Nắp đầu B (V8 I)
+!v8_f350_rolka_walka = Bánh răng Cam (V8 I)
+!v8_f350_walek_rozrzadu = Trục cam (V8 I)
+!v8_f350_kable = Dây đánh lửa A (V8 I)
+!v8_f350_kable_2 = Dây đánh lửa B (V8 I)
+!v8_f350_lancuch_1 = Dây xích truyền động A (V8 I)
+!v8_f350_slizg_1 = Móng căn dây xích (V8 I)
+
+!v8_coyote_blok = Khối động cơ (V8 J)
+!v8_coyote_glowica_1 = Đầu động cơ A (V8 J)
+!v8_coyote_glowica_2 = Đầu động cơ B (V8 J)
+!v8_coyote_glowica_wkladka = Nắp trục cam (V8 J)
+!v8_coyote_kolektor_dolotowy = Ống nạp (V8 J)
+!v8_coyote_kolektor_wydechowy = Ống xả (V8 J)
+!v8_coyote_lancuch_1 = Dây xích truyền động A (V8 L)
+!v8_coyote_lancuch_2 = Dây xích truyền động B (V8 L)
+!v8_coyote_oslona_rozrzadu = Nắp truyền động (V8 J)
+!v8_coyote_pasek_1 = Đai uống khúc A (V8 J)
+!v8_coyote_pasek_2 = Đai uống khúc B (V8 J)
+!v8_coyote_pokrywa_glowicy_1 = Nắp đầu A (V8 J)
+!v8_coyote_pokrywa_glowicy_2 = Nắp đầu B (V8 J)
+!v8_coyote_pokrywa_swiec_1 = Nắp Coils A (V8 J)
+!v8_coyote_pokrywa_swiec_2 = Nắp Coils B (V8 J)
+!v8_coyote_rolka_walka_1 = Bánh răng Cam A (V8 J)
+!v8_coyote_rolka_walka_2 = Bánh răng Cam B (V8 J)
+!v8_coyote_slizg = Móng căn dây xích (V8 J)
+!v8_coyote_walek_rozrzadu = Trục cam (V8 J)
+!v8_coyote_walKorbowy = Trục khuỷu (V8 J)
+!v8_coyote_pokrywa_silnika = Nắp động cơ (V8 J)
+
+!v8_429_filtr_dol = Thân bộ lọc khí (V8 OHV J)
+!v8_429_filtr_srodek = Bộ lọc khí (V8 OHV J)
+!v8_429_kolektor_dolotowy = Ống nạp (V8 OHV J)
+!v8_429_kolektor_wydechowy = Ống xả (V8 OHV J)
+!v8_429_pokrywa_glowicy_1 = Nắp đầu A (V8 OHV J)
+!v8_429_pokrywa_glowicy_2 = Nắp đầu B (V8 OHV J)
+!v8_429_filtr_gora  = Nắp bộ lọc khí (V8 OHV J)
+!v8_429_filtr_podstawa = Thân bộ lọc khí B (V8 OHV J)
+
+!v8_289_blok = Khối động cơ (V8 OHV I)
+!v8_289_filtr_dol = Thân bộ lọc khí (V8 OHV I)
+!v8_289_filtr_gora = Nắp bộ lọc khí (V8 OHV I)
+!v8_289_filtr_srodek = Bộ lọc khí (V8 OHV I)
+!v8_289_glowica = Đầu động cơ (V8 OHV I)
+!v8_289_kolektor_dolotowy = Ống nạp (V8 OHV I)
+!v8_289_kolektor_dolotowy2 = Ống nạp B (V8 OHV I)
+!v8_289_kolektor_wydechowy = Ống xả (V8 OHV I)
+!v8_289_kolektor_wydechowy_gt40 = Ống xả B (V8 OHV I)
+!v8_289_korekOleju = Cắm đầy dầu (V8 OHV I)
+!v8_289_miska_olejowa = Chảo dầu (V8 OHV I)
+!v8_289_pasek_1 = Đai uống khúc A (V8 OHV I)
+!v8_289_pasek_2 = Đai uống khúc B (V8 OHV I)
+!v8_289_pokrywa_glowicy_1 = Nắp đầu A (V8 OHV I)
+!v8_289_pokrywa_glowicy_2 = Nắp đầu B (V8 OHV I)
+!v8_289_raczka = Tay (V8 OHV I)
+!v8_289_rolka_pompy_wody = Ròng rọc Máy bơm (V8 OHV I)
+!v8_289_rozrzad_oslona = Nắp truyền động (V8 OHV I)
+!v8_289_wentylator = Quạt bộ tản nhiệt (V8 OHV I)
+!v8_289_trabka = Kèn hơi (V8 OHV I)
+!v8_gearbox_stary3 = Hộp số B (V8 OHV)
+
+!v8_przepustnica_2 = Bướm ga B (V8)
+!engine_v8_289 = V8 OHV WINDSOR
+!engine_v8_289_racing = V8 OHV WINDSOR RACE
+!engine_v8_429 = V8 OHV 385
+!engine_v8_coyote = V8 DOHC COYOTE
+!engine_v8_f350 = V8 SOHC BOSS RWD
+!engine_v8_f350_4x4 = V8 SOHC BOSS 
+
+!walNapedowy_7 = Trục truyền động trước E
+!w_koncowy_mustang2017 = Ống bô sau (Mustang)
+!w_koncowy_gt40 = Ống bô sau (GT40)
+
+!bench_mustang2017 = ^BenchName Mustang
+!bench_2017F-350 = ^BenchName F350
+!seat_fordgt40 = ^SeatName GT40
+!seat_mach = ^SeatName Mustang Mach 1
+!seat_mustang2017 = ^SeatName Mustang
+!seat_2017F-350 = ^SeatName F350
+!steering_wheel_mach = ^SteeringWheelName Mustang Mach 1
+!steering_wheel_mustang2017 = ^SteeringWheelName Mustang
+!steering_wheel_2017F-350 = ^SteeringWheelName F350
+!steering_wheel_fordgt40 = ^SteeringWheelName GT40
+!rim_fordgt40 = ^RimName GT40
+!rim_mustang2017 = ^RimName Mustang
+!rim_2017F-350 = ^RimName F350
+!rim_mach = ^RimName Mustang Mach 1
+!w_ruraLaczaca3 = Ống xả C
+!w_v8_koncowy2 = Ống bô sau B (V8)
+
+!t_v8_289_kolektor_wydechowy = ^!v8_289_kolektor_wydechowy
+!t_v8_289_kolektor_dolotowy= ^!v8_289_kolektor_dolotowy
+!t_v8_429_kolektor_wydechowy= ^!v8_429_kolektor_wydechowy
+!t_v8_429_kolektor_dolotowy= ^!v8_429_kolektor_dolotowy
+!t_v8_coyote_glowica_1= ^!v8_coyote_glowica_1
+!t_v8_429_filtr_srodek= ^!v8_429_filtr_srodek
+!t_v8_coyote_kolektor_dolotowy= ^!v8_coyote_kolektor_dolotowy
+!t_v8_f350_kolektor_wydechowy= ^!v8_f350_kolektor_wydechowy
+!t_v8_f350_glowica_1= ^!v8_f350_glowica_1
+!t_v8_f350_glowica_2= ^!v8_f350_glowica_2
+!t_v8_coyote_glowica_2= ^!v8_coyote_glowica_2
+!t_v8_coyote_kolektor_wydechowy= ^!v8_coyote_kolektor_wydechowy
+!t_v8_289_filtr_srodek= ^!v8_289_filtr_srodek
+!t_v8_289_glowica= ^!v8_289_glowica
+!t_v8_289_kolektor_dolotowy2= ^!v8_289_kolektor_dolotowy2
+!t_v8_f350_kolektor_dolotowy= ^!v8_f350_kolektor_dolotowy
+!t_w_koncowy_mustang2017=^!w_koncowy_mustang2017
+!t_w_koncowy_gt40=^!w_koncowy_gt40
+!t_w_ruraLaczaca3=^!w_ruraLaczaca3
+!t_w_v8_koncowy2=^!w_v8_koncowy2
+
+M_OpcjeGrafiki13=Mức độ chi tiết
+M_OpcjeGrafiki14=Mài giũa
+
+MM_SteeringCarSensitivity=Độ nhạy của tay lái ô tô
+
+M_Stopniowanie11 = ^M_Stopniowanie1
+M_Stopniowanie22 = ^M_Stopniowanie2
+M_Stopniowanie33 = ^M_Stopniowanie3
+M_Stopniowanie44 = ^M_Stopniowanie4
+
+GUI_SwapOptions = Các tùy chọn hoán đổi
+GUI_Showroom_CarVersion=Phiên bản xe
+
+M_OpcjeGrafiki15=Bóng xe đơn giản
+
+GUI_Desc_Accept=Chấp nhận
+GUI_Desc_Close=Đóng
+GUI_Desc_OrderDecline=Từ chối
+GUI_Desc_MoveItem=Chuyển vật phẩm
+GUI_Desc_ChangePanel=Thay đổi tab
+GUI_Desc_SelectItem=Chọn vật phẩm
+GUI_Desc_SelectColor=Chọn màu
+GUI_Desc_Warehouse=Thay đổi kho hàng
+GUI_Desc_OrderAccept=Chấp nhận đơn hàng
+GUI_Desc_Repair=Sửa chữa
+GUI_Desc_Scroll=Cuộn thông tin xe
+GUI_Desc_CarMove=Di chuyển xe
+GUI_Desc_JunkPanel=Rác
+GUI_Desc_InventoryPanel=Kho
+GUI_Desc_WarehousePanel=Kho hàng
+
+GUI_SwapOnlyUserCar=Bạn phải sở hữu xe để hoán đổi động cơ.
+
+GUI_Desc_PieMenu=Mở menu bánh
+GUI_Desc_LeaveMechanicMode=Rời khỏi Chế độ Cơ khí
+GUI_Desc_LowerLifter=Nâng hạ
+GUI_Desc_Reject=Từ chối
+GUI_Desc_CancelSearch=Hủy tìm kiếm
+GUI_Desc_CustomLicencePlate=Tùy chỉnh biển số xe
+GUI_Desc_ChangeWarehouse=Thay đổi kho hàng
+
+GUI_Paint_PaintCar=Sơn xe
+GUI_Paint_PaintPart=Sơn linh kiện
+
+GUI_move_noDlc=Bạn không có DLC bắt buộc
+GUI_Chrome=Chrome
+GUI_Desc_Back=Quay lại
+
+!t_i4_kolektor_dolotowy=^!i4_kolektor_dolotowy
+!t_i4_kolektor_wydechowy=^!i4_kolektor_wydechowy
+!t_i4_pompa_wspomagania=^!i4_pompa_wspomagania
+!t_i4_turbo=^!i4_turbo
+!t_i4_walek_rozrzadu=^!i4_walek_rozrzadu
+!t_i4_wtrysk=^!i4_wtrysk
+!t_i6_old_alternator=^!i6_old_alternator
+!t_i6_old_kolektor_dolotowy=^!i6_old_kolektor_dolotowy
+!t_i6_old_kolektor_wydechowy=^!i6_old_kolektor_wydechowy
+!t_i6_old_pompaWspomagania=^!i6_old_pompaWspomagania
+!t_i6_old_przepustnica=^!i6_old_przepustnica
+!t_i6_old_termostat=^!i6_old_termostat
+!t_i6_old_walek=^!i6_old_walek
+!t_r4_2_glowica=^!r4_2_glowica
+!t_r4_2_kable=^!r4_2_kable
+!t_r4_2_kolektor_dolotowy=^!r4_2_kolektor_dolotowy
+!t_r4_2_kolektor_wydechowy=^!r4_2_kolektor_wydechowy
+!t_r4_2_walek_rozrzadu=^!r4_2_walek_rozrzadu
+!t_r4_old_glowica=^!r4_old_glowica
+!t_r4_old_glowica_2_1=^!r4_old_glowica_2_1
+!t_r4_old_glowica_2_2=^!r4_old_glowica_2_2
+!t_r4_old_kable=^!r4_old_kable
+!t_r4_old_kolektor_dolotowy=^!r4_old_kolektor_dolotowy
+!t_r4_old_kolektor_wydechowy=^!r4_old_kolektor_wydechowy
+!t_r4_old_kopulkaRozdzielacza=^!r4_old_kopulkaRozdzielacza
+!t_v6_30_kolektor_dolotowy=^!v6_30_kolektor_dolotowy
+!t_v6_30_kolektor_dolotowy_dolny=^!v6_30_kolektor_dolotowy_dolny
+!t_v6_30_kolektor_wydechowy=^!v6_30_kolektor_wydechowy
+!t_v6_30_pompaWspomagania=^!v6_30_pompaWspomagania
+!t_v6_30_walek_rozrzadu=^!v6_30_walek_rozrzadu
+!t_v6_pentastar_cewka=^!v6_pentastar_cewka
+!t_v6_pentastar_glowica_1=^!v6_pentastar_glowica_1
+!t_v6_pentastar_glowica_2=^!v6_pentastar_glowica_2
+!t_v6_pentastar_kolektor_dolotowy=^!v6_pentastar_kolektor_dolotowy
+!t_v6_pentastar_kolektor_dolotowy_dolny=^!v6_pentastar_kolektor_dolotowy_dolny
+!t_v6_pentastar_kolektor_wydechowy=^!v6_pentastar_kolektor_wydechowy
+!t_v6_pentastar_walek_rozrzadu=^!v6_pentastar_walek_rozrzadu
+!t_v8_hemi_filtr_srodek=^!v8_hemi_filtr_srodek
+!t_v8_hemi_gaznik_1=^!v8_hemi_gaznik_1
+!t_v8_hemi_gaznik_2=^!v8_hemi_gaznik_2
+!t_v8_hemi_glowica_1=^!v8_hemi_glowica_1
+!t_v8_hemi_glowica_2=^!v8_hemi_glowica_2
+!t_v8_hemi_kable=^!v8_hemi_kable
+!t_v8_hemi_kolektor_dolotowy=^!v8_hemi_kolektor_dolotowy
+!t_v8_hemi_kolektor_wydechowy=^!v8_hemi_kolektor_wydechowy
+!t_w_i6_old_poczatkowy=^!w_i6_old_poczatkowy
+!t_w_v6_30_koncowy=^!w_v6_30_koncowy
+!t_w_v6_30_poczatkowy_1=^!w_v6_30_poczatkowy_1
+!t_w_v6_30_poczatkowy_2=^!w_v6_30_poczatkowy_2
+!t_w_v6_30_poczatkowy_h1=^!w_v6_30_poczatkowy_h1
+!t_w_v6_30_poczatkowy_h4=^!w_v6_30_poczatkowy_h4
+!t_w12_filtr=^!w12_filtr
+!t_w12_glowica=^!w12_glowica
+!t_w12_kolektor_dolotowy_dolny=^!w12_kolektor_dolotowy_dolny
+!t_w12_kolektor_dolotowy_gorny=^!w12_kolektor_dolotowy_gorny
+!t_w12_kolektor_wydechowy=^!w12_kolektor_wydechowy
+!t_w12_listwaWtryskowa=^!w12_listwaWtryskowa
+!t_w12_przepustnica=^!w12_przepustnica
+!t_w12_tlok=^!w12_tlok
+!t_w12_turbo=^!w12_turbo
+!t_w12_walek_rozrzadu=^!w12_walek_rozrzadu
+!t_v8_gearbox_stary3=^!v8_gearbox_stary3
+!t_v8_hemi_walek_popychaczy=^!v8_hemi_walek_popychaczy
+!t_v8_zz_pompa_wspomagania=^!v8_zz_pompa_wspomagania
+!t_v8_sixpack_gaznik_1=^!v8_sixpack_gaznik_1
+!t_v8_sixpack_gaznik_2=^!v8_sixpack_gaznik_2
+!t_v8_cuda_filtr_2carb_srodek=^!v8_cuda_filtr_2carb_srodek
+!t_v8_magnum_kolektor_wydechowy=^!v8_magnum_kolektor_wydechowy
+!t_w_v8_magnum_poczatkowy=^!w_v8_magnum_poczatkowy
+!t_w12_kolo_zamachowe=^!w12_kolo_zamachowe
+
+//porsz
+
+!b61_blok_1 = Khối động cơ A (B6 A)
+!b61_blok_2 = Khối động cơ B (B6 A)
+!b61_gearbox = Hộp số (B6 A)
+!b61_glowica_1 = Đầu động cơ A (B6 A)
+!b61_glowica_2 = Đầu động cơ B (B6 A)
+!b61_glowica_wkladka = Nắp trục cam (B6 A)
+!b61_kolektor_dolotowy_1 = Ống nạp A (B6 A)
+!b61_kolektor_dolotowy_2 = Ống nạp B (B6 A)
+!b61_lancuch = Dây xích truyền động (B6 A)
+!b61_listwa_wtryskowa = Đường nhiên liệu (B6 A)
+!b61_miska_olejowa = Chảo dầu (B6 A)
+!b61_pasek = Đai uống khúc (B6 A)
+!b61_pokrywa_glowicy_1 = Nắp đầu động cơ A (B6 A)
+!b61_pokrywa_glowicy_2 = Nắp đầu động cơ B (B6 A)
+!b61_pompaWody = Máy bơm (B6 A)
+!b61_przepustnica = Bướm ga (B6 A)
+!b61_rolka_pompy_wody = Ròng rọc Máy bơm (B6 A)
+!b61_rolka_walka_1 = Bánh răng Cam A (B6 A)
+!b61_rolka_walka_2 = Bánh răng Cam B (B6 A)
+!b61_slizg = Móng căn dây xích (B6 A)
+!b61_turbo = Turbo (B6 A)
+!b61_walek_rozrzadu = Trục cam (B6 A)
+!b61_walKorbowy = Trục khuỷu (B6 A)
+!b61_wlew_oleju = Oil Fill Tube (B6 A)
+!b61_blok_nakladka = Nắp truyền động C (B6 A)
+!b61_filtr_dol = Thân bộ lọc khí (B6 A)
+!b61_filtr_gora = Nắp bộ lọc khí (B6 A)
+!b61_filtr_srodek = Bộ lọc khí (B6 A)
+!b61_glowica_1_pokrywa = Nắp truyền động A (B6 A)
+!b61_glowica_2_pokrywa = Nắp truyền động B (B6 A)
+!b61_dyferPrzod = Chuẩn đoán trước (B6 A)
+!w_b61_koncowy_porshe991 = Bộ phận xả sau (991)
+!w_b61_srodkowy_A_porshe991 = Bộ phận xả giữa A (991)
+!w_b61_srodkowy_B_porshe991 = Bộ phận xả giữa B (991)
+
+!b62_2_filtr_dol = Thân bộ lọc khí (B6 B)
+!b62_2_filtr_gora = Nắp bộ lọc khí (B6 B)
+!b62_2_filtr_srodek = Bộ lọc khí (B6 B)
+!b62_2_intercooler = Bộ làm mát (B6 B)
+!b62_2_kolektor_dolotowy = Ống nạp (B6 B)
+!b62_2_pasek = Đai uống khúc (B6 B)
+!b62_2_pokrywa = Nắp (B6 B)
+!b62_2_przepustnica = Bướm ga (B6 B)
+!b62_2_wtrysk = Phun nhiên liệu cơ học (B6 B)
+!b62_2_wtrysk_dol = Phun nhiên liệu cơ học cơ bản (B6 B)
+!w_b62_koncowy_A_porshe964 =  Bộ phận xả sau A (964)
+!w_b62_koncowy_B_porshe964 =  Bộ phận xả sau B (964)
+
+!b62_alternator = Máy phát điện (B6 C)
+!b62_blok_1 = Khối động cơ A (B6 C)
+!b62_blok_2 = Khối động cơ B (B6 C)
+!b62_cylinder_1 = Động cơ Cylinder (B6 C)
+!b62_kolektor_dolotowy_1 = Ống nạp A (B6 C)
+!b62_gearbox = Hộp số (B6 C)
+!b62_glowica_1 = Đầu động cơ (B6 C)
+!b62_kable = Dây đánh lửa (B6 C)
+!b62_kolektor_dolotowy_2 = Ống nạp B (B6 C)
+!b62_kolektor_wydechowy = Ống xả (B6 C)
+!b62_kopulka_rozdzielacza = Nắp bộ đánh lửa (B6 C)
+!b62_lancuch_1 = Dây xích truyền động A (B6 C)
+!b62_lancuch_2 = Dây xích truyền động B (B6 C)
+!b62_listwa_wtryskowa = Đường nhiên liệu (B6 C)
+!b62_nakladka_glowica_1 = Ổ đỡ trục cam (B6 C)
+!b62_obudowa_rozrzadu_1 = Nắp truyền động A (B6 C)
+!b62_obudowa_rozrzadu_2 = Nắp truyền động B (B6 C)
+!b62_obudowa_wentylatora = Nắp quạt (B6 C)
+!b62_pasek_1 = Đai uống khúc A (B6 C)
+!b62_pasek_2 = Đai uống khúc B (B6 C)
+!b62_pasek_3 = Đai uống khúc C (B6 C)
+!b62_pokrywa = Nắp khối động cơ (B6 C)
+!b62_pokrywa_nakladki_1 = Nắp đầu động cơ A (B6 C)
+!b62_pokrywa_nakladki_2 = Nắp đầu động cơ B (B6 C)
+!b62_pokrywa_rozrzadu_1 = Nắp truyền động C (B6 C)
+!b62_przepustnica = Bướm ga (B6 C)
+!b62_rolka_walka = Bánh răng Cam (B6 C)
+!b62_rozdzielacz = Bộ đánh lửa (B6 C)
+!b62_rurka = Ống (B6 C)
+!b62_slizg_1 = Móng căn dây xích (B6 C)
+!b62_turbo = Turbo (B6 C)
+!b62_walek = Shaft (B6 C)
+!b62_walek_rozrzadu = Trục cam (B6 C)
+!b62_walKorbowy = Trục khuỷu (B6 C)
+!b62_wentylator = Quạt bộ tản nhiệt (B6 C)
+
+!v10_blok = Khối động cơ (V10)
+!v10_filtr = Bộ lọc khí (V10)
+!v10_filtr_dol = Thân bộ lọc khí (V10)
+!v10_filtr_gora = Nắp bộ lọc khí (V10)
+!v10_gearbox = Hộp số (V10)
+!v10_glowica_1 = Đầu động cơ A (V10)
+!v10_glowica_2 = Đầu động cơ B (V10)
+!v10_kolektor_dolotowy = Ống nạp (V10)
+!v10_kolektor_wydechowy = Ống xả (V10)
+!v10_lancuch = Dây xích truyền động (V10)
+!v10_listwa_wtryskowa = Đường nhiên liệu (V10)
+!v10_miska_olejowa = Chảo dầu (V10)
+!v10_obudowa_sprzegla = Nắp ly hợp (V10)
+!v10_oslona_rozrzadu = Nắp truyền động (V10)
+!v10_pasek_1 = Đai uống khúc A (V10)
+!v10_pasek_2 = Đai uống khúc B (V10)
+!v10_pokrywa_glowicy_1 = Nắp đầu động cơ A (V10)
+!v10_pokrywa_glowicy_2 = Nắp đầu động cơ B (V10)
+!v10_rolka_walka_1 = Bánh răng Cam A (V10)
+!v10_rolka_walka_2 = Bánh răng Cam B (V10)
+!v10_slizg = Móng căn dây xích (V10)
+!v10_sprzeglo = Ly hợp (V10)
+!v10_walek_rozrzadu = Trục cam (V10)
+!v10_walKorbowy = Trục khuỷu (V10)
+!v10_pompaWody = Máy bơm (V10)
+!v10_rolka_pompy_wody = Ròng rọc Máy bơm (V10)
+!w_v10_koncowy_carreragt = Bộ phận xả sau (Carrera GT)
+!w_v10_srodkowy_carreragt = Bộ phận xả giữa (Carrera GT)
+!w_v10_poczatkowy_carreragt = Đoạn ống xả trước (Carrera GT)
+
+!rim_porshe_911turbo36_gt = ^RimName 964
+!rim_porshe_991_carrera_4s = ^RimName 991
+!rim_porshe_carrera_gt = ^RimName Carrera GT
+!seat_carreragt = ^SeatName Carrera GT
+!seat_964 = ^SeatName 964
+!seat_991 = ^SeatName 991
+!steering_wheel_964 = ^SteeringWheelName 964
+!steering_wheel_991 = ^SteeringWheelName 991
+!steering_wheel_carreragt = ^SteeringWheelName Carrera GT
+!bench_991 = ^BenchName 991
+
+!wahaczGora_double_2 = Cánh tay treo trên B
+!wahaczDol_double_3 = Cánh tay treo đáy C
+!polosNapedowa_9 = Trục lái trước J
+
+!engine_v10 = V10 DOHC
+!engine_b61_porsche = B6 Twin Turbo
+!engine_b62_2_porsche = B6 Turbo
+!engine_b62_porsche = B6
+
+!b62_filtr_srodek=Bộ lọc khí (B6)
+!b62_filtr_dol=Thân bộ lọc khí (B6)
+!b62_filtr_gora=Nắp bộ lọc khí (B6)
+!b62_dmuchawa = Blower (B6 C)
+!b6_filtr_oleju = Bộ lọc dầu (B6)
+!v10_filtr_oleju = Bộ lọc dầu (V10)
+!w_b62_koncowy_A_porshe964RS = Bộ phận xả sau A (964 RS)
+!w_b62_koncowy_B_porshe964RS = Bộ phận xả sau B (964 RS)
+!w_b62_poczatkowy_porshe964RS = Đoạn ống xả trước (964 RS)
+
+!t_b61_filtr_srodek=^!b61_filtr_srodek
+!t_b61_gearbox=^!b61_gearbox
+!t_b61_glowica_1=^!b61_glowica_1
+!t_b61_glowica_2=^!b61_glowica_2
+!t_b61_kolektor_dolotowy_1=^!b61_kolektor_dolotowy_1
+!t_b61_kolektor_dolotowy_2=^!b61_kolektor_dolotowy_2
+!t_b61_listwa_wtryskowa=^!b61_listwa_wtryskowa
+!t_b61_przepustnica=^!b61_przepustnica
+!t_b61_turbo=^!b61_turbo
+!t_b61_walek_rozrzadu=^!b61_walek_rozrzadu
+!t_b62_2_filtr_srodek=^!b62_2_filtr_srodek
+!t_b62_2_intercooler=^!b62_2_intercooler
+!t_b62_2_kolektor_dolotowy=^!b62_2_kolektor_dolotowy
+!t_b62_2_przepustnica=^!b62_2_przepustnica
+!t_b62_2_wtrysk=^!b62_2_wtrysk
+!t_b62_cylinder_1=^!b62_cylinder_1
+!t_b62_filtr_srodek=^!b62_filtr_srodek
+!t_b62_gearbox=^!b62_gearbox
+!t_b62_glowica_1=^!b62_glowica_1
+!t_b62_kable=^!b62_kable
+!t_b62_kolektor_dolotowy_1=^!b62_kolektor_dolotowy_1
+!t_b62_kolektor_dolotowy_2=^!b62_kolektor_dolotowy_2
+!t_b62_kolektor_wydechowy=^!b62_kolektor_wydechowy
+!t_b62_listwa_wtryskowa=^!b62_listwa_wtryskowa
+!t_b62_przepustnica=^!b62_przepustnica
+!t_b62_turbo=^!b62_turbo
+!t_b62_walek_rozrzadu=^!b62_walek_rozrzadu
+!t_v10_filtr=^!v10_filtr
+!t_v10_gearbox=^!v10_gearbox
+!t_v10_glowica_1=^!v10_glowica_1
+!t_v10_glowica_2=^!v10_glowica_2
+!t_v10_kolektor_dolotowy=^!v10_kolektor_dolotowy
+!t_v10_kolektor_wydechowy=^!v10_kolektor_wydechowy
+!t_v10_listwa_wtryskowa=^!v10_listwa_wtryskowa
+!t_v10_sprzeglo=^!v10_sprzeglo
+!t_v10_walek_rozrzadu=^!v10_walek_rozrzadu
+!t_w_b61_koncowy_porshe991=^!w_b61_koncowy_porshe991
+!t_w_b61_srodkowy_A_porshe991=^!w_b61_srodkowy_A_porshe991
+!t_w_b61_srodkowy_B_porshe991=^!w_b61_srodkowy_B_porshe991
+!t_w_b62_koncowy_A_porshe964=^!w_b62_koncowy_A_porshe964
+!t_w_b62_koncowy_A_porshe964RS=^!w_b62_koncowy_A_porshe964RS
+!t_w_b62_koncowy_B_porshe964=^!w_b62_koncowy_B_porshe964
+!t_w_b62_koncowy_B_porshe964RS=^!w_b62_koncowy_B_porshe964RS
+!t_w_b62_poczatkowy_porshe964RS=^!w_b62_poczatkowy_porshe964RS
+!t_w_v10_koncowy_carreragt=^!w_v10_koncowy_carreragt
+!t_w_v10_poczatkowy_carreragt=^!w_v10_poczatkowy_carreragt
+!t_w_v10_srodkowy_carreragt=^!w_v10_srodkowy_carreragt
+
+!rim_porsche_964RS =  ^RimName 964 RS
+
+GUI_Desc_SellItem=Bán vật phẩm
+GUI_Desc_RemoveItem=Loại bỏ vật phẩm
+GUI_Desc_RunDyno=Bắt đầu kiểm tra
+GUI_Desc_MoveToGarage=Đến ga ra
+GUI_Desc_MoveToParking=Chuyển đến bãi đậu xe
+GUI_WarehouseChangeWindowTitle=Thay đổi kho hàng
+GUI_Desc_Acceleration=Tăng tốc
+GUI_Desc_Brake=Phanh/Ngược
+GUI_Items1000=Có quá nhiều vật phẩm trong kho. Thời gian tải có thể  lâu hơn.
+GUI_Desc_OpenKeyboard=Mở bàn phím
+
+GUI_ConsoleGetLicensePlateName=Nhập số biển số xe
+GUI_ConsoleGetPartName=Tìm vật phẩm
+GUI_ConsoleGetNickname=Đặt biệt hiệu
+
+//dodz
+!v8_62hemi_blok=Khối động cơ (V8 OHV K)
+!v8_62hemi_filtr_dol=Thân bộ lọc khí (V8 OHV K)
+!v8_62hemi_rolka_pompy_wody=Ròng rọc Máy bơm (V8 OHV K)
+!v8_62hemi_rolkaWalka=Bánh răng Cam (V8 OHV K)
+!v8_62hemi_walek_popychaczy=Trục cam  (V8 OHV K)
+!v8_62hemi_walKorbowy=Trục khuỷu (V8 OHV K)
+!v8_62hemi_cewka=Cuộn đánh lửa (V8 OHV K)
+!v8_62hemi_filtr_gora=Nắp bộ lọc khí (V8 OHV K)
+!v8_62hemi_filtr_srodek=Bộ lọc khí (V8 OHV K)
+!v8_62hemi_miska_olejowa=Chảo dầu (V8 OHV K)
+!v8_62hemi_oslona_listwy_1=Nắp đường nhiên liệu A (V8 OHV K)
+!v8_62hemi_oslona_listwy_2=Nắp đường nhiên liệu B (V8 OHV K)
+!v8_62hemi_oslona_rozrzadu=Nắp truyền động (V8 OHV K)
+!v8_62hemi_pasek_1=Đai uống khúc A (V8 OHV K)
+!v8_62hemi_dzwignia_zaworu=Tay Rocker (V8 OHV K)
+!v8_62hemi_gearbox=Hộp số (V8 OHV K)
+!v8_62hemi_glowica_1=Đầu động cơ A (V8 OHV K)
+!v8_62hemi_pasek_2=Đai uống khúc B (V8 OHV K)
+!v8_62hemi_pokrywa_glowicy_1=Nắp đầu động cơ A (V8 OHV K)
+!v8_62hemi_pokrywa_glowicy_2=Nắp đầu động cơ B (V8 OHV K)
+!v8_62hemi_poma_wody=Máy bơm (V8 OHV K)
+!v8_62hemi_popychacz=Valve Push Rod (V8 OHV K)
+!v8_62hemi_przepustnica=Bướm ga (V8 OHV K)
+!v8_62hemi_glowica_2=Đầu động cơ B (V8 OHV K)
+!v8_62hemi_kolektor_wydechowy=Ống xả đa dụng (V8 OHV K)
+!v8_62hemi_kompresor=Bộ tăng áp (V8 OHV K)
+!v8_62hemi_lancuch=Dây xích truyền động (V8 OHV K)
+!v8_62hemi_listwa_wtryskowa=Đường nhiên liệu (V8 OHV K)
+
+!steering_wheel_viper_gts=^SteeringWheelName Viper
+!steering_wheel_challenger_srt_hellcat=^SteeringWheelName Challenger Hellcat
+!seat_challenger_srt_hellcat=^SeatName Challenger Hellcat
+!seat_viper_gts=^SeatName Viper
+!bench_challenger_srt_hellcat=^BenchName Challenger Hellcat
+!rim_challenger_hellcat_1=^RimName Challenger Hellcat A
+!rim_challenger_hellcat_2=^RimName Challenger Hellcat B
+
+M_OpcjeOther13=Điều khiển
+M_OpcjeOther13a=Bàn phím + Chuột
+M_OpcjeOther13b=Gamepad (Xbox One/360, Dualshock 4)
+
+!v10_2_listwa_wtryskowa=Đường nhiên liệu (V10 A)
+!v10_2_pasek=Đai uống khúc (V10 A)
+!v10_2_kolektor_dolotowy=Ống nạp (V10 A)
+!v10_2_filtr_srodek=Bộ lọc khí (V10 A)
+!v10_2_blok=Khối động cơ (V10 A)
+!v10_2_pompaWody=Máy bơm (V10 A)
+!v10_2_popychacz=Valve Push Rod (V10 A)
+!v10_2_rolka_pompy_wody=Ròng rọc Máy bơm (V10 A)
+!v10_2_miska_olejowa=Chảo dầu (V10 A)
+!v10_2_kolektor_wydechowy=Ống xả đa dụng (V10 A)
+!v10_2_dzwignia_zaworu=Tay Rocker (V10 A)
+!v10_2_glowica_1=Đầu động cơ A (V10 A)
+!v10_2_glowica_2=Đầu động cơ B (V10 A)
+!v10_2_oslona_rozrzadu=Nắp truyền động (V10 A)
+!v10_2_przepustnica=Bướm ga (V10 A)
+!v10_2_filtr_dol=Thân bộ lọc khí (V10 A)
+!v10_2_oslona_cewek_1=Nắp cuộn đánh lửa A (V10 A)
+!v10_2_cewka=Cuộn đánh lửa (V10 A)
+!v10_2_gearbox=Hộp số (V10 A)
+!v10_2_walKorbowy=Trục khuỷu (V10 A)
+!v10_2_walek_popychaczy=Trục cam (V10 A)
+!v10_2_rolkaWalka=Bánh răng Cam (V10 A)
+!v10_2_pokrywa_glowicy_2=Nắp đầu động cơ B (V10 A)
+!v10_2_pokrywa_glowicy_1=Nắp đầu động cơ A (V10 A)
+!v10_2_oslona_cewek_2=Nắp cuộn đánh lửa B (V10 A)
+!v10_2_lancuch=Dây xích truyền động (V10 A)
+!v10_2_kable_1=Dây đánh lửa A (V10 A)
+!v10_2_kable_2=Dây đánh lửa B (V10 A)
+!v10_2_filtr_gora=Nắp bộ lọc khí (V10 A)
+
+GUI_Desc_CarsPanel=Đậu xe
+GUI_Desc_ParkingPanel=Chọn bãi đậu xe
+GUI_Desc_GetCarFromParking=Chọn từ bãi đậu xe
+GUI_Desc_FillOil=Đổ đầy dầu
+GUI_Desc_Go=Du lịch
+GUI_Desc_Select=Chọn
+
+!w_v8_62hemi_poczatkowy_A=Đoạn ống xả trước (V8 OHV K)
+!w_v8_62hemi_tlumik_koncowy=Ống bô sau (V8 OHV K)
+!w_v8_62hemi_tlumik_srodkowy=Ống bô giữa (V8 OHV K)
+!w_v10_2_koncowy_vipergts=Ống bô sau (V10 A)
+!w_v10_2_poczatkowy_vipergts=Đoạn ống xả trước (V10 A)
+!w_v10_2_srodkowy_vipergts=Ống bô giữa (V10 A)
+
+!engine_v8_62hemi = V8 OHV HEMI B
+!engine_v10_2 = V10 OHV
+
+GUI_Desc_LeaveExamineMode=Rời khỏi chế độ kiểm tra
+
+!sankiPrzod_7 = ^!sankiPrzod_1 F
+
+GUI_Desc_LeaveMountMode=Rời khỏi chế độ lắp ráp
+GUI_Desc_Zoom=Thu phóng
+GUI_Desc_ExitScrew=Hủy lắp
+GUI_Desc_ToScrew=Lắp ráp
+GUI_Desc_ExitUnscrew=Hủy bỏ tháo
+GUI_Desc_ToUnscrew=Tháo
+
+!rim_viper_gts_1=^RimName Viper
+
+GUI_Desc_CarBuy=Mua xe
+GUI_Desc_Choose=Chọn
+GUI_Desc_ChangeDof=Thay đổi DOF
+GUI_Desc_ChooseStation=Chơi
+
+GUI_Desc_SelectStar=Theo dõi linh kiện
+GUI_Desc_OpenShopList=Mở danh sách mua sắm
+GUI_Desc_AddToShopList=Thêm vào danh sách mua sắm
+GUI_Desc_Save=Điều chỉnh
+GUI_Desc_SetFactory=Đặt thành xưởng
+
+// konsola richtext
+
+console_richtxt_garage=Làm bẩn đôi tay đó
+console_richtxt_auction=Đặt giá cao hơn
+console_richtxt_salon=Suy nghĩ về xe mới
+console_richtxt_barn=Khám phá địa điểm bị lãng quên
+console_richtxt_junk=Tìm mẩu tin lưu niệm
+console_richtxt_race=Đua xe với ảo ảnh
+console_richtxt_test=Kiểm tra tiếng gõ lạ
+console_richtxt_drag=Tăng tốc đến giới hạn
+console_richtxt_offroad=Kiểm tra thanh thải
+console_richtxt_parking=Tìm chỗ đậu xe
+console_richtxt_abandoned=Đi ngang
+
+GUI_Desc_Stering=Kiểm soát
+
+!t_v8_62hemi_gearbox=^!v8_62hemi_gearbox
+!t_v10_2_gearbox=^!v10_2_gearbox
+!t_v8_62hemi_filtr_srodek=^!v8_62hemi_filtr_srodek
+!t_v10_2_glowica_1=^!v10_2_glowica_1
+!t_v10_2_listwa_wtryskowa=^!v10_2_listwa_wtryskowa
+!t_v8_62hemi_glowica_1=^!v8_62hemi_glowica_1
+!t_v10_2_walek_popychaczy=^!v10_2_walek_popychaczy
+!t_v8_62hemi_kolektor_wydechowy=^!v8_62hemi_kolektor_wydechowy
+!t_v10_2_kable_1=^!v10_2_kable_1
+!t_v8_62hemi_kompresor=^!v8_62hemi_kompresor
+!t_v10_2_cewka=^!v10_2_cewka
+!t_v10_2_glowica_2=^!v10_2_glowica_2
+!t_v10_2_kable_2=^!v10_2_kable_2
+!t_v10_2_filtr_srodek=^!v10_2_filtr_srodek
+!t_v8_62hemi_listwa_wtryskowa=^!v8_62hemi_listwa_wtryskowa
+!t_v8_62hemi_walek_popychaczy=^!v8_62hemi_walek_popychaczy
+!t_v8_62hemi_przepustnica=^!v8_62hemi_przepustnica
+!t_v8_62hemi_cewka=^!v8_62hemi_cewka
+!t_v10_2_kolektor_wydechowy=^!v10_2_kolektor_wydechowy
+!t_v8_62hemi_glowica_2=^!v8_62hemi_glowica_2
+!t_v10_2_przepustnica=^!v10_2_przepustnica
+!t_v10_2_kolektor_dolotowy=^!v10_2_kolektor_dolotowy
+
+!engine_v10_2_mod = V10 OHV A
+!rim_viper_gts_2=^RimName Viper B
+!rim_viper_gts_3=^RimName Viper C
+
+GUI_Desc_BoltTighten=Vặn chặt bu lông
+GUI_Desc_Unscrew=Tháo xoắn
+!rot_new_turbo = Turbo (ROT A)
+
+GUI_ControllerDisconnected=Vui lòng kết nối lại bộ điều khiển để tiếp tục.
+GUI_ControllerDisconnected_PS4=Vui lòng kết nối lại bộ điều khiển không dây DUALSHOCK®4 để tiếp tục.
+
+UPGdesc_unlock_tablet.1_console=Mở khóa máy tính bảng. Cho phép bạn mua linh kiện ở bất kỳ đâu trong ga ra.
+
+GUI_Desc_ChangeUser = để thay đổi người dùng
+GUI_Desc_SignedIn = Đăng ký với tư cách là
+
+GUI_Desc_ToStartGame = để bắt đầu
+
+GUI_GameDesc=Xây dựng và mở rộng đế chế dịch vụ sửa chữa của bạn trong trò chơi mô phỏng cực kỳ chi tiết và có độ chân thực cao này, nơi mà sự chú ý đến chi tiết xe là điều đáng kinh ngạc. Tìm xe cổ điển , độc đáo trong mô-đun Barn Find mới và mô-đun Junkyard.
+
+GUI_NoSpaceInventory=Không có chỗ trống trong kho
+GUI_NoSpaceWarehouse=Không có chỗ trống trong kho hàng
+
+GUI_Loading=Vui lòng không tắt bảng điều khiển
+GUI_LoadingPS4=Vui lòng không tắt hệ thống PlayStation®4
+
+!bench_lx550 = ^BenchName LX550
+!t_rot_new_turbo = ^!rot_new_turbo
+
+//RAM
+!engine_v8_345_4x4 = V8 HEMI B 4x4
+!engine_v8_345 = V8 HEMI B
+!v8_345_blok=Khối động cơ (V8 OHV L)
+!v8_345_gearbox=Hộp số (V8 OHV L)
+!v8_345_kolektor_dolotowy=Ống nạp (V8 OHV L)
+!v8_345_oslona=Nắp động cơ (V8 OHV L)
+!v8_345_oslona_rozrzadu=Nắp truyền động (V8 OHV L)
+!v8_345_pasek=Đai uống khúc (V8 OHV L)
+!v8_345_pompa_wody=Máy bơm (V8 OHV L)
+!w_v8_345_poczatkowy_ram3500=Đoạn ống xả trước (V8 OHV L)
+!w_v8_345_srodkowy_ram3500=Ống bô giữa (V8 OHV L)
+!w_v8_345_koncowy_ram3500=Ống bô sau (V8 OHV L)
+!bench_ram3500=^BenchName 3500
+!seat_ram3500=^SeatName 3500
+!steering_wheel_ram3500=^SteeringWheelName 3500
+!seat_ram3500=^SeatName 3500
+!seat_srt10=^SeatName SRT10
+!steering_wheel_srt10=^SteeringWheelName SRT10
+!rim_ramsrt-10=^RimName SRT10
+!rim_ram3500_b=^RimName 3500 A
+!rim_ram3500=^RimName 3500 B
+!v10_3_listwa_wtryskowa=Đường nhiên liệu (V10 B)
+!v10_3_glowica_1=Đầu động cơ A (V10 B)
+!v10_3_filtr_dol=Thân bộ lọc khí (V10 B)
+!v10_3_pokrywa_glowicy_2=Nắp đầu động cơ B (V10 B)
+!v10_3_cewka=Cuộn đánh lửa Pack (V10 B)
+!v10_3_glowica_2=Đầu động cơ B (V10 B)
+!v10_3_pokrywa_glowicy_1=Nắp đầu động cơ A (V10 B)
+!v10_3_filtr_gora=Nắp bộ lọc khí (V10 B)
+!v10_3_kolektor_dolotowy=Ống nạp (V10 B)
+!v10_3_kable=Dây đánh lửa (V10 B)
+!w_v10_3_mod_koncowy_ramsrt10=Ống bô sau (V10 B)
+!w_v10_3_mod_poczatkowy_ramsrt10=Đoạn ống xả trước (V10 B)
+!w_v10_3_mod_srodkowy_ramsrt10=Ống bô giữa (V10 B)
+!walNapedowy_8=Trục truyền động trước H
+!v10_3_gearbox=Hộp số (V10 B)
+!engine_v10_3=V10 OHV B
+
+!t_v10_3_cewka=^!v10_3_cewka
+!t_v10_3_gearbox=^!v10_3_gearbox
+!t_v10_3_glowica_1=^!v10_3_glowica_1
+!t_v10_3_glowica_2=^!v10_3_glowica_2
+!t_v10_3_kable=^!v10_3_kable
+!t_v10_3_kolektor_dolotowy=^!v10_3_kolektor_dolotowy
+!t_v10_3_listwa_wtryskowa=^!v10_3_listwa_wtryskowa
+!t_v8_345_gearbox=^!v8_345_gearbox
+!t_v8_345_kolektor_dolotowy=^!v8_345_kolektor_dolotowy
+!t_w_v10_3_mod_koncowy_ramsrt10=^!w_v10_3_mod_koncowy_ramsrt10
+!t_w_v10_3_mod_poczatkowy_ramsrt10=^!w_v10_3_mod_poczatkowy_ramsrt10
+!t_w_v10_3_mod_srodkowy_ramsrt10=^!w_v10_3_mod_srodkowy_ramsrt10
+!t_w_v8_345_koncowy_ram3500=^!w_v8_345_koncowy_ram3500
+!t_w_v8_345_poczatkowy_ram3500=^!w_v8_345_poczatkowy_ram3500
+!t_w_v8_345_srodkowy_ram3500=^!w_v8_345_srodkowy_ram3500
+
+//Rims PACK
+!rim_105=^RimName 1
+!rim_105_1=^RimName 1A
+!rim_106=^RimName 2
+!rim_106_1=^RimName 2A
+!rim_107=^RimName 3
+!rim_107_1=^RimName 3A
+!rim_108=^RimName 4
+!rim_108_1=^RimName 4A
+!rim_109=^RimName 5
+!rim_109_1=^RimName 5A
+!rim_110=^RimName 6
+!rim_110_1=^RimName 6A
+!rim_111=^RimName 7
+!rim_111_1=^RimName 7A
+!rim_112=^RimName 8
+!rim_112_1=^RimName 8A
+!rim_113=^RimName 9
+!rim_113_1=^RimName 9A
+!rim_114=^RimName 10
+!rim_114_1=^RimName 10A
+!rim_115=^RimName 11
+!rim_115_1=^RimName 11A
+!rim_116=^RimName 12
+!rim_116_1=^RimName 12a
+!rim_117=^RimName 13
+!rim_117_1=^RimName 13A
+!rim_118=^RimName 14
+!rim_118_1=^RimName 14A
+!rim_119=^RimName 15
+!rim_119_1=^RimName 15A
+!rim_120=^RimName 16
+!rim_120_1=^RimName 16A
+!rim_121=^RimName 17
+!rim_121_1=^RimName 17A
+!rim_122=^RimName 18
+!rim_122_1=^RimName 18A 
+!rim_123=^RimName 19
+!rim_124=^RimName 20
+!rim_125=^RimName 21
+!rim_125_1=^RimName 21A
+!rim_126=^RimName 22
+!rim_126_1=^RimName 22A
+!rim_127=^RimName 23
+!rim_127_1=^RimName 23A
+!rim_128=^RimName 24
+!rim_128_1=^RimName 24A
+!rim_129=^RimName 25
+!rim_129_1=^RimName 25A
+!rim_130=^RimName 26
+!rim_130_1=^RimName 26A
+!rim_131=^RimName 27
+!rim_131_1=^RimName 27A
+!rim_132=^RimName 28
+!rim_132_1=^RimName 28A
+!rim_133=^RimName 29
+!rim_133_1=^RimName 29A
+!rim_134=^RimName 30
+!rim_134_1=^RimName 30A
+!rim_135=^RimName 31
+!rim_135_1=^RimName 31A
+!rim_136=^RimName 32
+!rim_136_1=^RimName 32A
+!rim_137=^RimName 33
+!rim_137_1=^RimName 33A
+!rim_138=^RimName 34
+!rim_138_1=^RimName 34A
+!rim_139=^RimName 35
+!rim_139_1=^RimName 35A
+!rim_140=^RimName 36
+!rim_140_1=^RimName 36A
+!rim_141=^RimName 37
+!rim_141_1=^RimName 37A
+!rim_142=^RimName 38
+!rim_143=^RimName 39
+!rim_144=^RimName 40
+!rim_144_1=^RimName 40A
+!rim_145=^RimName 41
+!rim_145_1=^RimName 41A
+
+DlcMissingSave = Phiên bản lưu không tương thích. DLC bắt buộc ({0}) bị hỏng.
+
+///Mercedes=
+!engine_v8_m119=V8 DOHC M119
+!v8_m119_blok=Khối động cơ (V8 M119)
+!v8_m119_glowica_1=Đầu động cơ A (V8 M119)
+!v8_m119_pokrywa_glowicy_2=Nắp đầu động cơ B (V8 M119)
+!v8_m119_rolka_walka_1=Bánh răng Cam A (V8 M119)
+!v8_m119_filtr_srodek=Bộ lọc khí (V8 M119)
+!v8_m119_pompaWspomagania=Bơm trợ lực lái (V8 M119)
+!v8_m119_rolkaWalka_3=Bánh răng Cam C (V8 M119)
+!v8_m119_przepustnica=Bướm ga (V8 M119)
+!v8_m119_oslona_rozrzadu_2=Nắp truyền động B (V8 M119)
+!v8_m119_miska_olejowa=Chảo dầu (V8 M119)
+!v8_m119_rolka_walka_2=Bánh răng Cam B (V8 M119)
+!v8_m119_pompaWody=Máy bơm (V8 M119)
+!v8_m119_slizg_1=Móng căn dây xích A (V8 M119)
+!v8_m119_filtr_gora=Nắp bộ lọc khí (V8 M119)
+!v8_m119_walKorbowy=Trục khuỷu (V8 M119)
+!v8_m119_pokrywa_cewek_1=Nắp cuộn đánh lửa A (V8 M119)
+!v8_m119_glowica_2=Đầu động cơ B (V8 M119)
+!v8_m119_gearbox=Hộp số (V8 M119)
+!v8_m119_wspornik=Arm A (V8 M119)
+!v8_m119_slizg_2=Móng căn dây xích B (V8 M119)
+!v8_m119_walek_rozrzadu_2=Trục cam B (V8 M119)
+!v8_m119_kolektor_wydechowy=Ống xả đa dụng (V8 M119)
+!v8_m119_pokrywa_glowicy_1=Nắp đầu động cơ A (V8 M119)
+!v8_m119_rolka_wspornika=Ròng rọc quạt (V8 M119)
+!v8_m119_filtr_dol=Thân bộ lọc khí (V8 M119)
+!v8_m119_pasek_2=Đai uống khúc B (V8 M119)
+!v8_m119_pokrywa_cewek_2=Nắp cuộn đánh lửa B (V8 M119)
+!v8_m119_kolektor_dolotowy=Ống nạp (V8 M119)
+!v8_m119_pasek_1=Đai uống khúc A (V8 M119)
+!v8_m119_walek_rozrzadu_1=Trục cam A (V8 M119)
+!v8_m119_oslona_rozrzadu_1=Nắp truyền động A (V8 M119)
+!v8_m119_listwa_wtryskowa=Đường nhiên liệu (V8 M119)
+!v8_m119_glowica_wkladka=Nắp trục cam (V8 M119)
+=
+!engine_v8_m159=V8 DOHC M159
+!v8_m159_filtr_gora=Nắp bộ lọc khí (V8 M159)
+!v8_m159_glowica_wkladka=Nắp trục cam (V8 M159)
+!v8_m159_filtr_dol=Thân bộ lọc khí (V8 M159)
+!v8_m159_kolektor_dolotowy=Ống nạp (V8 M159)
+!v8_m159_gearbox=Hộp số (V8 M159)
+!v8_m159_oslona_kolektora_gora=Nắp trên thông khí (V8 M159)
+!v8_m159_oslona_kolektora_przod=Nắp thông khí trước (V8 M159)
+!v8_m159_filtr_srodek=Bộ lọc khí (V8 M159)
+!v8_m159_miska_olejowa=Chảo dầu (V8 M159)
+!v8_m159_kolektor_wydechowy=Ống xả đa dụng (V8 M159)
+!v8_m159_oslona_rozrzadu=Nắp truyền động (V8 M159)
+!v8_m159_pasek_1=Đai uống khúc A (V8 M159)
+!v8_m159_pokrywa_glowicy_1=Nắp đầu động cơ A (V8 M159)
+!v8_m159_glowica_2=Đầu động cơ B (V8 M159)
+!v8_m159_oslona_kolektora_dol=Thông khí cơ bản (V8 M159)
+!v8_m159_glowica_1=Đầu động cơ A (V8 M159)
+!v8_m159_blok=Khối động cơ (V8 M159)
+!v8_m159_lancuch_1=Dây xích truyền động A (V8 M159)
+!v8_m159_pokrywa_glowicy_2=Nắp đầu động cơ B (V8 M159)
+!v8_m159_pompa_wody=Máy bơm (V8 M159)
+!v8_m159_pompa_wspomagania=Bơm trợ lực lái (V8 M159)
+!v8_m159_lancuch_2=Dây xích truyền động B (V8 M159)
+!v8_m159_listwa_wtryskowa=Đường nhiên liệu (V8 M159)
+!v8_m159_przepustnica=Bướm ga (V8 M159)
+!v8_m159_rolka_walka=Bánh răng Cam (V8 M159)
+!v8_m159_slizg_1=Móng căn dây xích A (V8 M159)
+!v8_m159_slizg_2=Móng căn dây xích B (V8 M159)
+!v8_m159_slizg_3=Móng căn dây xích C (V8 M159)
+!v8_m159_walek_rozrzadu_1=Trục cam (V8 M159)
+!v8_m159_walKorbowy=Trục khuỷu (V8 M159)
+!v8_m159_zbiornik_oleju=Thùng chứa dầu (V8 M159)
+!v8_m159_wal=Trục truyền động (V8 M159)
+=
+!engine_r6_m130=I6 M130
+!r6_m130_lancuch=Dây xích truyền động (I6 M130)
+!r6_m130_walKorbowy=Trục khuỷu (I6 M130)
+!r6_m130_pasek_1=Đai uống khúc A (I6 M130)
+!r6_m130_dzwignia_zaworu=Tay Rocker (I6 M130)
+!r6_m130_pompa_wody=Máy bơm (I6 M130)
+!r6_m130_kolektor_dolotowy=Ống nạp (I6 M130)
+!r6_m130_filtr_dol=Thân bộ lọc khí (I6 M130)
+!r6_m130_pasek_2=Đai uống khúc B (I6 M130)
+!r6_m130_rolka_lancucha=Dây xích truyền động Sprocket (I6 M130)
+!r6_m130_glowica=Đầu động cơ (I6 M130)
+!r6_m130_pokrywa_glowicy=Nắp đầu động cơ (I6 M130)
+!r6_m130_kable=Dây đánh lửa (I6 M130)
+!r6_m130_kolektor_wydechowy=Ống xả đa dụng (I6 M130)
+!r6_m130_blok=Khối động cơ (I6 M130)
+!r6_m130_gearbox=Hộp số (I6 M130)
+!r6_m130_filtr_gora=Nắp bộ lọc khí (I6 M130)
+!r6_m130_walek_rozrzadu=Trục cam (I6 M130)
+!r6_m130_glowica_wkladka=Nắp trục cam (I6 M130)
+!r6_m130_oslona_rolki=Bộ đánh lửa cơ bản (I6 M130)
+!r6_m130_wtrysk=Phun nhiên liệu cơ học (I6 M130)
+!r6_m130_miska_olejowa=Chảo dầu (I6 M130)
+!r6_m130_filtr_srodek=Bộ lọc khí (I6 M130)
+
+!bench_500e=^BenchName 500E
+!seat_500e=^SeatName 500E
+!seat_pagoda=^SeatName Pagoda
+!seat_sls=^SeatName SLS
+!steering_wheel_500e=^SteeringWheelName 500E
+!steering_wheel_pagoda=^SteeringWheelName Pagoda
+!steering_wheel_sls=^SteeringWheelName SLS
+!rim_mercedes_benz_sls_amg=^RimName Mercedes SLS A
+!rim_mercedes_benz_sls_amg_1=^RimName Mercedes SLS B
+!rim_mercedes_benz_500e=^RimName Mercedes 500E
+!rim_mercedes_benz_pagoda=^RimName Mercedes Pagoda
+
+!w_v8_m119_koncowy_500e=Ống bô sau (V8 M119)
+!w_v8_m119_poczatkowy_500e=Ống xả trước (V8 M119)
+!w_v8_m159_koncowy_slsamg=Ống bô sau (V8 M159)
+!w_v8_m159_poczatkowy_slsamg=Ống xả trước (V8 M159)
+!w_r6_m130_koncowy_pagoda=Ống bô sau (I6 M130)
+!w_r6_m130_poczatkowy_pagoda=Ống xả trước (I6 M130)
+!sankiPrzod_8=^!sankiPrzod_1 G
+
+!engine_i4_l134_rwd=I4 RWD
+!engine_r4_rwd=I4 DOHC AQC RWD
