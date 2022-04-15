@@ -14,9 +14,9 @@ Cài đặt trò chơi Car Mechanic Simulator 2018 Mercedes Benz và chạy th�
 
 Đề nghị mua trò chơi để ủng hộ nhà sản xuất.
 
-## Phiên bản yêu cầu: 44290
+## Phiên bản yêu cầu: 1.6.3
 
-Mình dịch trên phiên bản 44290 nên có thể không chạy hoặc có lỗi trên phiên bản khác
+Mình dịch trên phiên bản 1.6.3 nên có thể không chạy hoặc có lỗi trên phiên bản khác
 
 ## Cài đặt Addons
 
